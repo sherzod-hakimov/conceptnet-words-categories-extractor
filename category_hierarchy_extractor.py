@@ -10,7 +10,7 @@ from typing import Dict, List, Set, Optional
 # CONFIGURATION
 # -------------------------------------------------------------------
 # Path to the ConceptNet 5.7 assertions file
-CONCEPTNET_FILE = '/Users/sherzodhakimov/Downloads/conceptnet-assertions-5.7.0.csv.gz'
+CONCEPTNET_FILE = 'conceptnet-assertions-5.7.0.csv.gz'
 
 # Source language
 SOURCE_LANG = 'en'
