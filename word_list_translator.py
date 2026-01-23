@@ -15,24 +15,18 @@ CONCEPTNET_FILE = 'conceptnet-assertions-5.7.0.csv.gz'
 SOURCE_LANG = 'en'
 
 # Target languages to extract translations for
-TARGET_LANGS = ['fr', 'es', 'de', 'it', 'ja', 'zh', 'ru', 'ar']
+TARGET_LANGS = ['es', 'de', 'it']
 
 # Word list to translate (example: common objects and concepts)
 WORD_LIST = [
-    'cat', 'dog', 'house', 'car', 'tree', 'water', 'food', 'book',
-    'computer', 'phone', 'table', 'chair', 'door', 'window', 'sun',
-    'moon', 'star', 'flower', 'bird', 'fish', 'mountain', 'river',
-    'city', 'country', 'friend', 'family', 'love', 'time', 'money',
-    'work', 'school', 'student', 'teacher', 'doctor', 'hospital',
-    'restaurant', 'airport', 'train', 'bus', 'bicycle', 'street',
-    'music', 'movie', 'game', 'sport', 'ball', 'team', 'player',
-    'color', 'red', 'blue', 'green', 'yellow', 'black', 'white'
+    'cat', 'dog'
 ]
 
 # Relations to consider for translation
 # /r/Synonym - words with similar meanings across languages
 # /r/TranslationOf - direct translations
 TRANSLATION_RELATIONS = {'/r/Synonym', '/r/TranslationOf'}
+TRANSLATION_RELATIONS = {'/r/TranslationOf'}
 
 # Minimum weight to consider an assertion valid
 MIN_WEIGHT = 1.0
