@@ -23,6 +23,7 @@ import re
 # Configuration
 # Dictionary with language code, whether to lowercase nouns, and Wordle word length
 LANGUAGES = {
+    'ar': {'name': 'Arabic', 'lowercase': True, 'word_length': 5},
     'bg': {'name': 'Bulgarian', 'lowercase': True, 'word_length': 5},
     'cs': {'name': 'Czech', 'lowercase': True, 'word_length': 5},
     'da': {'name': 'Danish', 'lowercase': True, 'word_length': 5},
@@ -54,6 +55,7 @@ LANGUAGES = {
 
 # Mapping from ISO 639-1 codes to UD treebank folder prefixes
 LANGUAGE_MAPPING = {
+    'ar': 'UD_Arabic',
     'bg': 'UD_Bulgarian',
     'cs': 'UD_Czech',
     'da': 'UD_Danish',
