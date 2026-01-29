@@ -49,7 +49,7 @@ LANGUAGES = {
     'sl': {'name': 'Slovenian', 'lowercase': True, 'word_length': 5},
     'sv': {'name': 'Swedish', 'lowercase': True, 'word_length': 5},
     'tr': {'name': 'Turkish', 'lowercase': True, 'word_length': 5},
-    'zh_cn': {'name': 'Chinese', 'lowercase': True, 'word_length': 2},  # Chinese uses characters
+    'ur': {'name': 'Urdu', 'lowercase': True, 'word_length': 5}
 }
 
 # Mapping from ISO 639-1 codes to UD treebank folder prefixes
@@ -80,7 +80,7 @@ LANGUAGE_MAPPING = {
     'sl': 'UD_Slovenian',
     'sv': 'UD_Swedish',
     'tr': 'UD_Turkish',
-    'zh_cn': 'UD_Chinese',
+    'ur': 'UD_Urdu'
 }
 
 # UD download URL
@@ -296,7 +296,7 @@ def extract_nouns_from_tgz(tgz_path, lang_code):
     return noun_counter
 
 
-def save_wordle_words(noun_counter, lang_code, output_dir='wordle_words'):
+def save_wordle_words(noun_counter, lang_code, output_dir='resources'):
     """
     Save Wordle words to easy_words.txt and medium_words.txt files.
     
