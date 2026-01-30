@@ -1,0 +1,282 @@
+[
+  {
+    "target_word": "وقت",
+    "related_word": [
+      "گھڑی",
+      "لمحہ",
+      "زمانہ"
+    ],
+    "target_word_stem": "وقت",
+    "related_word_stem": [
+      "گھڑی",
+      "لمحہ",
+      "زمانہ"
+    ]
+  },
+  {
+    "target_word": "آدمی",
+    "related_word": [
+      "مرد",
+      "انسان",
+      "شوہر"
+    ],
+    "target_word_stem": "آدمی",
+    "related_word_stem": [
+      "مرد",
+      "انسان",
+      "شوہر"
+    ]
+  },
+  {
+    "target_word": "عورت",
+    "related_word": [
+      "خاتون",
+      "بیوی",
+      "ماں"
+    ],
+    "target_word_stem": "عورت",
+    "related_word_stem": [
+      "خاتون",
+      "بیوی",
+      "ماں"
+    ]
+  },
+  {
+    "target_word": "پانی",
+    "related_word": [
+      "پیاس",
+      "دریا",
+      "بارش"
+    ],
+    "target_word_stem": "پانی",
+    "related_word_stem": [
+      "پیاس",
+      "دریا",
+      "بارش"
+    ]
+  },
+  {
+    "target_word": "سورج",
+    "related_word": [
+      "دھوپ",
+      "آسمان",
+      "گرمی"
+    ],
+    "target_word_stem": "سورج",
+    "related_word_stem": [
+      "دھوپ",
+      "آسمان",
+      "گرمی"
+    ]
+  },
+  {
+    "target_word": "چاند",
+    "related_word": [
+      "رات",
+      "ستارہ",
+      " روشنی"
+    ],
+    "target_word_stem": "چاند",
+    "related_word_stem": [
+      "رات",
+      "ستارہ",
+      " روشنی"
+    ]
+  },
+  {
+    "target_word": "دن",
+    "related_word": [
+      "رات",
+      "صبح",
+      "تاریخ"
+    ],
+    "target_word_stem": "دن",
+    "related_word_stem": [
+      "رات",
+      "صبح",
+      "تاریخ"
+    ]
+  },
+  {
+    "target_word": "گھر",
+    "related_word": [
+      "مکان",
+      "خاندان",
+      "کمرہ"
+    ],
+    "target_word_stem": "گھر",
+    "related_word_stem": [
+      "مکان",
+      "خاندان",
+      "کمرہ"
+    ]
+  },
+  {
+    "target_word": "گاڑی",
+    "related_word": [
+      "سفر",
+      "سڑک",
+      "پہیہ"
+    ],
+    "target_word_stem": "گاڑی",
+    "related_word_stem": [
+      "سفر",
+      "سڑک",
+      "پہیہ"
+    ]
+  },
+  {
+    "target_word": "کتاب",
+    "related_word": [
+      "پڑھائی",
+      "کاغذ",
+      "قلم"
+    ],
+    "target_word_stem": "کتاب",
+    "related_word_stem": [
+      "پڑھائی",
+      "کاغذ",
+      "قلم"
+    ]
+  },
+  {
+    "target_word": "کام",
+    "related_word": [
+      "نوکری",
+      "محنت",
+      "دفتر"
+    ],
+    "target_word_stem": "کام",
+    "related_word_stem": [
+      "نوکری",
+      "محنت",
+      "دفتر"
+    ]
+  },
+  {
+    "target_word": "پیسہ",
+    "related_word": [
+      "بینک",
+      "دولت",
+      "خریداری"
+    ],
+    "target_word_stem": "پیسہ",
+    "related_word_stem": [
+      "بینک",
+      "دولت",
+      "خریداری"
+    ]
+  },
+  {
+    "target_word": "سکول",
+    "related_word": [
+      "طالب علم",
+      "استاد",
+      "کلاس"
+    ],
+    "target_word_stem": "سکول",
+    "related_word_stem": [
+      "طالب علم",
+      "استاد",
+      "کلاس"
+    ]
+  },
+  {
+    "target_word": "ہاتھ",
+    "related_word": [
+      "انگلی",
+      "جسم",
+      "بازو"
+    ],
+    "target_word_stem": "ہاتھ",
+    "related_word_stem": [
+      "انگلی",
+      "جسم",
+      "بازو"
+    ]
+  },
+  {
+    "target_word": "آنکھ",
+    "related_word": [
+      "نظر",
+      "چہرہ",
+      "آنسو"
+    ],
+    "target_word_stem": "آنکھ",
+    "related_word_stem": [
+      "نظر",
+      "چہرہ",
+      "آنسو"
+    ]
+  },
+  {
+    "target_word": "دل",
+    "related_word": [
+      "محبت",
+      "خون",
+      "دھڑکن"
+    ],
+    "target_word_stem": "دل",
+    "related_word_stem": [
+      "محبت",
+      "خون",
+      "دھڑکن"
+    ]
+  },
+  {
+    "target_word": "کھانا",
+    "related_word": [
+      "روٹی",
+      "بھوک",
+      "باورچی"
+    ],
+    "target_word_stem": "کھانا",
+    "related_word_stem": [
+      "روٹی",
+      "بھوک",
+      "باورچی"
+    ]
+  },
+  {
+    "target_word": "دوست",
+    "related_word": [
+      "یار",
+      "دشمن",
+      "مدد"
+    ],
+    "target_word_stem": "دوست",
+    "related_word_stem": [
+      "یار",
+      "دشمن",
+      "مدد"
+    ]
+  },
+  {
+    "target_word": "شہر",
+    "related_word": [
+      "بازار",
+      "آبادی",
+      "گاوں"
+    ],
+    "target_word_stem": "شہر",
+    "related_word_stem": [
+      "بازار",
+      "آبادی",
+      "گاوں"
+    ]
+  },
+  {
+    "target_word": "باپ",
+    "related_word": [
+      "ابو",
+      "بیٹا",
+      "والد"
+    ],
+    "target_word_stem": "باپ",
+    "related_word_stem": [
+      "ابو",
+      "بیٹا",
+      "والد"
+    ]
+  }
+]

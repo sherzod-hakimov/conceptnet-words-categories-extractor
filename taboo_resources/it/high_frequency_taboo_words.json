@@ -1,0 +1,702 @@
+[
+  {
+    "target_word": "casa",
+    "related_word": [
+      "appartamento",
+      "abitazione",
+      "commercio"
+    ],
+    "target_word_stem": "casa",
+    "related_word_stem": [
+      "appartamento",
+      "abitazione",
+      "commercio"
+    ]
+  },
+  {
+    "target_word": "tempo",
+    "related_word": [
+      "maltempo",
+      "epoca",
+      "grammatica"
+    ],
+    "target_word_stem": "tempo",
+    "related_word_stem": [
+      "maltempo",
+      "epoca",
+      "grammatica"
+    ]
+  },
+  {
+    "target_word": "cosa",
+    "related_word": [
+      "capo",
+      "che",
+      "causa"
+    ],
+    "target_word_stem": "cosa",
+    "related_word_stem": [
+      "capo",
+      "che",
+      "causa"
+    ]
+  },
+  {
+    "target_word": "parte",
+    "related_word": [
+      "imparzialità",
+      "canto",
+      "partire"
+    ],
+    "target_word_stem": "parte",
+    "related_word_stem": [
+      "imparzialità",
+      "canto",
+      "partire"
+    ]
+  },
+  {
+    "target_word": "anno",
+    "related_word": [
+      "annata",
+      "primavera",
+      "anni"
+    ],
+    "target_word_stem": "anno",
+    "related_word_stem": [
+      "annata",
+      "primavera",
+      "anni"
+    ]
+  },
+  {
+    "target_word": "lavoro",
+    "related_word": [
+      "disoccupato",
+      "impiego",
+      "lavoraccio"
+    ],
+    "target_word_stem": "lavoro",
+    "related_word_stem": [
+      "disoccupato",
+      "impiego",
+      "lavoraccio"
+    ]
+  },
+  {
+    "target_word": "uomo",
+    "related_word": [
+      "maschile",
+      "politico",
+      "animale"
+    ],
+    "target_word_stem": "uomo",
+    "related_word_stem": [
+      "maschile",
+      "politico",
+      "animale"
+    ]
+  },
+  {
+    "target_word": "padre",
+    "related_word": [
+      "genitore",
+      "babbo",
+      "parentela"
+    ],
+    "target_word_stem": "padre",
+    "related_word_stem": [
+      "genitore",
+      "babbo",
+      "parentela"
+    ]
+  },
+  {
+    "target_word": "bisogno",
+    "related_word": [
+      "bisognare",
+      "necessità",
+      "bisognevole"
+    ],
+    "target_word_stem": "bisogno",
+    "related_word_stem": [
+      "bisognare",
+      "necessità",
+      "bisognevole"
+    ]
+  },
+  {
+    "target_word": "amico",
+    "related_word": [
+      "amica",
+      "amicale",
+      "amare"
+    ],
+    "target_word_stem": "amico",
+    "related_word_stem": [
+      "amica",
+      "amicale",
+      "amare"
+    ]
+  },
+  {
+    "target_word": "signore",
+    "related_word": [
+      "signora",
+      "gesummaria",
+      "signor"
+    ],
+    "target_word_stem": "signore",
+    "related_word_stem": [
+      "signora",
+      "gesummaria",
+      "signor"
+    ]
+  },
+  {
+    "target_word": "madre",
+    "related_word": [
+      "genitore",
+      "genitrice",
+      "parentela"
+    ],
+    "target_word_stem": "madre",
+    "related_word_stem": [
+      "genitore",
+      "genitrice",
+      "parentela"
+    ]
+  },
+  {
+    "target_word": "successo",
+    "related_word": [
+      "succedere",
+      "consenso",
+      "insuccesso"
+    ],
+    "target_word_stem": "successo",
+    "related_word_stem": [
+      "succedere",
+      "consenso",
+      "insuccesso"
+    ]
+  },
+  {
+    "target_word": "mamma",
+    "related_word": [
+      "babbo",
+      "madre",
+      "mammifero"
+    ],
+    "target_word_stem": "mamma",
+    "related_word_stem": [
+      "babbo",
+      "madre",
+      "mammifero"
+    ]
+  },
+  {
+    "target_word": "momento",
+    "related_word": [
+      "momentaccio",
+      "attimo",
+      "istante"
+    ],
+    "target_word_stem": "momento",
+    "related_word_stem": [
+      "momentaccio",
+      "attimo",
+      "istante"
+    ]
+  },
+  {
+    "target_word": "favore",
+    "related_word": [
+      "favoreggiare",
+      "beneficio",
+      "antipatia"
+    ],
+    "target_word_stem": "favore",
+    "related_word_stem": [
+      "favoreggiare",
+      "beneficio",
+      "antipatia"
+    ]
+  },
+  {
+    "target_word": "tipo",
+    "related_word": [
+      "tipia",
+      "personaggio",
+      "sottotipo"
+    ],
+    "target_word_stem": "tipo",
+    "related_word_stem": [
+      "tipia",
+      "personaggio",
+      "sottotipo"
+    ]
+  },
+  {
+    "target_word": "idea",
+    "related_word": [
+      "ideale",
+      "nozione",
+      "ideare"
+    ],
+    "target_word_stem": "idea",
+    "related_word_stem": [
+      "ideale",
+      "nozione",
+      "ideare"
+    ]
+  },
+  {
+    "target_word": "ragazzo",
+    "related_word": [
+      "bambino",
+      "figliolo",
+      "ragazzata"
+    ],
+    "target_word_stem": "ragazzo",
+    "related_word_stem": [
+      "bambino",
+      "figliolo",
+      "ragazzata"
+    ]
+  },
+  {
+    "target_word": "caso",
+    "related_word": [
+      "casualità",
+      "coincidenza",
+      "casualmente"
+    ],
+    "target_word_stem": "caso",
+    "related_word_stem": [
+      "casualità",
+      "coincidenza",
+      "casualmente"
+    ]
+  },
+  {
+    "target_word": "figlio",
+    "related_word": [
+      "affiliare",
+      "bambino",
+      "discendente"
+    ],
+    "target_word_stem": "figlio",
+    "related_word_stem": [
+      "affiliare",
+      "bambino",
+      "discendente"
+    ]
+  },
+  {
+    "target_word": "gente",
+    "related_word": [
+      "gentile",
+      "persona",
+      "gentilesco"
+    ],
+    "target_word_stem": "gente",
+    "related_word_stem": [
+      "gentile",
+      "persona",
+      "gentilesco"
+    ]
+  },
+  {
+    "target_word": "soldo",
+    "related_word": [
+      "soldi",
+      "denaro",
+      "soldato"
+    ],
+    "target_word_stem": "soldo",
+    "related_word_stem": [
+      "soldi",
+      "denaro",
+      "soldato"
+    ]
+  },
+  {
+    "target_word": "nome",
+    "related_word": [
+      "cognome",
+      "reputazione",
+      "noma"
+    ],
+    "target_word_stem": "nome",
+    "related_word_stem": [
+      "cognome",
+      "reputazione",
+      "noma"
+    ]
+  },
+  {
+    "target_word": "problema",
+    "related_word": [
+      "problematica",
+      "inconveniente",
+      "problematico"
+    ],
+    "target_word_stem": "problema",
+    "related_word_stem": [
+      "problematica",
+      "inconveniente",
+      "problematico"
+    ]
+  },
+  {
+    "target_word": "faccia",
+    "related_word": [
+      "fare",
+      "viso",
+      "affacciare"
+    ],
+    "target_word_stem": "faccia",
+    "related_word_stem": [
+      "fare",
+      "viso",
+      "affacciare"
+    ]
+  },
+  {
+    "target_word": "donna",
+    "related_word": [
+      "bambina",
+      "colf",
+      "persona"
+    ],
+    "target_word_stem": "donna",
+    "related_word_stem": [
+      "bambina",
+      "colf",
+      "persona"
+    ]
+  },
+  {
+    "target_word": "ragione",
+    "related_word": [
+      "ragionamento",
+      "motivo",
+      "ragionevole"
+    ],
+    "target_word_stem": "ragione",
+    "related_word_stem": [
+      "ragionamento",
+      "motivo",
+      "ragionevole"
+    ]
+  },
+  {
+    "target_word": "testa",
+    "related_word": [
+      "teste",
+      "capo",
+      "testiera"
+    ],
+    "target_word_stem": "testa",
+    "related_word_stem": [
+      "teste",
+      "capo",
+      "testiera"
+    ]
+  },
+  {
+    "target_word": "notte",
+    "related_word": [
+      "iernotte",
+      "giorno",
+      "buonanotte"
+    ],
+    "target_word_stem": "notte",
+    "related_word_stem": [
+      "iernotte",
+      "giorno",
+      "buonanotte"
+    ]
+  },
+  {
+    "target_word": "moglie",
+    "related_word": [
+      "marito",
+      "compagna",
+      "matrimonio"
+    ],
+    "target_word_stem": "moglie",
+    "related_word_stem": [
+      "marito",
+      "compagna",
+      "matrimonio"
+    ]
+  },
+  {
+    "target_word": "polizia",
+    "related_word": [
+      "agente",
+      "pula",
+      "cellulare"
+    ],
+    "target_word_stem": "polizia",
+    "related_word_stem": [
+      "agente",
+      "pula",
+      "cellulare"
+    ]
+  },
+  {
+    "target_word": "fine",
+    "related_word": [
+      "finale",
+      "capo",
+      "finezza"
+    ],
+    "target_word_stem": "fine",
+    "related_word_stem": [
+      "finale",
+      "capo",
+      "finezza"
+    ]
+  },
+  {
+    "target_word": "paura",
+    "related_word": [
+      "impaurire",
+      "timore",
+      "paure"
+    ],
+    "target_word_stem": "paura",
+    "related_word_stem": [
+      "impaurire",
+      "timore",
+      "paure"
+    ]
+  },
+  {
+    "target_word": "capo",
+    "related_word": [
+      "capodanno",
+      "testa",
+      "governo"
+    ],
+    "target_word_stem": "capo",
+    "related_word_stem": [
+      "capodanno",
+      "testa",
+      "governo"
+    ]
+  },
+  {
+    "target_word": "macchina",
+    "related_word": [
+      "macchinale",
+      "auto",
+      "veicolo"
+    ],
+    "target_word_stem": "macchina",
+    "related_word_stem": [
+      "macchinale",
+      "auto",
+      "veicolo"
+    ]
+  },
+  {
+    "target_word": "sera",
+    "related_word": [
+      "iersera",
+      "serata",
+      "giorno"
+    ],
+    "target_word_stem": "sera",
+    "related_word_stem": [
+      "iersera",
+      "serata",
+      "giorno"
+    ]
+  },
+  {
+    "target_word": "bambino",
+    "related_word": [
+      "bambina",
+      "fanciullo",
+      "parentela"
+    ],
+    "target_word_stem": "bambino",
+    "related_word_stem": [
+      "bambina",
+      "fanciullo",
+      "parentela"
+    ]
+  },
+  {
+    "target_word": "colpa",
+    "related_word": [
+      "colpabile",
+      "mancanza",
+      "colpe"
+    ],
+    "target_word_stem": "colpa",
+    "related_word_stem": [
+      "colpabile",
+      "mancanza",
+      "colpe"
+    ]
+  },
+  {
+    "target_word": "punto",
+    "related_word": [
+      "pungere",
+      "puntosi",
+      "punta"
+    ],
+    "target_word_stem": "punto",
+    "related_word_stem": [
+      "pungere",
+      "puntosi",
+      "punta"
+    ]
+  },
+  {
+    "target_word": "amore",
+    "related_word": [
+      "amare",
+      "amaggio",
+      "amoreggiare"
+    ],
+    "target_word_stem": "amore",
+    "related_word_stem": [
+      "amare",
+      "amaggio",
+      "amoreggiare"
+    ]
+  },
+  {
+    "target_word": "piacere",
+    "related_word": [
+      "piace",
+      "garbare",
+      "dispiacere"
+    ],
+    "target_word_stem": "piacere",
+    "related_word_stem": [
+      "piace",
+      "garbare",
+      "dispiacere"
+    ]
+  },
+  {
+    "target_word": "merda",
+    "related_word": [
+      "cacca",
+      "merdaio",
+      "escrementi"
+    ],
+    "target_word_stem": "merda",
+    "related_word_stem": [
+      "cacca",
+      "merdaio",
+      "escrementi"
+    ]
+  },
+  {
+    "target_word": "papa",
+    "related_word": [
+      "papale",
+      "pontefice",
+      "papalino"
+    ],
+    "target_word_stem": "papa",
+    "related_word_stem": [
+      "papale",
+      "pontefice",
+      "papalino"
+    ]
+  },
+  {
+    "target_word": "ora",
+    "related_word": [
+      "minuto",
+      "adesso",
+      "tempo"
+    ],
+    "target_word_stem": "ora",
+    "related_word_stem": [
+      "minuto",
+      "adesso",
+      "tempo"
+    ]
+  },
+  {
+    "target_word": "minuto",
+    "related_word": [
+      "ino",
+      "attimo",
+      "ora"
+    ],
+    "target_word_stem": "minuto",
+    "related_word_stem": [
+      "ino",
+      "attimo",
+      "ora"
+    ]
+  },
+  {
+    "target_word": "strada",
+    "related_word": [
+      "autostrada",
+      "cammino",
+      "carraia"
+    ],
+    "target_word_stem": "strada",
+    "related_word_stem": [
+      "autostrada",
+      "cammino",
+      "carraia"
+    ]
+  },
+  {
+    "target_word": "occhio",
+    "related_word": [
+      "adocchiare",
+      "organo",
+      "endoculare"
+    ],
+    "target_word_stem": "occhio",
+    "related_word_stem": [
+      "adocchiare",
+      "organo",
+      "endoculare"
+    ]
+  },
+  {
+    "target_word": "agente",
+    "related_word": [
+      "polizia",
+      "poliziotto",
+      "agenti"
+    ],
+    "target_word_stem": "agente",
+    "related_word_stem": [
+      "polizia",
+      "poliziotto",
+      "agenti"
+    ]
+  },
+  {
+    "target_word": "cuore",
+    "related_word": [
+      "cardiaco",
+      "petto",
+      "organo"
+    ],
+    "target_word_stem": "cuore",
+    "related_word_stem": [
+      "cardiaco",
+      "petto",
+      "organo"
+    ]
+  }
+]

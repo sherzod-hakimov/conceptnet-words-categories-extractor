@@ -1,0 +1,702 @@
+[
+  {
+    "target_word": "lieben",
+    "related_word": [
+      "verehren",
+      "koitieren",
+      "hassen"
+    ],
+    "target_word_stem": "lieben",
+    "related_word_stem": [
+      "verehren",
+      "koitieren",
+      "hassen"
+    ]
+  },
+  {
+    "target_word": "euer",
+    "related_word": [
+      "betreffend",
+      "possessivpronomen",
+      "charakteristisch"
+    ],
+    "target_word_stem": "euer",
+    "related_word_stem": [
+      "betreffend",
+      "possessivpronomen",
+      "charakteristisch"
+    ]
+  },
+  {
+    "target_word": "kriegen",
+    "related_word": [
+      "appropriieren",
+      "bekommen",
+      "fangspiel"
+    ],
+    "target_word_stem": "kriegen",
+    "related_word_stem": [
+      "appropriieren",
+      "bekommen",
+      "fangspiel"
+    ]
+  },
+  {
+    "target_word": "wagen",
+    "related_word": [
+      "attentieren",
+      "auto",
+      "fahrzeug"
+    ],
+    "target_word_stem": "wagen",
+    "related_word_stem": [
+      "attentieren",
+      "auto",
+      "fahrzeug"
+    ]
+  },
+  {
+    "target_word": "jung",
+    "related_word": [
+      "apfelbäumchen",
+      "heranwachsend",
+      "alt"
+    ],
+    "target_word_stem": "jung",
+    "related_word_stem": [
+      "apfelbäumchen",
+      "heranwachsend",
+      "alt"
+    ]
+  },
+  {
+    "target_word": "passen",
+    "related_word": [
+      "durchgehen",
+      "abgeben",
+      "egal"
+    ],
+    "target_word_stem": "passen",
+    "related_word_stem": [
+      "durchgehen",
+      "abgeben",
+      "egal"
+    ]
+  },
+  {
+    "target_word": "klein",
+    "related_word": [
+      "abgrusung",
+      "abatis",
+      "ü"
+    ],
+    "target_word_stem": "klein",
+    "related_word_stem": [
+      "abgrusung",
+      "abatis",
+      "ü"
+    ]
+  },
+  {
+    "target_word": "richtig",
+    "related_word": [
+      "angebracht",
+      "korrekt",
+      "falsch"
+    ],
+    "target_word_stem": "richtig",
+    "related_word_stem": [
+      "angebracht",
+      "korrekt",
+      "falsch"
+    ]
+  },
+  {
+    "target_word": "stimmen",
+    "related_word": [
+      "enthalten",
+      "abstimmen",
+      "passen"
+    ],
+    "target_word_stem": "stimmen",
+    "related_word_stem": [
+      "enthalten",
+      "abstimmen",
+      "passen"
+    ]
+  },
+  {
+    "target_word": "schön",
+    "related_word": [
+      "adrett",
+      "gut",
+      "hässlich"
+    ],
+    "target_word_stem": "schön",
+    "related_word_stem": [
+      "adrett",
+      "gut",
+      "hässlich"
+    ]
+  },
+  {
+    "target_word": "verdammen",
+    "related_word": [
+      "maledeien",
+      "verdammnis",
+      "vermaledeien"
+    ],
+    "target_word_stem": "verdammen",
+    "related_word_stem": [
+      "maledeien",
+      "verdammnis",
+      "vermaledeien"
+    ]
+  },
+  {
+    "target_word": "versuchen",
+    "related_word": [
+      "angler",
+      "probieren",
+      "suchen"
+    ],
+    "target_word_stem": "versuchen",
+    "related_word_stem": [
+      "angler",
+      "probieren",
+      "suchen"
+    ]
+  },
+  {
+    "target_word": "gleichen",
+    "related_word": [
+      "gleich",
+      "entsprechen",
+      "göttingen"
+    ],
+    "target_word_stem": "gleichen",
+    "related_word_stem": [
+      "gleich",
+      "entsprechen",
+      "göttingen"
+    ]
+  },
+  {
+    "target_word": "wetten",
+    "related_word": [
+      "wette",
+      "tippen",
+      "schätzen"
+    ],
+    "target_word_stem": "wetten",
+    "related_word_stem": [
+      "wette",
+      "tippen",
+      "schätzen"
+    ]
+  },
+  {
+    "target_word": "eigen",
+    "related_word": [
+      "abbrandler",
+      "auto",
+      "anbau"
+    ],
+    "target_word_stem": "eigen",
+    "related_word_stem": [
+      "abbrandler",
+      "auto",
+      "anbau"
+    ]
+  },
+  {
+    "target_word": "letzt",
+    "related_word": [
+      "folge",
+      "letzte",
+      "qualität"
+    ],
+    "target_word_stem": "letzt",
+    "related_word_stem": [
+      "folge",
+      "letzte",
+      "qualität"
+    ]
+  },
+  {
+    "target_word": "schlecht",
+    "related_word": [
+      "abgelaufen",
+      "miserabel",
+      "gut"
+    ],
+    "target_word_stem": "schlecht",
+    "related_word_stem": [
+      "abgelaufen",
+      "miserabel",
+      "gut"
+    ]
+  },
+  {
+    "target_word": "falsch",
+    "related_word": [
+      "abweg",
+      "unecht",
+      "richtig"
+    ],
+    "target_word_stem": "falsch",
+    "related_word_stem": [
+      "abweg",
+      "unecht",
+      "richtig"
+    ]
+  },
+  {
+    "target_word": "ganz",
+    "related_word": [
+      "hdgdl",
+      "betriebsbereit",
+      "abrunden"
+    ],
+    "target_word_stem": "ganz",
+    "related_word_stem": [
+      "hdgdl",
+      "betriebsbereit",
+      "abrunden"
+    ]
+  },
+  {
+    "target_word": "stoppen",
+    "related_word": [
+      "abwehr",
+      "anhalten",
+      "annehmen"
+    ],
+    "target_word_stem": "stoppen",
+    "related_word_stem": [
+      "abwehr",
+      "anhalten",
+      "annehmen"
+    ]
+  },
+  {
+    "target_word": "spielen",
+    "related_word": [
+      "spiel",
+      "blasen",
+      "musizieren"
+    ],
+    "target_word_stem": "spielen",
+    "related_word_stem": [
+      "spiel",
+      "blasen",
+      "musizieren"
+    ]
+  },
+  {
+    "target_word": "unternehmen",
+    "related_word": [
+      "abbruchfirma",
+      "projekt",
+      "juristisch"
+    ],
+    "target_word_stem": "unternehmen",
+    "related_word_stem": [
+      "abbruchfirma",
+      "projekt",
+      "juristisch"
+    ]
+  },
+  {
+    "target_word": "fangen",
+    "related_word": [
+      "fang",
+      "aalen",
+      "angler"
+    ],
+    "target_word_stem": "fangen",
+    "related_word_stem": [
+      "fang",
+      "aalen",
+      "angler"
+    ]
+  },
+  {
+    "target_word": "schwarz",
+    "related_word": [
+      "aberdeenrind",
+      "schwärze",
+      "arsen"
+    ],
+    "target_word_stem": "schwarz",
+    "related_word_stem": [
+      "aberdeenrind",
+      "schwärze",
+      "arsen"
+    ]
+  },
+  {
+    "target_word": "kosten",
+    "related_word": [
+      "spesen",
+      "probieren",
+      "beziffern"
+    ],
+    "target_word_stem": "kosten",
+    "related_word_stem": [
+      "spesen",
+      "probieren",
+      "beziffern"
+    ]
+  },
+  {
+    "target_word": "heilig",
+    "related_word": [
+      "bibliomantik",
+      "geweiht",
+      "heil"
+    ],
+    "target_word_stem": "heilig",
+    "related_word_stem": [
+      "bibliomantik",
+      "geweiht",
+      "heil"
+    ]
+  },
+  {
+    "target_word": "wahr",
+    "related_word": [
+      "assertion",
+      "richtig",
+      "falsch"
+    ],
+    "target_word_stem": "wahr",
+    "related_word_stem": [
+      "assertion",
+      "richtig",
+      "falsch"
+    ]
+  },
+  {
+    "target_word": "halbe",
+    "related_word": [
+      "bier",
+      "halb",
+      "molle"
+    ],
+    "target_word_stem": "halbe",
+    "related_word_stem": [
+      "bier",
+      "halb",
+      "molle"
+    ]
+  },
+  {
+    "target_word": "recht",
+    "related_word": [
+      "abalienation",
+      "anrecht",
+      "individualrecht"
+    ],
+    "target_word_stem": "recht",
+    "related_word_stem": [
+      "abalienation",
+      "anrecht",
+      "individualrecht"
+    ]
+  },
+  {
+    "target_word": "ficken",
+    "related_word": [
+      "abgefuckt",
+      "koitieren",
+      "ficker"
+    ],
+    "target_word_stem": "ficken",
+    "related_word_stem": [
+      "abgefuckt",
+      "koitieren",
+      "ficker"
+    ]
+  },
+  {
+    "target_word": "deutsch",
+    "related_word": [
+      "althochdeutsch",
+      "deutschschweiz",
+      "romantik"
+    ],
+    "target_word_stem": "deutsch",
+    "related_word_stem": [
+      "althochdeutsch",
+      "deutschschweiz",
+      "romantik"
+    ]
+  },
+  {
+    "target_word": "nett",
+    "related_word": [
+      "artig",
+      "lieb",
+      "einnehmend"
+    ],
+    "target_word_stem": "nett",
+    "related_word_stem": [
+      "artig",
+      "lieb",
+      "einnehmend"
+    ]
+  },
+  {
+    "target_word": "nerv",
+    "related_word": [
+      "anastomose",
+      "ader",
+      "weichteile"
+    ],
+    "target_word_stem": "nerv",
+    "related_word_stem": [
+      "anastomose",
+      "ader",
+      "weichteile"
+    ]
+  },
+  {
+    "target_word": "suchen",
+    "related_word": [
+      "botanisieren",
+      "durchstöbern",
+      "finden"
+    ],
+    "target_word_stem": "suchen",
+    "related_word_stem": [
+      "botanisieren",
+      "durchstöbern",
+      "finden"
+    ]
+  },
+  {
+    "target_word": "drehen",
+    "related_word": [
+      "abdrehen",
+      "wenden",
+      "bewegen"
+    ],
+    "target_word_stem": "drehen",
+    "related_word_stem": [
+      "abdrehen",
+      "wenden",
+      "bewegen"
+    ]
+  },
+  {
+    "target_word": "schlimm",
+    "related_word": [
+      "aasig",
+      "arg",
+      "böse"
+    ],
+    "target_word_stem": "schlimm",
+    "related_word_stem": [
+      "aasig",
+      "arg",
+      "böse"
+    ]
+  },
+  {
+    "target_word": "tanzen",
+    "related_word": [
+      "beaten",
+      "abhotten",
+      "bewegen"
+    ],
+    "target_word_stem": "tanzen",
+    "related_word_stem": [
+      "beaten",
+      "abhotten",
+      "bewegen"
+    ]
+  },
+  {
+    "target_word": "halb",
+    "related_word": [
+      "hälfte",
+      "fragmentarisch",
+      "gebäude"
+    ],
+    "target_word_stem": "halb",
+    "related_word_stem": [
+      "hälfte",
+      "fragmentarisch",
+      "gebäude"
+    ]
+  },
+  {
+    "target_word": "hübsch",
+    "related_word": [
+      "allerliebst",
+      "adrett",
+      "hässlich"
+    ],
+    "target_word_stem": "hübsch",
+    "related_word_stem": [
+      "allerliebst",
+      "adrett",
+      "hässlich"
+    ]
+  },
+  {
+    "target_word": "teilen",
+    "related_word": [
+      "teil",
+      "aufteilen",
+      "dividieren"
+    ],
+    "target_word_stem": "teilen",
+    "related_word_stem": [
+      "teil",
+      "aufteilen",
+      "dividieren"
+    ]
+  },
+  {
+    "target_word": "fremd",
+    "related_word": [
+      "abbaurecht",
+      "ausheimisch",
+      "alleingang"
+    ],
+    "target_word_stem": "fremd",
+    "related_word_stem": [
+      "abbaurecht",
+      "ausheimisch",
+      "alleingang"
+    ]
+  },
+  {
+    "target_word": "wichtig",
+    "related_word": [
+      "dünn",
+      "bedeutend",
+      "unwichtig"
+    ],
+    "target_word_stem": "wichtig",
+    "related_word_stem": [
+      "dünn",
+      "bedeutend",
+      "unwichtig"
+    ]
+  },
+  {
+    "target_word": "hart",
+    "related_word": [
+      "abdruck",
+      "forst",
+      "geschmacksadjektiv"
+    ],
+    "target_word_stem": "hart",
+    "related_word_stem": [
+      "abdruck",
+      "forst",
+      "geschmacksadjektiv"
+    ]
+  },
+  {
+    "target_word": "decken",
+    "related_word": [
+      "dach",
+      "abdecken",
+      "heimtextilien"
+    ],
+    "target_word_stem": "decken",
+    "related_word_stem": [
+      "dach",
+      "abdecken",
+      "heimtextilien"
+    ]
+  },
+  {
+    "target_word": "zahlen",
+    "related_word": [
+      "abdrücken",
+      "bezahlen",
+      "prellen"
+    ],
+    "target_word_stem": "zahlen",
+    "related_word_stem": [
+      "abdrücken",
+      "bezahlen",
+      "prellen"
+    ]
+  },
+  {
+    "target_word": "menschlich",
+    "related_word": [
+      "abtreiben",
+      "human",
+      "organisch"
+    ],
+    "target_word_stem": "menschlich",
+    "related_word_stem": [
+      "abtreiben",
+      "human",
+      "organisch"
+    ]
+  },
+  {
+    "target_word": "frisch",
+    "related_word": [
+      "alert",
+      "blutt",
+      "geruchscharakteristik"
+    ],
+    "target_word_stem": "frisch",
+    "related_word_stem": [
+      "alert",
+      "blutt",
+      "geruchscharakteristik"
+    ]
+  },
+  {
+    "target_word": "verschieden",
+    "related_word": [
+      "achromatisch",
+      "abgeschieden",
+      "bulle"
+    ],
+    "target_word_stem": "verschieden",
+    "related_word_stem": [
+      "achromatisch",
+      "abgeschieden",
+      "bulle"
+    ]
+  },
+  {
+    "target_word": "voll",
+    "related_word": [
+      "füllen",
+      "belegt",
+      "geruchsbeschreibung"
+    ],
+    "target_word_stem": "voll",
+    "related_word_stem": [
+      "füllen",
+      "belegt",
+      "geruchsbeschreibung"
+    ]
+  },
+  {
+    "target_word": "kaufen",
+    "related_word": [
+      "beschaffen",
+      "erwerben",
+      "handeln"
+    ],
+    "target_word_stem": "kaufen",
+    "related_word_stem": [
+      "beschaffen",
+      "erwerben",
+      "handeln"
+    ]
+  }
+]

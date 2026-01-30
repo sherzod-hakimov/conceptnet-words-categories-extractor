@@ -1,0 +1,282 @@
+[
+  {
+    "target_word": "ثقافة",
+    "related_word": [
+      "معرفة",
+      "مجتمع",
+      "فن"
+    ],
+    "target_word_stem": "ثقافة",
+    "related_word_stem": [
+      "معرفة",
+      "مجتمع",
+      "فن"
+    ]
+  },
+  {
+    "target_word": "جزيرة",
+    "related_word": [
+      "بحر",
+      "شاطئ",
+      "يابسة"
+    ],
+    "target_word_stem": "جزيرة",
+    "related_word_stem": [
+      "بحر",
+      "شاطئ",
+      "يابسة"
+    ]
+  },
+  {
+    "target_word": "حلم",
+    "related_word": [
+      "نوم",
+      "خيال",
+      "كابوس"
+    ],
+    "target_word_stem": "حلم",
+    "related_word_stem": [
+      "نوم",
+      "خيال",
+      "كابوس"
+    ]
+  },
+  {
+    "target_word": "صحراء",
+    "related_word": [
+      "رمل",
+      "جمل",
+      "عطش"
+    ],
+    "target_word_stem": "صحراء",
+    "related_word_stem": [
+      "رمل",
+      "جمل",
+      "عطش"
+    ]
+  },
+  {
+    "target_word": "مستقبل",
+    "related_word": [
+      "زمن",
+      "خطة",
+      "غد"
+    ],
+    "target_word_stem": "مستقبل",
+    "related_word_stem": [
+      "زمن",
+      "خطة",
+      "غد"
+    ]
+  },
+  {
+    "target_word": "مرآة",
+    "related_word": [
+      "زجاج",
+      "صورة",
+      "انعكاس"
+    ],
+    "target_word_stem": "مرآة",
+    "related_word_stem": [
+      "زجاج",
+      "صورة",
+      "انعكاس"
+    ]
+  },
+  {
+    "target_word": "هدية",
+    "related_word": [
+      "صندوق",
+      "مفاجأة",
+      "عيد"
+    ],
+    "target_word_stem": "هدية",
+    "related_word_stem": [
+      "صندوق",
+      "مفاجأة",
+      "عيد"
+    ]
+  },
+  {
+    "target_word": "سجن",
+    "related_word": [
+      "حبس",
+      "جريمة",
+      "شرطة"
+    ],
+    "target_word_stem": "سجن",
+    "related_word_stem": [
+      "حبس",
+      "جريمة",
+      "شرطة"
+    ]
+  },
+  {
+    "target_word": "مفتاح",
+    "related_word": [
+      "باب",
+      "قفل",
+      "حديد"
+    ],
+    "target_word_stem": "مفتاح",
+    "related_word_stem": [
+      "باب",
+      "قفل",
+      "حديد"
+    ]
+  },
+  {
+    "target_word": "ظل",
+    "related_word": [
+      "ضوء",
+      "ظلام",
+      "أثر"
+    ],
+    "target_word_stem": "ظل",
+    "related_word_stem": [
+      "ضوء",
+      "ظلام",
+      "أثر"
+    ]
+  },
+  {
+    "target_word": "عطر",
+    "related_word": [
+      "رائحة",
+      "زهرة",
+      "زجاجة"
+    ],
+    "target_word_stem": "عطر",
+    "related_word_stem": [
+      "رائحة",
+      "زهرة",
+      "زجاجة"
+    ]
+  },
+  {
+    "target_word": "جسر",
+    "related_word": [
+      "نهر",
+      "عبور",
+      "طريق"
+    ],
+    "target_word_stem": "جسر",
+    "related_word_stem": [
+      "نهر",
+      "عبور",
+      "طريق"
+    ]
+  },
+  {
+    "target_word": "ذهب",
+    "related_word": [
+      "معدن",
+      "كنز",
+      "خاتم"
+    ],
+    "target_word_stem": "ذهب",
+    "related_word_stem": [
+      "معدن",
+      "كنز",
+      "خاتم"
+    ]
+  },
+  {
+    "target_word": "قصة",
+    "related_word": [
+      "رواية",
+      "بطل",
+      "حكاية"
+    ],
+    "target_word_stem": "قصة",
+    "related_word_stem": [
+      "رواية",
+      "بطل",
+      "حكاية"
+    ]
+  },
+  {
+    "target_word": "ثلج",
+    "related_word": [
+      "شتاء",
+      "برد",
+      "مطر"
+    ],
+    "target_word_stem": "ثلج",
+    "related_word_stem": [
+      "شتاء",
+      "برد",
+      "مطر"
+    ]
+  },
+  {
+    "target_word": "سر",
+    "related_word": [
+      "لغز",
+      "خبر",
+      "كتمان"
+    ],
+    "target_word_stem": "سر",
+    "related_word_stem": [
+      "لغز",
+      "خبر",
+      "كتمان"
+    ]
+  },
+  {
+    "target_word": "جبل",
+    "related_word": [
+      "قمة",
+      "صخر",
+      "ارتفاع"
+    ],
+    "target_word_stem": "جبل",
+    "related_word_stem": [
+      "قمة",
+      "صخر",
+      "ارتفاع"
+    ]
+  },
+  {
+    "target_word": "سحاب",
+    "related_word": [
+      "سماء",
+      "غيم",
+      "بخار"
+    ],
+    "target_word_stem": "سحاب",
+    "related_word_stem": [
+      "سماء",
+      "غيم",
+      "بخار"
+    ]
+  },
+  {
+    "target_word": "نار",
+    "related_word": [
+      "حريق",
+      "دخان",
+      "حطب"
+    ],
+    "target_word_stem": "نار",
+    "related_word_stem": [
+      "حريق",
+      "دخان",
+      "حطب"
+    ]
+  },
+  {
+    "target_word": "تاج",
+    "related_word": [
+      "ملك",
+      "رأس",
+      "أمير"
+    ],
+    "target_word_stem": "تاج",
+    "related_word_stem": [
+      "ملك",
+      "رأس",
+      "أمير"
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "target_word": "работа",
+    "related_word": [
+      "работата",
+      "дело",
+      "работи"
+    ],
+    "target_word_stem": "работа",
+    "related_word_stem": [
+      "работата",
+      "дело",
+      "работи"
+    ]
+  },
+  {
+    "target_word": "път",
+    "related_word": [
+      "пътувам",
+      "пътека",
+      "пътуване"
+    ],
+    "target_word_stem": "път",
+    "related_word_stem": [
+      "пътувам",
+      "пътека",
+      "пътуване"
+    ]
+  },
+  {
+    "target_word": "живот",
+    "related_word": [
+      "жив",
+      "биография",
+      "живея"
+    ],
+    "target_word_stem": "живот",
+    "related_word_stem": [
+      "жив",
+      "биография",
+      "живея"
+    ]
+  },
+  {
+    "target_word": "пара",
+    "related_word": [
+      "парата",
+      "монета",
+      "пари"
+    ],
+    "target_word_stem": "пара",
+    "related_word_stem": [
+      "парата",
+      "монета",
+      "пари"
+    ]
+  },
+  {
+    "target_word": "приятел",
+    "related_word": [
+      "гадже",
+      "неприятел",
+      "другар"
+    ],
+    "target_word_stem": "приятел",
+    "related_word_stem": [
+      "гадже",
+      "неприятел",
+      "другар"
+    ]
+  },
+  {
+    "target_word": "кола",
+    "related_word": [
+      "кол",
+      "автомобил",
+      "колове"
+    ],
+    "target_word_stem": "кола",
+    "related_word_stem": [
+      "кол",
+      "автомобил",
+      "колове"
+    ]
+  },
+  {
+    "target_word": "страна",
+    "related_word": [
+      "страната",
+      "господарство",
+      "страни"
+    ],
+    "target_word_stem": "страна",
+    "related_word_stem": [
+      "страната",
+      "господарство",
+      "страни"
+    ]
+  },
+  {
+    "target_word": "глава",
+    "related_word": [
+      "главата",
+      "ум",
+      "глави"
+    ],
+    "target_word_stem": "глава",
+    "related_word_stem": [
+      "главата",
+      "ум",
+      "глави"
+    ]
+  },
+  {
+    "target_word": "май",
+    "related_word": [
+      "април",
+      "вероятно",
+      "изглежда"
+    ],
+    "target_word_stem": "май",
+    "related_word_stem": [
+      "април",
+      "вероятно",
+      "изглежда"
+    ]
+  },
+  {
+    "target_word": "дъщеря",
+    "related_word": [
+      "дъщери",
+      "щерка",
+      "дъщерите"
+    ],
+    "target_word_stem": "дъщеря",
+    "related_word_stem": [
+      "дъщери",
+      "щерка",
+      "дъщерите"
+    ]
+  },
+  {
+    "target_word": "идея",
+    "related_word": [
+      "идеи",
+      "мисъл",
+      "идеите"
+    ],
+    "target_word_stem": "идея",
+    "related_word_stem": [
+      "идеи",
+      "мисъл",
+      "идеите"
+    ]
+  },
+  {
+    "target_word": "истина",
+    "related_word": [
+      "истината",
+      "действителност",
+      "лъжа"
+    ],
+    "target_word_stem": "истина",
+    "related_word_stem": [
+      "истината",
+      "действителност",
+      "лъжа"
+    ]
+  },
+  {
+    "target_word": "земя",
+    "related_word": [
+      "земи",
+      "суша",
+      "земите"
+    ],
+    "target_word_stem": "земя",
+    "related_word_stem": [
+      "земи",
+      "суша",
+      "земите"
+    ]
+  },
+  {
+    "target_word": "сестра",
+    "related_word": [
+      "сестрица",
+      "калугерка",
+      "сестричка"
+    ],
+    "target_word_stem": "сестра",
+    "related_word_stem": [
+      "сестрица",
+      "калугерка",
+      "сестричка"
+    ]
+  },
+  {
+    "target_word": "врата",
+    "related_word": [
+      "врат",
+      "гол",
+      "вратове"
+    ],
+    "target_word_stem": "врата",
+    "related_word_stem": [
+      "врат",
+      "гол",
+      "вратове"
+    ]
+  },
+  {
+    "target_word": "бог",
+    "related_word": [
+      "бога",
+      "господ",
+      "богиня"
+    ],
+    "target_word_stem": "бог",
+    "related_word_stem": [
+      "бога",
+      "господ",
+      "богиня"
+    ]
+  },
+  {
+    "target_word": "седмица",
+    "related_word": [
+      "седмицата",
+      "неделя",
+      "седмици"
+    ],
+    "target_word_stem": "седмица",
+    "related_word_stem": [
+      "седмицата",
+      "неделя",
+      "седмици"
+    ]
+  },
+  {
+    "target_word": "дума",
+    "related_word": [
+      "думам",
+      "слово",
+      "думата"
+    ],
+    "target_word_stem": "дума",
+    "related_word_stem": [
+      "думам",
+      "слово",
+      "думата"
+    ]
+  },
+  {
+    "target_word": "вода",
+    "related_word": [
+      "воден",
+      "течност",
+      "воденица"
+    ],
+    "target_word_stem": "вода",
+    "related_word_stem": [
+      "воден",
+      "течност",
+      "воденица"
+    ]
+  },
+  {
+    "target_word": "война",
+    "related_word": [
+      "военен",
+      "мир",
+      "войник"
+    ],
+    "target_word_stem": "война",
+    "related_word_stem": [
+      "военен",
+      "мир",
+      "войник"
+    ]
+  },
+  {
+    "target_word": "план",
+    "related_word": [
+      "плана",
+      "система",
+      "планове"
+    ],
+    "target_word_stem": "план",
+    "related_word_stem": [
+      "плана",
+      "система",
+      "планове"
+    ]
+  },
+  {
+    "target_word": "ред",
+    "related_word": [
+      "реда",
+      "система",
+      "редове"
+    ],
+    "target_word_stem": "ред",
+    "related_word_stem": [
+      "реда",
+      "система",
+      "редове"
+    ]
+  },
+  {
+    "target_word": "вид",
+    "related_word": [
+      "вида",
+      "жанр",
+      "видове"
+    ],
+    "target_word_stem": "вид",
+    "related_word_stem": [
+      "вида",
+      "жанр",
+      "видове"
+    ]
+  },
+  {
+    "target_word": "сила",
+    "related_word": [
+      "силен",
+      "енергия",
+      "силата"
+    ],
+    "target_word_stem": "сила",
+    "related_word_stem": [
+      "силен",
+      "енергия",
+      "силата"
+    ]
+  },
+  {
+    "target_word": "грижа",
+    "related_word": [
+      "грижата",
+      "безпокойство",
+      "грижи"
+    ],
+    "target_word_stem": "грижа",
+    "related_word_stem": [
+      "грижата",
+      "безпокойство",
+      "грижи"
+    ]
+  },
+  {
+    "target_word": "приятелка",
+    "related_word": [
+      "приятелката",
+      "гадже",
+      "неприятелка"
+    ],
+    "target_word_stem": "приятелка",
+    "related_word_stem": [
+      "приятелката",
+      "гадже",
+      "неприятелка"
+    ]
+  },
+  {
+    "target_word": "кораб",
+    "related_word": [
+      "кораба",
+      "бъчва",
+      "кораби"
+    ],
+    "target_word_stem": "кораб",
+    "related_word_stem": [
+      "кораба",
+      "бъчва",
+      "кораби"
+    ]
+  },
+  {
+    "target_word": "идиот",
+    "related_word": [
+      "идиота",
+      "абдал",
+      "идиоти"
+    ],
+    "target_word_stem": "идиот",
+    "related_word_stem": [
+      "идиота",
+      "абдал",
+      "идиоти"
+    ]
+  },
+  {
+    "target_word": "куче",
+    "related_word": [
+      "кучка",
+      "пес",
+      "псе"
+    ],
+    "target_word_stem": "куче",
+    "related_word_stem": [
+      "кучка",
+      "пес",
+      "псе"
+    ]
+  },
+  {
+    "target_word": "система",
+    "related_word": [
+      "системата",
+      "верига",
+      "системи"
+    ],
+    "target_word_stem": "система",
+    "related_word_stem": [
+      "системата",
+      "верига",
+      "системи"
+    ]
+  },
+  {
+    "target_word": "лъжа",
+    "related_word": [
+      "лъжата",
+      "измама",
+      "истина"
+    ],
+    "target_word_stem": "лъжа",
+    "related_word_stem": [
+      "лъжата",
+      "измама",
+      "истина"
+    ]
+  },
+  {
+    "target_word": "почивка",
+    "related_word": [
+      "почивката",
+      "курорт",
+      "почивки"
+    ],
+    "target_word_stem": "почивка",
+    "related_word_stem": [
+      "почивката",
+      "курорт",
+      "почивки"
+    ]
+  },
+  {
+    "target_word": "лекар",
+    "related_word": [
+      "доктор",
+      "лек",
+      "докторка"
+    ],
+    "target_word_stem": "лекар",
+    "related_word_stem": [
+      "доктор",
+      "лек",
+      "докторка"
+    ]
+  },
+  {
+    "target_word": "книга",
+    "related_word": [
+      "книгата",
+      "писмо",
+      "книги"
+    ],
+    "target_word_stem": "книга",
+    "related_word_stem": [
+      "книгата",
+      "писмо",
+      "книги"
+    ]
+  },
+  {
+    "target_word": "крал",
+    "related_word": [
+      "крада",
+      "кралица",
+      "крале"
+    ],
+    "target_word_stem": "крал",
+    "related_word_stem": [
+      "крада",
+      "кралица",
+      "крале"
+    ]
+  },
+  {
+    "target_word": "бира",
+    "related_word": [
+      "бирата",
+      "пиво",
+      "бири"
+    ],
+    "target_word_stem": "бира",
+    "related_word_stem": [
+      "бирата",
+      "пиво",
+      "бири"
+    ]
+  },
+  {
+    "target_word": "дреха",
+    "related_word": [
+      "дрехата",
+      "одеяние",
+      "дрехи"
+    ],
+    "target_word_stem": "дреха",
+    "related_word_stem": [
+      "дрехата",
+      "одеяние",
+      "дрехи"
+    ]
+  },
+  {
+    "target_word": "армия",
+    "related_word": [
+      "армии",
+      "множество",
+      "армиите"
+    ],
+    "target_word_stem": "армия",
+    "related_word_stem": [
+      "армии",
+      "множество",
+      "армиите"
+    ]
+  },
+  {
+    "target_word": "коса",
+    "related_word": [
+      "кос",
+      "косъм",
+      "косове"
+    ],
+    "target_word_stem": "коса",
+    "related_word_stem": [
+      "кос",
+      "косъм",
+      "косове"
+    ]
+  },
+  {
+    "target_word": "битка",
+    "related_word": [
+      "битката",
+      "бой",
+      "битки"
+    ],
+    "target_word_stem": "битка",
+    "related_word_stem": [
+      "битката",
+      "бой",
+      "битки"
+    ]
+  },
+  {
+    "target_word": "маса",
+    "related_word": [
+      "масата",
+      "множество",
+      "маси"
+    ],
+    "target_word_stem": "маса",
+    "related_word_stem": [
+      "масата",
+      "множество",
+      "маси"
+    ]
+  },
+  {
+    "target_word": "тоалетна",
+    "related_word": [
+      "тоалетната",
+      "нужник",
+      "тоалетни"
+    ],
+    "target_word_stem": "тоалетна",
+    "related_word_stem": [
+      "тоалетната",
+      "нужник",
+      "тоалетни"
+    ]
+  },
+  {
+    "target_word": "етаж",
+    "related_word": [
+      "етажа",
+      "кат",
+      "етажи"
+    ],
+    "target_word_stem": "етаж",
+    "related_word_stem": [
+      "етажа",
+      "кат",
+      "етажи"
+    ]
+  },
+  {
+    "target_word": "шега",
+    "related_word": [
+      "шегата",
+      "номер",
+      "шеги"
+    ],
+    "target_word_stem": "шега",
+    "related_word_stem": [
+      "шегата",
+      "номер",
+      "шеги"
+    ]
+  },
+  {
+    "target_word": "гора",
+    "related_word": [
+      "гората",
+      "лес",
+      "гори"
+    ],
+    "target_word_stem": "гора",
+    "related_word_stem": [
+      "гората",
+      "лес",
+      "гори"
+    ]
+  },
+  {
+    "target_word": "закон",
+    "related_word": [
+      "закона",
+      "акт",
+      "закони"
+    ],
+    "target_word_stem": "закон",
+    "related_word_stem": [
+      "закона",
+      "акт",
+      "закони"
+    ]
+  },
+  {
+    "target_word": "среда",
+    "related_word": [
+      "средата",
+      "сърце",
+      "среди"
+    ],
+    "target_word_stem": "среда",
+    "related_word_stem": [
+      "средата",
+      "сърце",
+      "среди"
+    ]
+  },
+  {
+    "target_word": "стена",
+    "related_word": [
+      "стената",
+      "дувар",
+      "стени"
+    ],
+    "target_word_stem": "стена",
+    "related_word_stem": [
+      "стената",
+      "дувар",
+      "стени"
+    ]
+  },
+  {
+    "target_word": "енергия",
+    "related_word": [
+      "енергии",
+      "сила",
+      "енергиите"
+    ],
+    "target_word_stem": "енергия",
+    "related_word_stem": [
+      "енергии",
+      "сила",
+      "енергиите"
+    ]
+  },
+  {
+    "target_word": "център",
+    "related_word": [
+      "центрове",
+      "учреждение",
+      "центровете"
+    ],
+    "target_word_stem": "център",
+    "related_word_stem": [
+      "центрове",
+      "учреждение",
+      "центровете"
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "target_word": "vrijeme",
+    "related_word": [
+      "sat",
+      "minuta",
+      "doba"
+    ],
+    "target_word_stem": "vrijeme",
+    "related_word_stem": [
+      "sat",
+      "minuta",
+      "doba"
+    ]
+  },
+  {
+    "target_word": "čovjek",
+    "related_word": [
+      "osoba",
+      "muškarac",
+      "ljudi"
+    ],
+    "target_word_stem": "čovjek",
+    "related_word_stem": [
+      "osoba",
+      "muškarac",
+      "čovjek"
+    ]
+  },
+  {
+    "target_word": "žena",
+    "related_word": [
+      "dama",
+      "majka",
+      "djevojka"
+    ],
+    "target_word_stem": "žena",
+    "related_word_stem": [
+      "dama",
+      "majka",
+      "djevojka"
+    ]
+  },
+  {
+    "target_word": "dijete",
+    "related_word": [
+      "beba",
+      "sin",
+      "kći"
+    ],
+    "target_word_stem": "dijete",
+    "related_word_stem": [
+      "beba",
+      "sin",
+      "kći"
+    ]
+  },
+  {
+    "target_word": "dan",
+    "related_word": [
+      "noć",
+      "jutro",
+      "tjedan"
+    ],
+    "target_word_stem": "dan",
+    "related_word_stem": [
+      "noć",
+      "jutro",
+      "tjedan"
+    ]
+  },
+  {
+    "target_word": "kuća",
+    "related_word": [
+      "dom",
+      "zgrada",
+      "stan"
+    ],
+    "target_word_stem": "kuća",
+    "related_word_stem": [
+      "dom",
+      "zgrada",
+      "stan"
+    ]
+  },
+  {
+    "target_word": "posao",
+    "related_word": [
+      "rad",
+      "ured",
+      "zadatak"
+    ],
+    "target_word_stem": "posao",
+    "related_word_stem": [
+      "rad",
+      "ured",
+      "zadatak"
+    ]
+  },
+  {
+    "target_word": "novac",
+    "related_word": [
+      "banka",
+      "plaća",
+      "cijena"
+    ],
+    "target_word_stem": "novac",
+    "related_word_stem": [
+      "banka",
+      "plaća",
+      "cijena"
+    ]
+  },
+  {
+    "target_word": "grad",
+    "related_word": [
+      "selo",
+      "ulica",
+      "centar"
+    ],
+    "target_word_stem": "grad",
+    "related_word_stem": [
+      "selo",
+      "ulica",
+      "centar"
+    ]
+  },
+  {
+    "target_word": "ruka",
+    "related_word": [
+      "prst",
+      "noga",
+      "tijelo"
+    ],
+    "target_word_stem": "ruka",
+    "related_word_stem": [
+      "prst",
+      "noga",
+      "tijelo"
+    ]
+  },
+  {
+    "target_word": "voda",
+    "related_word": [
+      "piće",
+      "more",
+      "kiša"
+    ],
+    "target_word_stem": "voda",
+    "related_word_stem": [
+      "piće",
+      "more",
+      "kiša"
+    ]
+  },
+  {
+    "target_word": "hrana",
+    "related_word": [
+      "jelo",
+      "ručak",
+      "glad"
+    ],
+    "target_word_stem": "hrana",
+    "related_word_stem": [
+      "jelo",
+      "ručak",
+      "glad"
+    ]
+  },
+  {
+    "target_word": "prijatelj",
+    "related_word": [
+      "kolega",
+      "društvo",
+      "pomoć"
+    ],
+    "target_word_stem": "prijatelj",
+    "related_word_stem": [
+      "kolega",
+      "društvo",
+      "pomoć"
+    ]
+  },
+  {
+    "target_word": "obitelj",
+    "related_word": [
+      "roditelj",
+      "brat",
+      "sestra"
+    ],
+    "target_word_stem": "obitelj",
+    "related_word_stem": [
+      "roditelj",
+      "brat",
+      "sestra"
+    ]
+  },
+  {
+    "target_word": "automobil",
+    "related_word": [
+      "vozilo",
+      "cesta",
+      "promet"
+    ],
+    "target_word_stem": "automobil",
+    "related_word_stem": [
+      "vozilo",
+      "cesta",
+      "promet"
+    ]
+  },
+  {
+    "target_word": "škola",
+    "related_word": [
+      "učenik",
+      "nastava",
+      "učitelj"
+    ],
+    "target_word_stem": "škola",
+    "related_word_stem": [
+      "učenik",
+      "nastava",
+      "učitelj"
+    ]
+  },
+  {
+    "target_word": "soba",
+    "related_word": [
+      "prostor",
+      "spavanje",
+      "vrata"
+    ],
+    "target_word_stem": "soba",
+    "related_word_stem": [
+      "prostor",
+      "spavanje",
+      "vrata"
+    ]
+  },
+  {
+    "target_word": "svijet",
+    "related_word": [
+      "zemlja",
+      "život",
+      "planet"
+    ],
+    "target_word_stem": "svijet",
+    "related_word_stem": [
+      "zemlja",
+      "život",
+      "planet"
+    ]
+  },
+  {
+    "target_word": "ime",
+    "related_word": [
+      "naziv",
+      "prezime",
+      "riječ"
+    ],
+    "target_word_stem": "ime",
+    "related_word_stem": [
+      "naziv",
+      "prezime",
+      "riječ"
+    ]
+  },
+  {
+    "target_word": "sunce",
+    "related_word": [
+      "nebo",
+      "ljeto",
+      "toplina"
+    ],
+    "target_word_stem": "sunce",
+    "related_word_stem": [
+      "nebo",
+      "ljeto",
+      "toplina"
+    ]
+  }
+]

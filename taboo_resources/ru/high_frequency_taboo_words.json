@@ -1,0 +1,702 @@
+[
+  {
+    "target_word": "спасибо",
+    "related_word": [
+      "благодарить",
+      "мерси",
+      "поблагодарить"
+    ],
+    "target_word_stem": "спасибо",
+    "related_word_stem": [
+      "благодарить",
+      "мерси",
+      "поблагодарить"
+    ]
+  },
+  {
+    "target_word": "раз",
+    "related_word": [
+      "враз",
+      "крат",
+      "один"
+    ],
+    "target_word_stem": "раз",
+    "related_word_stem": [
+      "враз",
+      "крат",
+      "один"
+    ]
+  },
+  {
+    "target_word": "привет",
+    "related_word": [
+      "поприветствовать",
+      "здравствуй",
+      "приветствие"
+    ],
+    "target_word_stem": "привет",
+    "related_word_stem": [
+      "поприветствовать",
+      "здравствуй",
+      "приветствие"
+    ]
+  },
+  {
+    "target_word": "правда",
+    "related_word": [
+      "заправить",
+      "истина",
+      "заправлять"
+    ],
+    "target_word_stem": "правда",
+    "related_word_stem": [
+      "заправить",
+      "истина",
+      "заправлять"
+    ]
+  },
+  {
+    "target_word": "дело",
+    "related_word": [
+      "выделать",
+      "вещь",
+      "выделывать"
+    ],
+    "target_word_stem": "дело",
+    "related_word_stem": [
+      "выделать",
+      "вещь",
+      "выделывать"
+    ]
+  },
+  {
+    "target_word": "порядок",
+    "related_word": [
+      "беспорядочно",
+      "окей",
+      "добропорядочный"
+    ],
+    "target_word_stem": "порядок",
+    "related_word_stem": [
+      "беспорядочно",
+      "окей",
+      "добропорядочный"
+    ]
+  },
+  {
+    "target_word": "день",
+    "related_word": [
+      "дневник",
+      "ночь",
+      "дневной"
+    ],
+    "target_word_stem": "день",
+    "related_word_stem": [
+      "дневник",
+      "ночь",
+      "дневной"
+    ]
+  },
+  {
+    "target_word": "жизнь",
+    "related_word": [
+      "безжизненный",
+      "жисть",
+      "долгожитель"
+    ],
+    "target_word_stem": "жизнь",
+    "related_word_stem": [
+      "безжизненный",
+      "жисть",
+      "долгожитель"
+    ]
+  },
+  {
+    "target_word": "человек",
+    "related_word": [
+      "людей",
+      "млекопитающее",
+      "люди"
+    ],
+    "target_word_stem": "человек",
+    "related_word_stem": [
+      "людей",
+      "млекопитающее",
+      "люди"
+    ]
+  },
+  {
+    "target_word": "отец",
+    "related_word": [
+      "отеческий",
+      "батюшка",
+      "родитель"
+    ],
+    "target_word_stem": "отец",
+    "related_word_stem": [
+      "отеческий",
+      "батюшка",
+      "родитель"
+    ]
+  },
+  {
+    "target_word": "мама",
+    "related_word": [
+      "мамин",
+      "мать",
+      "родитель"
+    ],
+    "target_word_stem": "мама",
+    "related_word_stem": [
+      "мамин",
+      "мать",
+      "родитель"
+    ]
+  },
+  {
+    "target_word": "друг",
+    "related_word": [
+      "друга",
+      "бойфренд",
+      "враг"
+    ],
+    "target_word_stem": "друг",
+    "related_word_stem": [
+      "друга",
+      "бойфренд",
+      "враг"
+    ]
+  },
+  {
+    "target_word": "место",
+    "related_word": [
+      "двухместный",
+      "кресло",
+      "заместить"
+    ],
+    "target_word_stem": "место",
+    "related_word_stem": [
+      "двухместный",
+      "кресло",
+      "заместить"
+    ]
+  },
+  {
+    "target_word": "деньги",
+    "related_word": [
+      "деньга",
+      "бабки",
+      "денежный"
+    ],
+    "target_word_stem": "деньги",
+    "related_word_stem": [
+      "деньга",
+      "бабки",
+      "денежный"
+    ]
+  },
+  {
+    "target_word": "парень",
+    "related_word": [
+      "паренёк",
+      "бойфренд",
+      "девушка"
+    ],
+    "target_word_stem": "парень",
+    "related_word_stem": [
+      "паренёк",
+      "бойфренд",
+      "девушка"
+    ]
+  },
+  {
+    "target_word": "доктор",
+    "related_word": [
+      "бакалавр",
+      "врач",
+      "академик"
+    ],
+    "target_word_stem": "доктор",
+    "related_word_stem": [
+      "бакалавр",
+      "врач",
+      "академик"
+    ]
+  },
+  {
+    "target_word": "дом",
+    "related_word": [
+      "дециом",
+      "вилла",
+      "здание"
+    ],
+    "target_word_stem": "дом",
+    "related_word_stem": [
+      "дециом",
+      "вилла",
+      "здание"
+    ]
+  },
+  {
+    "target_word": "папа",
+    "related_word": [
+      "бабушка",
+      "отец",
+      "двоюродный"
+    ],
+    "target_word_stem": "папа",
+    "related_word_stem": [
+      "бабушка",
+      "отец",
+      "двоюродный"
+    ]
+  },
+  {
+    "target_word": "имя",
+    "related_word": [
+      "имени",
+      "репутация",
+      "название"
+    ],
+    "target_word_stem": "имя",
+    "related_word_stem": [
+      "имени",
+      "репутация",
+      "название"
+    ]
+  },
+  {
+    "target_word": "работа",
+    "related_word": [
+      "вырабатываться",
+      "труд",
+      "выработаться"
+    ],
+    "target_word_stem": "работа",
+    "related_word_stem": [
+      "вырабатываться",
+      "труд",
+      "выработаться"
+    ]
+  },
+  {
+    "target_word": "мать",
+    "related_word": [
+      "богоматерь",
+      "мама",
+      "родитель"
+    ],
+    "target_word_stem": "мать",
+    "related_word_stem": [
+      "богоматерь",
+      "мама",
+      "родитель"
+    ]
+  },
+  {
+    "target_word": "рука",
+    "related_word": [
+      "врукопашную",
+      "ручка",
+      "вручную"
+    ],
+    "target_word_stem": "рука",
+    "related_word_stem": [
+      "врукопашную",
+      "ручка",
+      "вручную"
+    ]
+  },
+  {
+    "target_word": "вопрос",
+    "related_word": [
+      "вопросительный",
+      "проблема",
+      "ответ"
+    ],
+    "target_word_stem": "вопрос",
+    "related_word_stem": [
+      "вопросительный",
+      "проблема",
+      "ответ"
+    ]
+  },
+  {
+    "target_word": "вид",
+    "related_word": [
+      "ввиду",
+      "картина",
+      "видеть"
+    ],
+    "target_word_stem": "вид",
+    "related_word_stem": [
+      "ввиду",
+      "картина",
+      "видеть"
+    ]
+  },
+  {
+    "target_word": "сын",
+    "related_word": [
+      "дочка",
+      "сынок",
+      "папа"
+    ],
+    "target_word_stem": "сын",
+    "related_word_stem": [
+      "дочка",
+      "сынок",
+      "папа"
+    ]
+  },
+  {
+    "target_word": "минута",
+    "related_word": [
+      "мин",
+      "момент",
+      "минут"
+    ],
+    "target_word_stem": "минута",
+    "related_word_stem": [
+      "мин",
+      "момент",
+      "минут"
+    ]
+  },
+  {
+    "target_word": "мир",
+    "related_word": [
+      "всемирно",
+      "вселенная",
+      "война"
+    ],
+    "target_word_stem": "мир",
+    "related_word_stem": [
+      "всемирно",
+      "вселенная",
+      "война"
+    ]
+  },
+  {
+    "target_word": "вещь",
+    "related_word": [
+      "вещам",
+      "дело",
+      "субъект"
+    ],
+    "target_word_stem": "вещь",
+    "related_word_stem": [
+      "вещам",
+      "дело",
+      "субъект"
+    ]
+  },
+  {
+    "target_word": "господин",
+    "related_word": [
+      "господарский",
+      "барин",
+      "господарство"
+    ],
+    "target_word_stem": "господин",
+    "related_word_stem": [
+      "господарский",
+      "барин",
+      "господарство"
+    ]
+  },
+  {
+    "target_word": "пара",
+    "related_word": [
+      "непарный",
+      "костюм",
+      "два"
+    ],
+    "target_word_stem": "пара",
+    "related_word_stem": [
+      "непарный",
+      "костюм",
+      "два"
+    ]
+  },
+  {
+    "target_word": "брат",
+    "related_word": [
+      "братва",
+      "друг",
+      "община"
+    ],
+    "target_word_stem": "брат",
+    "related_word_stem": [
+      "братва",
+      "друг",
+      "община"
+    ]
+  },
+  {
+    "target_word": "смерть",
+    "related_word": [
+      "мертвец",
+      "конец",
+      "жизнь"
+    ],
+    "target_word_stem": "смерть",
+    "related_word_stem": [
+      "мертвец",
+      "конец",
+      "жизнь"
+    ]
+  },
+  {
+    "target_word": "случай",
+    "related_word": [
+      "случайно",
+      "счастье",
+      "случайный"
+    ],
+    "target_word_stem": "случай",
+    "related_word_stem": [
+      "случайно",
+      "счастье",
+      "случайный"
+    ]
+  },
+  {
+    "target_word": "помощь",
+    "related_word": [
+      "помогать",
+      "подмога",
+      "препятствие"
+    ],
+    "target_word_stem": "помощь",
+    "related_word_stem": [
+      "помогать",
+      "подмога",
+      "препятствие"
+    ]
+  },
+  {
+    "target_word": "слово",
+    "related_word": [
+      "словарь",
+      "речь",
+      "абзац"
+    ],
+    "target_word_stem": "слово",
+    "related_word_stem": [
+      "словарь",
+      "речь",
+      "абзац"
+    ]
+  },
+  {
+    "target_word": "женщина",
+    "related_word": [
+      "девочка",
+      "баба",
+      "человек"
+    ],
+    "target_word_stem": "женщина",
+    "related_word_stem": [
+      "девочка",
+      "баба",
+      "человек"
+    ]
+  },
+  {
+    "target_word": "чёрт",
+    "related_word": [
+      "осточертеть",
+      "дьявол",
+      "прочертить"
+    ],
+    "target_word_stem": "чёрт",
+    "related_word_stem": [
+      "осточертеть",
+      "дьявол",
+      "прочертить"
+    ]
+  },
+  {
+    "target_word": "проблема",
+    "related_word": [
+      "проблемка",
+      "вопрос",
+      "проблемно"
+    ],
+    "target_word_stem": "проблема",
+    "related_word_stem": [
+      "проблемка",
+      "вопрос",
+      "проблемно"
+    ]
+  },
+  {
+    "target_word": "глаз",
+    "related_word": [
+      "глаза",
+      "око",
+      "орган"
+    ],
+    "target_word_stem": "глаз",
+    "related_word_stem": [
+      "глаза",
+      "око",
+      "орган"
+    ]
+  },
+  {
+    "target_word": "сердце",
+    "related_word": [
+      "сердечник",
+      "душа",
+      "орган"
+    ],
+    "target_word_stem": "сердце",
+    "related_word_stem": [
+      "сердечник",
+      "душа",
+      "орган"
+    ]
+  },
+  {
+    "target_word": "машина",
+    "related_word": [
+      "махина",
+      "автомашина",
+      "машинист"
+    ],
+    "target_word_stem": "машина",
+    "related_word_stem": [
+      "махина",
+      "автомашина",
+      "машинист"
+    ]
+  },
+  {
+    "target_word": "часть",
+    "related_word": [
+      "запчасть",
+      "батальон",
+      "объединение"
+    ],
+    "target_word_stem": "часть",
+    "related_word_stem": [
+      "запчасть",
+      "батальон",
+      "объединение"
+    ]
+  },
+  {
+    "target_word": "жена",
+    "related_word": [
+      "женатый",
+      "супруга",
+      "брак"
+    ],
+    "target_word_stem": "жена",
+    "related_word_stem": [
+      "женатый",
+      "супруга",
+      "брак"
+    ]
+  },
+  {
+    "target_word": "вечер",
+    "related_word": [
+      "вечером",
+      "время",
+      "вечор"
+    ],
+    "target_word_stem": "вечер",
+    "related_word_stem": [
+      "вечером",
+      "время",
+      "вечор"
+    ]
+  },
+  {
+    "target_word": "утро",
+    "related_word": [
+      "наутро",
+      "время",
+      "поутру"
+    ],
+    "target_word_stem": "утро",
+    "related_word_stem": [
+      "наутро",
+      "время",
+      "поутру"
+    ]
+  },
+  {
+    "target_word": "голова",
+    "related_word": [
+      "башка",
+      "абажур",
+      "глава"
+    ],
+    "target_word_stem": "голова",
+    "related_word_stem": [
+      "башка",
+      "абажур",
+      "глава"
+    ]
+  },
+  {
+    "target_word": "идея",
+    "related_word": [
+      "идеология",
+      "мысль",
+      "идеал"
+    ],
+    "target_word_stem": "идея",
+    "related_word_stem": [
+      "идеология",
+      "мысль",
+      "идеал"
+    ]
+  },
+  {
+    "target_word": "момент",
+    "related_word": [
+      "моментальный",
+      "мгновение",
+      "миг"
+    ],
+    "target_word_stem": "момент",
+    "related_word_stem": [
+      "моментальный",
+      "мгновение",
+      "миг"
+    ]
+  },
+  {
+    "target_word": "любовь",
+    "related_word": [
+      "любить",
+      "привязанность",
+      "чувство"
+    ],
+    "target_word_stem": "любовь",
+    "related_word_stem": [
+      "любить",
+      "привязанность",
+      "чувство"
+    ]
+  },
+  {
+    "target_word": "чувак",
+    "related_word": [
+      "чек",
+      "кент",
+      "человек"
+    ],
+    "target_word_stem": "чувак",
+    "related_word_stem": [
+      "чек",
+      "кент",
+      "человек"
+    ]
+  }
+]

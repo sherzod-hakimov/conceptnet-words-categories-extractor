@@ -1,0 +1,702 @@
+[
+  {
+    "target_word": "mamma",
+    "related_word": [
+      "fader",
+      "mor",
+      "förälder"
+    ],
+    "target_word_stem": "mamma",
+    "related_word_stem": [
+      "fader",
+      "mor",
+      "förälder"
+    ]
+  },
+  {
+    "target_word": "pappa",
+    "related_word": [
+      "moder",
+      "fader",
+      "förälder"
+    ],
+    "target_word_stem": "pappa",
+    "related_word_stem": [
+      "moder",
+      "fader",
+      "förälder"
+    ]
+  },
+  {
+    "target_word": "liv",
+    "related_word": [
+      "leva",
+      "hallabaloo",
+      "lifvet"
+    ],
+    "target_word_stem": "liv",
+    "related_word_stem": [
+      "leva",
+      "hallabaloo",
+      "lifvet"
+    ]
+  },
+  {
+    "target_word": "dag",
+    "related_word": [
+      "dagmar",
+      "dygn",
+      "tid"
+    ],
+    "target_word_stem": "dag",
+    "related_word_stem": [
+      "dagmar",
+      "dygn",
+      "tid"
+    ]
+  },
+  {
+    "target_word": "sätt",
+    "related_word": [
+      "annorlunda",
+      "maner",
+      "set"
+    ],
+    "target_word_stem": "sätt",
+    "related_word_stem": [
+      "annorlunda",
+      "maner",
+      "set"
+    ]
+  },
+  {
+    "target_word": "folk",
+    "related_word": [
+      "folken",
+      "människa",
+      "folket"
+    ],
+    "target_word_stem": "folk",
+    "related_word_stem": [
+      "folken",
+      "människa",
+      "folket"
+    ]
+  },
+  {
+    "target_word": "gång",
+    "related_word": [
+      "gg",
+      "stig",
+      "gå"
+    ],
+    "target_word_stem": "gång",
+    "related_word_stem": [
+      "gg",
+      "stig",
+      "gå"
+    ]
+  },
+  {
+    "target_word": "barn",
+    "related_word": [
+      "flicka",
+      "unge",
+      "familjemedlem"
+    ],
+    "target_word_stem": "barn",
+    "related_word_stem": [
+      "flicka",
+      "unge",
+      "familjemedlem"
+    ]
+  },
+  {
+    "target_word": "hjälp",
+    "related_word": [
+      "bistånd",
+      "biträde",
+      "medhjälpare"
+    ],
+    "target_word_stem": "hjälp",
+    "related_word_stem": [
+      "bistånd",
+      "biträde",
+      "medhjälpare"
+    ]
+  },
+  {
+    "target_word": "förlåt",
+    "related_word": [
+      "förlåta",
+      "ursäkta",
+      "ridå"
+    ],
+    "target_word_stem": "förlåt",
+    "related_word_stem": [
+      "förlåta",
+      "ursäkta",
+      "ridå"
+    ]
+  },
+  {
+    "target_word": "död",
+    "related_word": [
+      "digerdöden",
+      "avliden",
+      "dö"
+    ],
+    "target_word_stem": "död",
+    "related_word_stem": [
+      "digerdöden",
+      "avliden",
+      "dö"
+    ]
+  },
+  {
+    "target_word": "sak",
+    "related_word": [
+      "affär",
+      "angelägenhet",
+      "föremål"
+    ],
+    "target_word_stem": "sak",
+    "related_word_stem": [
+      "affär",
+      "angelägenhet",
+      "föremål"
+    ]
+  },
+  {
+    "target_word": "pengar",
+    "related_word": [
+      "pengatvätt",
+      "mynt",
+      "betalningsmedel"
+    ],
+    "target_word_stem": "pengar",
+    "related_word_stem": [
+      "pengatvätt",
+      "mynt",
+      "betalningsmedel"
+    ]
+  },
+  {
+    "target_word": "hand",
+    "related_word": [
+      "arm",
+      "anatomi",
+      "fot"
+    ],
+    "target_word_stem": "hand",
+    "related_word_stem": [
+      "arm",
+      "anatomi",
+      "fot"
+    ]
+  },
+  {
+    "target_word": "far",
+    "related_word": [
+      "farsan",
+      "farsa",
+      "fäder"
+    ],
+    "target_word_stem": "far",
+    "related_word_stem": [
+      "farsan",
+      "farsa",
+      "fäder"
+    ]
+  },
+  {
+    "target_word": "väg",
+    "related_word": [
+      "gata",
+      "gång",
+      "metod"
+    ],
+    "target_word_stem": "väg",
+    "related_word_stem": [
+      "gata",
+      "gång",
+      "metod"
+    ]
+  },
+  {
+    "target_word": "problem",
+    "related_word": [
+      "problematisk",
+      "fråga",
+      "problemen"
+    ],
+    "target_word_stem": "problem",
+    "related_word_stem": [
+      "problematisk",
+      "fråga",
+      "problemen"
+    ]
+  },
+  {
+    "target_word": "vän",
+    "related_word": [
+      "vänhet",
+      "kompis",
+      "fiende"
+    ],
+    "target_word_stem": "vän",
+    "related_word_stem": [
+      "vänhet",
+      "kompis",
+      "fiende"
+    ]
+  },
+  {
+    "target_word": "fråga",
+    "related_word": [
+      "ansöka",
+      "spörsmål",
+      "svar"
+    ],
+    "target_word_stem": "fråga",
+    "related_word_stem": [
+      "ansöka",
+      "spörsmål",
+      "svar"
+    ]
+  },
+  {
+    "target_word": "fru",
+    "related_word": [
+      "adel",
+      "hustru",
+      "herr"
+    ],
+    "target_word_stem": "fru",
+    "related_word_stem": [
+      "adel",
+      "hustru",
+      "herr"
+    ]
+  },
+  {
+    "target_word": "son",
+    "related_word": [
+      "andersson",
+      "avkomling",
+      "dotter"
+    ],
+    "target_word_stem": "son",
+    "related_word_stem": [
+      "andersson",
+      "avkomling",
+      "dotter"
+    ]
+  },
+  {
+    "target_word": "jobb",
+    "related_word": [
+      "jobba",
+      "arbete",
+      "jobbig"
+    ],
+    "target_word_stem": "jobb",
+    "related_word_stem": [
+      "jobba",
+      "arbete",
+      "jobbig"
+    ]
+  },
+  {
+    "target_word": "bil",
+    "related_word": [
+      "bilar",
+      "transportmedel",
+      "bilarna"
+    ],
+    "target_word_stem": "bil",
+    "related_word_stem": [
+      "bilar",
+      "transportmedel",
+      "bilarna"
+    ]
+  },
+  {
+    "target_word": "värld",
+    "related_word": [
+      "jord",
+      "himlakropp",
+      "andevärld"
+    ],
+    "target_word_stem": "värld",
+    "related_word_stem": [
+      "jord",
+      "himlakropp",
+      "andevärld"
+    ]
+  },
+  {
+    "target_word": "man",
+    "related_word": [
+      "en",
+      "make",
+      "ens"
+    ],
+    "target_word_stem": "man",
+    "related_word_stem": [
+      "en",
+      "make",
+      "ens"
+    ]
+  },
+  {
+    "target_word": "polis",
+    "related_word": [
+      "poliskonstapel",
+      "byling",
+      "myndighet"
+    ],
+    "target_word_stem": "polis",
+    "related_word_stem": [
+      "poliskonstapel",
+      "byling",
+      "myndighet"
+    ]
+  },
+  {
+    "target_word": "fall",
+    "related_word": [
+      "fallen",
+      "förhållande",
+      "fallet"
+    ],
+    "target_word_stem": "fall",
+    "related_word_stem": [
+      "fallen",
+      "förhållande",
+      "fallet"
+    ]
+  },
+  {
+    "target_word": "redo",
+    "related_word": [
+      "reda",
+      "beredd",
+      "redogöra"
+    ],
+    "target_word_stem": "redo",
+    "related_word_stem": [
+      "reda",
+      "beredd",
+      "redogöra"
+    ]
+  },
+  {
+    "target_word": "röra",
+    "related_word": [
+      "grönsaksröra",
+      "beveka",
+      "beröra"
+    ],
+    "target_word_stem": "röra",
+    "related_word_stem": [
+      "grönsaksröra",
+      "beveka",
+      "beröra"
+    ]
+  },
+  {
+    "target_word": "plats",
+    "related_word": [
+      "placera",
+      "befattning",
+      "platsa"
+    ],
+    "target_word_stem": "plats",
+    "related_word_stem": [
+      "placera",
+      "befattning",
+      "platsa"
+    ]
+  },
+  {
+    "target_word": "tur",
+    "related_word": [
+      "lycka",
+      "oflyt",
+      "otur"
+    ],
+    "target_word_stem": "tur",
+    "related_word_stem": [
+      "lycka",
+      "oflyt",
+      "otur"
+    ]
+  },
+  {
+    "target_word": "kvinna",
+    "related_word": [
+      "ftm",
+      "kona",
+      "man"
+    ],
+    "target_word_stem": "kvinna",
+    "related_word_stem": [
+      "ftm",
+      "kona",
+      "man"
+    ]
+  },
+  {
+    "target_word": "hus",
+    "related_word": [
+      "fastighet",
+      "kåk",
+      "byggnad"
+    ],
+    "target_word_stem": "hus",
+    "related_word_stem": [
+      "fastighet",
+      "kåk",
+      "byggnad"
+    ]
+  },
+  {
+    "target_word": "vilja",
+    "related_word": [
+      "skola",
+      "behag",
+      "velande"
+    ],
+    "target_word_stem": "vilja",
+    "related_word_stem": [
+      "skola",
+      "behag",
+      "velande"
+    ]
+  },
+  {
+    "target_word": "timme",
+    "related_word": [
+      "kvart",
+      "dygn",
+      "timpenning"
+    ],
+    "target_word_stem": "timme",
+    "related_word_stem": [
+      "kvart",
+      "dygn",
+      "timpenning"
+    ]
+  },
+  {
+    "target_word": "dörr",
+    "related_word": [
+      "bakdörr",
+      "byggnadsdel",
+      "glasdörr"
+    ],
+    "target_word_stem": "dörr",
+    "related_word_stem": [
+      "bakdörr",
+      "byggnadsdel",
+      "glasdörr"
+    ]
+  },
+  {
+    "target_word": "ord",
+    "related_word": [
+      "begrepp",
+      "mening",
+      "orden"
+    ],
+    "target_word_stem": "ord",
+    "related_word_stem": [
+      "begrepp",
+      "mening",
+      "orden"
+    ]
+  },
+  {
+    "target_word": "mor",
+    "related_word": [
+      "fader",
+      "moder",
+      "fostermor"
+    ],
+    "target_word_stem": "mor",
+    "related_word_stem": [
+      "fader",
+      "moder",
+      "fostermor"
+    ]
+  },
+  {
+    "target_word": "doktor",
+    "related_word": [
+      "doktorand",
+      "läkare",
+      "doktorera"
+    ],
+    "target_word_stem": "doktor",
+    "related_word_stem": [
+      "doktorand",
+      "läkare",
+      "doktorera"
+    ]
+  },
+  {
+    "target_word": "fara",
+    "related_word": [
+      "risk",
+      "färdas",
+      "farozon"
+    ],
+    "target_word_stem": "fara",
+    "related_word_stem": [
+      "risk",
+      "färdas",
+      "farozon"
+    ]
+  },
+  {
+    "target_word": "klocka",
+    "related_word": [
+      "klockare",
+      "armbandsur",
+      "klockslag"
+    ],
+    "target_word_stem": "klocka",
+    "related_word_stem": [
+      "klockare",
+      "armbandsur",
+      "klockslag"
+    ]
+  },
+  {
+    "target_word": "mat",
+    "related_word": [
+      "kost",
+      "föda",
+      "barnmat"
+    ],
+    "target_word_stem": "mat",
+    "related_word_stem": [
+      "kost",
+      "föda",
+      "barnmat"
+    ]
+  },
+  {
+    "target_word": "ställe",
+    "related_word": [
+      "anställa",
+      "anlägg",
+      "kostnadsställe"
+    ],
+    "target_word_stem": "ställe",
+    "related_word_stem": [
+      "anställa",
+      "anlägg",
+      "kostnadsställe"
+    ]
+  },
+  {
+    "target_word": "syster",
+    "related_word": [
+      "fader",
+      "syrra",
+      "syskon"
+    ],
+    "target_word_stem": "syster",
+    "related_word_stem": [
+      "fader",
+      "syrra",
+      "syskon"
+    ]
+  },
+  {
+    "target_word": "idé",
+    "related_word": [
+      "ide",
+      "tanke",
+      "idéhistoria"
+    ],
+    "target_word_stem": "idé",
+    "related_word_stem": [
+      "ide",
+      "tanke",
+      "idéhistoria"
+    ]
+  },
+  {
+    "target_word": "försök",
+    "related_word": [
+      "försöka",
+      "bemödande",
+      "försöken"
+    ],
+    "target_word_stem": "försök",
+    "related_word_stem": [
+      "försöka",
+      "bemödande",
+      "försöken"
+    ]
+  },
+  {
+    "target_word": "ben",
+    "related_word": [
+      "byxben",
+      "skånk",
+      "lägg"
+    ],
+    "target_word_stem": "ben",
+    "related_word_stem": [
+      "byxben",
+      "skånk",
+      "lägg"
+    ]
+  },
+  {
+    "target_word": "plan",
+    "related_word": [
+      "flygplan",
+      "förslag",
+      "plant"
+    ],
+    "target_word_stem": "plan",
+    "related_word_stem": [
+      "flygplan",
+      "förslag",
+      "plant"
+    ]
+  },
+  {
+    "target_word": "skola",
+    "related_word": [
+      "akademi",
+      "bilda",
+      "utbildning"
+    ],
+    "target_word_stem": "skola",
+    "related_word_stem": [
+      "akademi",
+      "bilda",
+      "utbildning"
+    ]
+  },
+  {
+    "target_word": "flicka",
+    "related_word": [
+      "barn",
+      "brallis",
+      "pojke"
+    ],
+    "target_word_stem": "flicka",
+    "related_word_stem": [
+      "barn",
+      "brallis",
+      "pojke"
+    ]
+  }
+]

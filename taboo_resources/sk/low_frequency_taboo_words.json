@@ -1,0 +1,310 @@
+[
+  {
+    "target_word": "päť",
+    "related_word": [
+      "piaty",
+      "piati",
+      "číslovka"
+    ],
+    "target_word_stem": "päť",
+    "related_word_stem": [
+      "piaty",
+      "piati",
+      "číslovka"
+    ]
+  },
+  {
+    "target_word": "tep",
+    "related_word": [
+      "tepať",
+      "pulz",
+      "tepe"
+    ],
+    "target_word_stem": "tep",
+    "related_word_stem": [
+      "tepať",
+      "pulz",
+      "tepe"
+    ]
+  },
+  {
+    "target_word": "rýchly",
+    "related_word": [
+      "rýchlik",
+      "pomalý",
+      "rýchlostný"
+    ],
+    "target_word_stem": "rýchly",
+    "related_word_stem": [
+      "rýchlik",
+      "pomalý",
+      "rýchlostný"
+    ]
+  },
+  {
+    "target_word": "alkoholik",
+    "related_word": [
+      "opilec",
+      "alkohol",
+      "ožran"
+    ],
+    "target_word_stem": "alkoholik",
+    "related_word_stem": [
+      "opilec",
+      "alkohol",
+      "ožran"
+    ]
+  },
+  {
+    "target_word": "tučniak",
+    "related_word": [
+      "fatso",
+      "pinguin",
+      "tuk"
+    ],
+    "target_word_stem": "tučniak",
+    "related_word_stem": [
+      "fatso",
+      "pinguin",
+      "tuk"
+    ]
+  },
+  {
+    "target_word": "bábka",
+    "related_word": [
+      "maňuška",
+      "bábika",
+      "mikulka"
+    ],
+    "target_word_stem": "bábka",
+    "related_word_stem": [
+      "maňuška",
+      "bábika",
+      "mikulka"
+    ]
+  },
+  {
+    "target_word": "európa",
+    "related_word": [
+      "európan",
+      "svetadiel",
+      "európanka"
+    ],
+    "target_word_stem": "európa",
+    "related_word_stem": [
+      "európan",
+      "svetadiel",
+      "európanka"
+    ]
+  },
+  {
+    "target_word": "sprcha",
+    "related_word": [
+      "sprchovať",
+      "pršať",
+      "sprchami"
+    ],
+    "target_word_stem": "sprcha",
+    "related_word_stem": [
+      "sprchovať",
+      "pršať",
+      "sprchami"
+    ]
+  },
+  {
+    "target_word": "černoch",
+    "related_word": [
+      "černoška",
+      "beloch",
+      "černoško"
+    ],
+    "target_word_stem": "černoch",
+    "related_word_stem": [
+      "černoška",
+      "beloch",
+      "černoško"
+    ]
+  },
+  {
+    "target_word": "homosexuál",
+    "related_word": [
+      "homosexualita",
+      "buzerant",
+      "človek"
+    ],
+    "target_word_stem": "homosexuál",
+    "related_word_stem": [
+      "homosexualita",
+      "buzerant",
+      "človek"
+    ]
+  },
+  {
+    "target_word": "ďalekohľad",
+    "related_word": [
+      "teleskop",
+      "hľadieť",
+      "ďaleko"
+    ],
+    "target_word_stem": "ďalekohľad",
+    "related_word_stem": [
+      "teleskop",
+      "hľadieť",
+      "ďaleko"
+    ]
+  },
+  {
+    "target_word": "dejepis",
+    "related_word": [
+      "dejiny",
+      "história",
+      "dej"
+    ],
+    "target_word_stem": "dejepis",
+    "related_word_stem": [
+      "dejiny",
+      "história",
+      "dej"
+    ]
+  },
+  {
+    "target_word": "špekulácia",
+    "related_word": [
+      "spekulatívnosť",
+      "domnienka",
+      "špekulant"
+    ],
+    "target_word_stem": "špekulácia",
+    "related_word_stem": [
+      "spekulatívnosť",
+      "domnienka",
+      "špekulant"
+    ]
+  },
+  {
+    "target_word": "vodopád",
+    "related_word": [
+      "kaskáda",
+      "o",
+      "voda"
+    ],
+    "target_word_stem": "vodopád",
+    "related_word_stem": [
+      "kaskáda",
+      "o",
+      "voda"
+    ]
+  },
+  {
+    "target_word": "kožuch",
+    "related_word": [
+      "kožušina",
+      "koža",
+      "kožušník"
+    ],
+    "target_word_stem": "kožuch",
+    "related_word_stem": [
+      "kožušina",
+      "koža",
+      "kožušník"
+    ]
+  },
+  {
+    "target_word": "domorodec",
+    "related_word": [
+      "cudzinec",
+      "dom",
+      "rodec"
+    ],
+    "target_word_stem": "domorodec",
+    "related_word_stem": [
+      "cudzinec",
+      "dom",
+      "rodec"
+    ]
+  },
+  {
+    "target_word": "mŕtvy",
+    "related_word": [
+      "mŕtva",
+      "živý",
+      "mŕtve"
+    ],
+    "target_word_stem": "mŕtvy",
+    "related_word_stem": [
+      "mŕtva",
+      "živý",
+      "mŕtve"
+    ]
+  },
+  {
+    "target_word": "syntéza",
+    "related_word": [
+      "syntetickosť",
+      "analýza",
+      "synteticky"
+    ],
+    "target_word_stem": "syntéza",
+    "related_word_stem": [
+      "syntetickosť",
+      "analýza",
+      "synteticky"
+    ]
+  },
+  {
+    "target_word": "zemepis",
+    "related_word": [
+      "geografia",
+      "pis",
+      "zem"
+    ],
+    "target_word_stem": "zemepis",
+    "related_word_stem": [
+      "geografia",
+      "pis",
+      "zem"
+    ]
+  },
+  {
+    "target_word": "milý",
+    "related_word": [
+      "milovať",
+      "drahý",
+      "láskavý"
+    ],
+    "target_word_stem": "milý",
+    "related_word_stem": [
+      "milovať",
+      "drahý",
+      "láskavý"
+    ]
+  },
+  {
+    "target_word": "drahý",
+    "related_word": [
+      "draho",
+      "milý",
+      "lacný"
+    ],
+    "target_word_stem": "drahý",
+    "related_word_stem": [
+      "draho",
+      "milý",
+      "lacný"
+    ]
+  },
+  {
+    "target_word": "turizmus",
+    "related_word": [
+      "turista",
+      "turistika",
+      "turistický"
+    ],
+    "target_word_stem": "turizmus",
+    "related_word_stem": [
+      "turista",
+      "turistika",
+      "turistický"
+    ]
+  }
+]

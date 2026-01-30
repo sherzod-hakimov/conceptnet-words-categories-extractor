@@ -1,0 +1,282 @@
+[
+  {
+    "target_word": "وقت",
+    "related_word": [
+      "ساعة",
+      "دقيقة",
+      "زمن"
+    ],
+    "target_word_stem": "وقت",
+    "related_word_stem": [
+      "ساعة",
+      "دقيقة",
+      "زمن"
+    ]
+  },
+  {
+    "target_word": "رجل",
+    "related_word": [
+      "ذكر",
+      "إنسان",
+      "أب"
+    ],
+    "target_word_stem": "رجل",
+    "related_word_stem": [
+      "ذكر",
+      "إنسان",
+      "أب"
+    ]
+  },
+  {
+    "target_word": "امرأة",
+    "related_word": [
+      "أنثى",
+      "سيدة",
+      "أم"
+    ],
+    "target_word_stem": "امرأة",
+    "related_word_stem": [
+      "أنثى",
+      "سيدة",
+      "أم"
+    ]
+  },
+  {
+    "target_word": "ماء",
+    "related_word": [
+      "شرب",
+      "سائل",
+      "بحر"
+    ],
+    "target_word_stem": "ماء",
+    "related_word_stem": [
+      "شرب",
+      "سائل",
+      "بحر"
+    ]
+  },
+  {
+    "target_word": "شمس",
+    "related_word": [
+      "سماء",
+      "حرارة",
+      "نهار"
+    ],
+    "target_word_stem": "شمس",
+    "related_word_stem": [
+      "سماء",
+      "حرارة",
+      "نهار"
+    ]
+  },
+  {
+    "target_word": "قمر",
+    "related_word": [
+      "ليل",
+      "سماء",
+      "نور"
+    ],
+    "target_word_stem": "قمر",
+    "related_word_stem": [
+      "ليل",
+      "سماء",
+      "نور"
+    ]
+  },
+  {
+    "target_word": "يوم",
+    "related_word": [
+      "أسبوع",
+      "نهار",
+      "تاريخ"
+    ],
+    "target_word_stem": "يوم",
+    "related_word_stem": [
+      "أسبوع",
+      "نهار",
+      "تاريخ"
+    ]
+  },
+  {
+    "target_word": "ليل",
+    "related_word": [
+      "ظلام",
+      "نوم",
+      "مساء"
+    ],
+    "target_word_stem": "ليل",
+    "related_word_stem": [
+      "ظلام",
+      "نوم",
+      "مساء"
+    ]
+  },
+  {
+    "target_word": "بيت",
+    "related_word": [
+      "منزل",
+      "عائلة",
+      "غرفة"
+    ],
+    "target_word_stem": "بيت",
+    "related_word_stem": [
+      "منزل",
+      "عائلة",
+      "غرفة"
+    ]
+  },
+  {
+    "target_word": "سيارة",
+    "related_word": [
+      "قيادة",
+      "طريق",
+      "عجلة"
+    ],
+    "target_word_stem": "سيارة",
+    "related_word_stem": [
+      "قيادة",
+      "طريق",
+      "عجلة"
+    ]
+  },
+  {
+    "target_word": "كتاب",
+    "related_word": [
+      "قراءة",
+      "ورق",
+      "علم"
+    ],
+    "target_word_stem": "كتاب",
+    "related_word_stem": [
+      "قراءة",
+      "ورق",
+      "علم"
+    ]
+  },
+  {
+    "target_word": "عمل",
+    "related_word": [
+      "وظيفة",
+      "جهد",
+      "مكتب"
+    ],
+    "target_word_stem": "عمل",
+    "related_word_stem": [
+      "وظيفة",
+      "جهد",
+      "مكتب"
+    ]
+  },
+  {
+    "target_word": "مال",
+    "related_word": [
+      "شراء",
+      "بنك",
+      "غني"
+    ],
+    "target_word_stem": "مال",
+    "related_word_stem": [
+      "شراء",
+      "بنك",
+      "غني"
+    ]
+  },
+  {
+    "target_word": "مدرسة",
+    "related_word": [
+      "طالب",
+      "تعليم",
+      "فصل"
+    ],
+    "target_word_stem": "مدرسة",
+    "related_word_stem": [
+      "طالب",
+      "تعليم",
+      "فصل"
+    ]
+  },
+  {
+    "target_word": "يد",
+    "related_word": [
+      "أصبع",
+      "لمس",
+      "ذراع"
+    ],
+    "target_word_stem": "يد",
+    "related_word_stem": [
+      "أصبع",
+      "لمس",
+      "ذراع"
+    ]
+  },
+  {
+    "target_word": "عين",
+    "related_word": [
+      "نظر",
+      "وجه",
+      "رؤية"
+    ],
+    "target_word_stem": "عين",
+    "related_word_stem": [
+      "نظر",
+      "وجه",
+      "رؤية"
+    ]
+  },
+  {
+    "target_word": "قلب",
+    "related_word": [
+      "حب",
+      "دم",
+      "جسد"
+    ],
+    "target_word_stem": "قلب",
+    "related_word_stem": [
+      "حب",
+      "دم",
+      "جسد"
+    ]
+  },
+  {
+    "target_word": "طعام",
+    "related_word": [
+      "أكل",
+      "جوع",
+      "مطبخ"
+    ],
+    "target_word_stem": "طعام",
+    "related_word_stem": [
+      "أكل",
+      "جوع",
+      "مطبخ"
+    ]
+  },
+  {
+    "target_word": "مدينة",
+    "related_word": [
+      "شارع",
+      "سكان",
+      "عاصمة"
+    ],
+    "target_word_stem": "مدينة",
+    "related_word_stem": [
+      "شارع",
+      "ساكن",
+      "عاصمة"
+    ]
+  },
+  {
+    "target_word": "صديق",
+    "related_word": [
+      "صاحب",
+      "حب",
+      "وفاء"
+    ],
+    "target_word_stem": "صديق",
+    "related_word_stem": [
+      "صاحب",
+      "حب",
+      "وفاء"
+    ]
+  }
+]

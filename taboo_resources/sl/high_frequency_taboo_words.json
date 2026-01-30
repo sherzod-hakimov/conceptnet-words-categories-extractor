@@ -1,0 +1,702 @@
+[
+  {
+    "target_word": "dan",
+    "related_word": [
+      "dana",
+      "vzet",
+      "dno"
+    ],
+    "target_word_stem": "dan",
+    "related_word_stem": [
+      "dana",
+      "vzet",
+      "dno"
+    ]
+  },
+  {
+    "target_word": "konec",
+    "related_word": [
+      "končati",
+      "začetek",
+      "končen"
+    ],
+    "target_word_stem": "konec",
+    "related_word_stem": [
+      "končati",
+      "začetek",
+      "končen"
+    ]
+  },
+  {
+    "target_word": "avto",
+    "related_word": [
+      "avta",
+      "avtomobil",
+      "avte"
+    ],
+    "target_word_stem": "avto",
+    "related_word_stem": [
+      "avta",
+      "avtomobil",
+      "avte"
+    ]
+  },
+  {
+    "target_word": "prijatelj",
+    "related_word": [
+      "prijeten",
+      "sovražnik",
+      "prijetno"
+    ],
+    "target_word_stem": "prijatelj",
+    "related_word_stem": [
+      "prijeten",
+      "sovražnik",
+      "prijetno"
+    ]
+  },
+  {
+    "target_word": "moški",
+    "related_word": [
+      "mož",
+      "ženska",
+      "človek"
+    ],
+    "target_word_stem": "moški",
+    "related_word_stem": [
+      "mož",
+      "ženska",
+      "človek"
+    ]
+  },
+  {
+    "target_word": "jutro",
+    "related_word": [
+      "juter",
+      "večer",
+      "jutra"
+    ],
+    "target_word_stem": "jutro",
+    "related_word_stem": [
+      "juter",
+      "večer",
+      "jutra"
+    ]
+  },
+  {
+    "target_word": "ljubezen",
+    "related_word": [
+      "ljubezniv",
+      "neljubezen",
+      "ljubimec"
+    ],
+    "target_word_stem": "ljubezen",
+    "related_word_stem": [
+      "ljubezniv",
+      "neljubezen",
+      "ljubimec"
+    ]
+  },
+  {
+    "target_word": "skrivnost",
+    "related_word": [
+      "skrivati",
+      "skriven",
+      "skrivnosten"
+    ],
+    "target_word_stem": "skrivnost",
+    "related_word_stem": [
+      "skrivati",
+      "skriven",
+      "skrivnosten"
+    ]
+  },
+  {
+    "target_word": "začetek",
+    "related_word": [
+      "začeten",
+      "konec",
+      "začeti"
+    ],
+    "target_word_stem": "začetek",
+    "related_word_stem": [
+      "začeten",
+      "konec",
+      "začeti"
+    ]
+  },
+  {
+    "target_word": "pogovor",
+    "related_word": [
+      "pogovoren",
+      "govor",
+      "pogovoriti"
+    ],
+    "target_word_stem": "pogovor",
+    "related_word_stem": [
+      "pogovoren",
+      "govor",
+      "pogovoriti"
+    ]
+  },
+  {
+    "target_word": "dogovor",
+    "related_word": [
+      "dogovora",
+      "govor",
+      "dogovore"
+    ],
+    "target_word_stem": "dogovor",
+    "related_word_stem": [
+      "dogovora",
+      "govor",
+      "dogovore"
+    ]
+  },
+  {
+    "target_word": "enota",
+    "related_word": [
+      "enot",
+      "en",
+      "enotah"
+    ],
+    "target_word_stem": "enota",
+    "related_word_stem": [
+      "enot",
+      "en",
+      "enotah"
+    ]
+  },
+  {
+    "target_word": "bolnišnica",
+    "related_word": [
+      "bolnišnic",
+      "bolnica",
+      "bolnišnicah"
+    ],
+    "target_word_stem": "bolnišnica",
+    "related_word_stem": [
+      "bolnišnic",
+      "bolnica",
+      "bolnišnicah"
+    ]
+  },
+  {
+    "target_word": "bolezen",
+    "related_word": [
+      "bolezni",
+      "bol",
+      "boleznih"
+    ],
+    "target_word_stem": "bolezen",
+    "related_word_stem": [
+      "bolezni",
+      "bol",
+      "boleznih"
+    ]
+  },
+  {
+    "target_word": "deklica",
+    "related_word": [
+      "deklic",
+      "dekle",
+      "deklicah"
+    ],
+    "target_word_stem": "deklica",
+    "related_word_stem": [
+      "deklic",
+      "dekle",
+      "deklicah"
+    ]
+  },
+  {
+    "target_word": "karta",
+    "related_word": [
+      "kart",
+      "zemljevid",
+      "kartah"
+    ],
+    "target_word_stem": "karta",
+    "related_word_stem": [
+      "kart",
+      "zemljevid",
+      "kartah"
+    ]
+  },
+  {
+    "target_word": "hitrost",
+    "related_word": [
+      "hitrosti",
+      "hiter",
+      "hitrostih"
+    ],
+    "target_word_stem": "hitrost",
+    "related_word_stem": [
+      "hitrosti",
+      "hiter",
+      "hitrostih"
+    ]
+  },
+  {
+    "target_word": "kino",
+    "related_word": [
+      "kina",
+      "bioskop",
+      "kine"
+    ],
+    "target_word_stem": "kino",
+    "related_word_stem": [
+      "kina",
+      "bioskop",
+      "kine"
+    ]
+  },
+  {
+    "target_word": "požar",
+    "related_word": [
+      "ogenj",
+      "žar",
+      "požaren"
+    ],
+    "target_word_stem": "požar",
+    "related_word_stem": [
+      "ogenj",
+      "žar",
+      "požaren"
+    ]
+  },
+  {
+    "target_word": "bolnica",
+    "related_word": [
+      "bolnic",
+      "bolnišnica",
+      "bolnicah"
+    ],
+    "target_word_stem": "bolnica",
+    "related_word_stem": [
+      "bolnic",
+      "bolnišnica",
+      "bolnicah"
+    ]
+  },
+  {
+    "target_word": "čarovnik",
+    "related_word": [
+      "čarovnika",
+      "pomočnik",
+      "čarovnike"
+    ],
+    "target_word_stem": "čarovnik",
+    "related_word_stem": [
+      "čarovnika",
+      "pomočnik",
+      "čarovnike"
+    ]
+  },
+  {
+    "target_word": "dvigati",
+    "related_word": [
+      "dviga",
+      "dvigovati",
+      "dvigaj"
+    ],
+    "target_word_stem": "dvigati",
+    "related_word_stem": [
+      "dviga",
+      "dvigovati",
+      "dvigaj"
+    ]
+  },
+  {
+    "target_word": "izgovor",
+    "related_word": [
+      "izgovora",
+      "govor",
+      "izgovore"
+    ],
+    "target_word_stem": "izgovor",
+    "related_word_stem": [
+      "izgovora",
+      "govor",
+      "izgovore"
+    ]
+  },
+  {
+    "target_word": "avtomobil",
+    "related_word": [
+      "avtomobila",
+      "avto",
+      "avtomobile"
+    ],
+    "target_word_stem": "avtomobil",
+    "related_word_stem": [
+      "avtomobila",
+      "avto",
+      "avtomobile"
+    ]
+  },
+  {
+    "target_word": "gol",
+    "related_word": [
+      "gola",
+      "nag",
+      "gole"
+    ],
+    "target_word_stem": "gol",
+    "related_word_stem": [
+      "gola",
+      "nag",
+      "gole"
+    ]
+  },
+  {
+    "target_word": "črnec",
+    "related_word": [
+      "črnca",
+      "črnokožec",
+      "črnce"
+    ],
+    "target_word_stem": "črnec",
+    "related_word_stem": [
+      "črnca",
+      "črnokožec",
+      "črnce"
+    ]
+  },
+  {
+    "target_word": "besedilo",
+    "related_word": [
+      "besedil",
+      "tekst",
+      "besedila"
+    ],
+    "target_word_stem": "besedilo",
+    "related_word_stem": [
+      "besedil",
+      "tekst",
+      "besedila"
+    ]
+  },
+  {
+    "target_word": "aktivnost",
+    "related_word": [
+      "aktivnosti",
+      "dejavnost",
+      "aktivnostih"
+    ],
+    "target_word_stem": "aktivnost",
+    "related_word_stem": [
+      "aktivnosti",
+      "dejavnost",
+      "aktivnostih"
+    ]
+  },
+  {
+    "target_word": "čelo",
+    "related_word": [
+      "čel",
+      "violončelo",
+      "čela"
+    ],
+    "target_word_stem": "čelo",
+    "related_word_stem": [
+      "čel",
+      "violončelo",
+      "čela"
+    ]
+  },
+  {
+    "target_word": "dolina",
+    "related_word": [
+      "dolin",
+      "dol",
+      "dolinah"
+    ],
+    "target_word_stem": "dolina",
+    "related_word_stem": [
+      "dolin",
+      "dol",
+      "dolinah"
+    ]
+  },
+  {
+    "target_word": "brati",
+    "related_word": [
+      "bere",
+      "čitati",
+      "berejo"
+    ],
+    "target_word_stem": "brati",
+    "related_word_stem": [
+      "bere",
+      "čitati",
+      "berejo"
+    ]
+  },
+  {
+    "target_word": "bolnik",
+    "related_word": [
+      "bolnika",
+      "bolna",
+      "bolnike"
+    ],
+    "target_word_stem": "bolnik",
+    "related_word_stem": [
+      "bolnika",
+      "bolna",
+      "bolnike"
+    ]
+  },
+  {
+    "target_word": "dejavnost",
+    "related_word": [
+      "dejavnosti",
+      "aktivnost",
+      "dejaven"
+    ],
+    "target_word_stem": "dejavnost",
+    "related_word_stem": [
+      "dejavnosti",
+      "aktivnost",
+      "dejaven"
+    ]
+  },
+  {
+    "target_word": "dvomiti",
+    "related_word": [
+      "dvomeč",
+      "verjeti",
+      "dvomi"
+    ],
+    "target_word_stem": "dvomiti",
+    "related_word_stem": [
+      "dvomeč",
+      "verjeti",
+      "dvomi"
+    ]
+  },
+  {
+    "target_word": "ambasador",
+    "related_word": [
+      "ambasadorja",
+      "veleposlanik",
+      "ambasadorje"
+    ],
+    "target_word_stem": "ambasador",
+    "related_word_stem": [
+      "ambasadorja",
+      "veleposlanik",
+      "ambasadorje"
+    ]
+  },
+  {
+    "target_word": "gostitelj",
+    "related_word": [
+      "gostitelja",
+      "gost",
+      "gostitelje"
+    ],
+    "target_word_stem": "gostitelj",
+    "related_word_stem": [
+      "gostitelja",
+      "gost",
+      "gostitelje"
+    ]
+  },
+  {
+    "target_word": "črnilo",
+    "related_word": [
+      "črnil",
+      "tinta",
+      "črnila"
+    ],
+    "target_word_stem": "črnilo",
+    "related_word_stem": [
+      "črnil",
+      "tinta",
+      "črnila"
+    ]
+  },
+  {
+    "target_word": "grofica",
+    "related_word": [
+      "grofic",
+      "kontesa",
+      "groficah"
+    ],
+    "target_word_stem": "grofica",
+    "related_word_stem": [
+      "grofic",
+      "kontesa",
+      "groficah"
+    ]
+  },
+  {
+    "target_word": "februar",
+    "related_word": [
+      "februarja",
+      "dežnik",
+      "februarje"
+    ],
+    "target_word_stem": "februar",
+    "related_word_stem": [
+      "februarja",
+      "dežnik",
+      "februarje"
+    ]
+  },
+  {
+    "target_word": "asistent",
+    "related_word": [
+      "asistenta",
+      "pomočnik",
+      "asistente"
+    ],
+    "target_word_stem": "asistent",
+    "related_word_stem": [
+      "asistenta",
+      "pomočnik",
+      "asistente"
+    ]
+  },
+  {
+    "target_word": "govedina",
+    "related_word": [
+      "govedine",
+      "govedo",
+      "govedini"
+    ],
+    "target_word_stem": "govedina",
+    "related_word_stem": [
+      "govedine",
+      "govedo",
+      "govedini"
+    ]
+  },
+  {
+    "target_word": "dežnik",
+    "related_word": [
+      "dežnika",
+      "februar",
+      "dež"
+    ],
+    "target_word_stem": "dežnik",
+    "related_word_stem": [
+      "dežnika",
+      "februar",
+      "dež"
+    ]
+  },
+  {
+    "target_word": "cesarstvo",
+    "related_word": [
+      "cesarstev",
+      "cesar",
+      "cesarstva"
+    ],
+    "target_word_stem": "cesarstvo",
+    "related_word_stem": [
+      "cesarstev",
+      "cesar",
+      "cesarstva"
+    ]
+  },
+  {
+    "target_word": "jelka",
+    "related_word": [
+      "jelk",
+      "jela",
+      "jelko"
+    ],
+    "target_word_stem": "jelka",
+    "related_word_stem": [
+      "jelk",
+      "jela",
+      "jelko"
+    ]
+  },
+  {
+    "target_word": "korenje",
+    "related_word": [
+      "mrkev",
+      "koren",
+      "mrkva"
+    ],
+    "target_word_stem": "korenje",
+    "related_word_stem": [
+      "mrkev",
+      "koren",
+      "mrkva"
+    ]
+  },
+  {
+    "target_word": "dimnik",
+    "related_word": [
+      "dimnika",
+      "dim",
+      "dimnike"
+    ],
+    "target_word_stem": "dimnik",
+    "related_word_stem": [
+      "dimnika",
+      "dim",
+      "dimnike"
+    ]
+  },
+  {
+    "target_word": "španščina",
+    "related_word": [
+      "španec",
+      "španski",
+      "španija"
+    ],
+    "target_word_stem": "španščina",
+    "related_word_stem": [
+      "španec",
+      "španski",
+      "španija"
+    ]
+  },
+  {
+    "target_word": "glavnik",
+    "related_word": [
+      "glavnika",
+      "glava",
+      "glavnike"
+    ],
+    "target_word_stem": "glavnik",
+    "related_word_stem": [
+      "glavnika",
+      "glava",
+      "glavnike"
+    ]
+  },
+  {
+    "target_word": "grozljivka",
+    "related_word": [
+      "grozljivk",
+      "grozljiv",
+      "grozljivkah"
+    ],
+    "target_word_stem": "grozljivka",
+    "related_word_stem": [
+      "grozljivk",
+      "grozljiv",
+      "grozljivkah"
+    ]
+  },
+  {
+    "target_word": "hrast",
+    "related_word": [
+      "hrasta",
+      "dob",
+      "hraste"
+    ],
+    "target_word_stem": "hrast",
+    "related_word_stem": [
+      "hrasta",
+      "dob",
+      "hraste"
+    ]
+  }
+]

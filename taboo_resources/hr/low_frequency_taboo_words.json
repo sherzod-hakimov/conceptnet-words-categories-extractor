@@ -1,0 +1,282 @@
+[
+  {
+    "target_word": "sloboda",
+    "related_word": [
+      "pravo",
+      "zatvor",
+      "izbor"
+    ],
+    "target_word_stem": "sloboda",
+    "related_word_stem": [
+      "pravo",
+      "zatvor",
+      "izbor"
+    ]
+  },
+  {
+    "target_word": "otok",
+    "related_word": [
+      "obala",
+      "brod",
+      "kopno"
+    ],
+    "target_word_stem": "otok",
+    "related_word_stem": [
+      "obala",
+      "brod",
+      "kopno"
+    ]
+  },
+  {
+    "target_word": "šuma",
+    "related_word": [
+      "drvo",
+      "priroda",
+      "životinja"
+    ],
+    "target_word_stem": "šuma",
+    "related_word_stem": [
+      "drvo",
+      "priroda",
+      "životinja"
+    ]
+  },
+  {
+    "target_word": "san",
+    "related_word": [
+      "krevet",
+      "odmor",
+      "java"
+    ],
+    "target_word_stem": "san",
+    "related_word_stem": [
+      "krevet",
+      "odmor",
+      "java"
+    ]
+  },
+  {
+    "target_word": "dvorac",
+    "related_word": [
+      "kralj",
+      "tvrđava",
+      "prošlost"
+    ],
+    "target_word_stem": "dvorac",
+    "related_word_stem": [
+      "kralj",
+      "tvrđava",
+      "prošlost"
+    ]
+  },
+  {
+    "target_word": "pustinja",
+    "related_word": [
+      "pijesak",
+      "suša",
+      "deva"
+    ],
+    "target_word_stem": "pustinja",
+    "related_word_stem": [
+      "pijesak",
+      "suša",
+      "deva"
+    ]
+  },
+  {
+    "target_word": "most",
+    "related_word": [
+      "rijeka",
+      "prijelaz",
+      "konstrukcija"
+    ],
+    "target_word_stem": "most",
+    "related_word_stem": [
+      "rijeka",
+      "prijelaz",
+      "konstrukcija"
+    ]
+  },
+  {
+    "target_word": "tajna",
+    "related_word": [
+      "istina",
+      "laž",
+      "šutnja"
+    ],
+    "target_word_stem": "tajna",
+    "related_word_stem": [
+      "istina",
+      "laž",
+      "šutnja"
+    ]
+  },
+  {
+    "target_word": "vatra",
+    "related_word": [
+      "požar",
+      "dim",
+      "plamen"
+    ],
+    "target_word_stem": "vatra",
+    "related_word_stem": [
+      "požar",
+      "dim",
+      "plamen"
+    ]
+  },
+  {
+    "target_word": "snijeg",
+    "related_word": [
+      "zima",
+      "led",
+      "bijelo"
+    ],
+    "target_word_stem": "snijeg",
+    "related_word_stem": [
+      "zima",
+      "led",
+      "bijel"
+    ]
+  },
+  {
+    "target_word": "slika",
+    "related_word": [
+      "okvir",
+      "boja",
+      "umjetnost"
+    ],
+    "target_word_stem": "slika",
+    "related_word_stem": [
+      "okvir",
+      "boja",
+      "umjetnost"
+    ]
+  },
+  {
+    "target_word": "zrcalo",
+    "related_word": [
+      "odraz",
+      "staklo",
+      "lice"
+    ],
+    "target_word_stem": "zrcalo",
+    "related_word_stem": [
+      "odraz",
+      "staklo",
+      "lice"
+    ]
+  },
+  {
+    "target_word": "mir",
+    "related_word": [
+      "rat",
+      "tišina",
+      "sreća"
+    ],
+    "target_word_stem": "mir",
+    "related_word_stem": [
+      "rat",
+      "tišina",
+      "sreća"
+    ]
+  },
+  {
+    "target_word": "buka",
+    "related_word": [
+      "zvuk",
+      "glazba",
+      "glas"
+    ],
+    "target_word_stem": "buka",
+    "related_word_stem": [
+      "zvuk",
+      "glazba",
+      "glas"
+    ]
+  },
+  {
+    "target_word": "duh",
+    "related_word": [
+      "strah",
+      "duša",
+      "priča"
+    ],
+    "target_word_stem": "duh",
+    "related_word_stem": [
+      "strah",
+      "duša",
+      "priča"
+    ]
+  },
+  {
+    "target_word": "zakon",
+    "related_word": [
+      "sud",
+      "pravilo",
+      "država"
+    ],
+    "target_word_stem": "zakon",
+    "related_word_stem": [
+      "sud",
+      "pravilo",
+      "država"
+    ]
+  },
+  {
+    "target_word": "otac",
+    "related_word": [
+      "tata",
+      "glava",
+      "muž"
+    ],
+    "target_word_stem": "otac",
+    "related_word_stem": [
+      "tata",
+      "glava",
+      "muž"
+    ]
+  },
+  {
+    "target_word": "zvijezda",
+    "related_word": [
+      "svemir",
+      "sjaj",
+      "poznati"
+    ],
+    "target_word_stem": "zvijezda",
+    "related_word_stem": [
+      "svemir",
+      "sjaj",
+      "poznat"
+    ]
+  },
+  {
+    "target_word": "kruh",
+    "related_word": [
+      "pekara",
+      "brašno",
+      "doručak"
+    ],
+    "target_word_stem": "kruh",
+    "related_word_stem": [
+      "pekara",
+      "brašno",
+      "doručak"
+    ]
+  },
+  {
+    "target_word": "kamen",
+    "related_word": [
+      "stijena",
+      "težina",
+      "tlo"
+    ],
+    "target_word_stem": "kamen",
+    "related_word_stem": [
+      "stijena",
+      "težina",
+      "tlo"
+    ]
+  }
+]

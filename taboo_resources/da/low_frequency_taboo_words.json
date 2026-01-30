@@ -1,0 +1,1962 @@
+[
+  {
+    "target_word": "efternavn",
+    "related_word": [
+      "fornavn",
+      "familienavn",
+      "efter"
+    ],
+    "target_word_stem": "efternavn",
+    "related_word_stem": [
+      "fornavn",
+      "familienavn",
+      "efter"
+    ]
+  },
+  {
+    "target_word": "accent",
+    "related_word": [
+      "hovedvægt",
+      "betoning",
+      "tegn"
+    ],
+    "target_word_stem": "accent",
+    "related_word_stem": [
+      "hovedvægt",
+      "betoning",
+      "tegn"
+    ]
+  },
+  {
+    "target_word": "ægtemand",
+    "related_word": [
+      "ægtefælle",
+      "mand",
+      "ægte"
+    ],
+    "target_word_stem": "ægtemand",
+    "related_word_stem": [
+      "ægtefælle",
+      "mand",
+      "ægte"
+    ]
+  },
+  {
+    "target_word": "last",
+    "related_word": [
+      "laster",
+      "ladning",
+      "lastrum"
+    ],
+    "target_word_stem": "last",
+    "related_word_stem": [
+      "laster",
+      "ladning",
+      "lastrum"
+    ]
+  },
+  {
+    "target_word": "morfar",
+    "related_word": [
+      "lur",
+      "bedstefar",
+      "søvn"
+    ],
+    "target_word_stem": "morfar",
+    "related_word_stem": [
+      "lur",
+      "bedstefar",
+      "søvn"
+    ]
+  },
+  {
+    "target_word": "japansk",
+    "related_word": [
+      "japan",
+      "asiatisk",
+      "japaner"
+    ],
+    "target_word_stem": "japansk",
+    "related_word_stem": [
+      "japan",
+      "asiatisk",
+      "japaner"
+    ]
+  },
+  {
+    "target_word": "nytår",
+    "related_word": [
+      "årsskifte",
+      "ny",
+      "år"
+    ],
+    "target_word_stem": "nytår",
+    "related_word_stem": [
+      "årsskifte",
+      "ny",
+      "år"
+    ]
+  },
+  {
+    "target_word": "december",
+    "related_word": [
+      "julemåned",
+      "måned",
+      "kristmåned"
+    ],
+    "target_word_stem": "december",
+    "related_word_stem": [
+      "julemåned",
+      "måned",
+      "kristmåned"
+    ]
+  },
+  {
+    "target_word": "slagsmål",
+    "related_word": [
+      "kamp",
+      "mål",
+      "slag"
+    ],
+    "target_word_stem": "slagsmål",
+    "related_word_stem": [
+      "kamp",
+      "mål",
+      "slag"
+    ]
+  },
+  {
+    "target_word": "niece",
+    "related_word": [
+      "søsterdatter",
+      "brorsøn",
+      "broderdatter"
+    ],
+    "target_word_stem": "niece",
+    "related_word_stem": [
+      "søsterdatter",
+      "brorsøn",
+      "broderdatter"
+    ]
+  },
+  {
+    "target_word": "solnedgang",
+    "related_word": [
+      "solopgang",
+      "nedgang",
+      "sol"
+    ],
+    "target_word_stem": "solnedgang",
+    "related_word_stem": [
+      "solopgang",
+      "nedgang",
+      "sol"
+    ]
+  },
+  {
+    "target_word": "forsker",
+    "related_word": [
+      "forskning",
+      "videnskabskvinde",
+      "forske"
+    ],
+    "target_word_stem": "forsker",
+    "related_word_stem": [
+      "forskning",
+      "videnskabskvinde",
+      "forske"
+    ]
+  },
+  {
+    "target_word": "kongerige",
+    "related_word": [
+      "rige",
+      "kongedømme",
+      "konge"
+    ],
+    "target_word_stem": "kongerige",
+    "related_word_stem": [
+      "rige",
+      "kongedømme",
+      "konge"
+    ]
+  },
+  {
+    "target_word": "sprængstof",
+    "related_word": [
+      "eksplosiv",
+      "sprænge",
+      "stof"
+    ],
+    "target_word_stem": "sprængstof",
+    "related_word_stem": [
+      "eksplosiv",
+      "sprænge",
+      "stof"
+    ]
+  },
+  {
+    "target_word": "halskæde",
+    "related_word": [
+      "halsbånd",
+      "hals",
+      "halssmykke"
+    ],
+    "target_word_stem": "halskæde",
+    "related_word_stem": [
+      "halsbånd",
+      "hals",
+      "halssmykke"
+    ]
+  },
+  {
+    "target_word": "britisk",
+    "related_word": [
+      "engelsk",
+      "brite",
+      "storbritannien"
+    ],
+    "target_word_stem": "britisk",
+    "related_word_stem": [
+      "engelsk",
+      "brite",
+      "storbritannien"
+    ]
+  },
+  {
+    "target_word": "vittighed",
+    "related_word": [
+      "vittig",
+      "joke",
+      "vits"
+    ],
+    "target_word_stem": "vittighed",
+    "related_word_stem": [
+      "vittig",
+      "joke",
+      "vits"
+    ]
+  },
+  {
+    "target_word": "bræk",
+    "related_word": [
+      "indbrud",
+      "brække",
+      "opkast"
+    ],
+    "target_word_stem": "bræk",
+    "related_word_stem": [
+      "indbrud",
+      "brække",
+      "opkast"
+    ]
+  },
+  {
+    "target_word": "bilulykke",
+    "related_word": [
+      "ulykkesbil",
+      "biluheld",
+      "bil"
+    ],
+    "target_word_stem": "bilulykke",
+    "related_word_stem": [
+      "ulykkesbil",
+      "biluheld",
+      "bil"
+    ]
+  },
+  {
+    "target_word": "fornavn",
+    "related_word": [
+      "efternavn",
+      "navn",
+      "for"
+    ],
+    "target_word_stem": "fornavn",
+    "related_word_stem": [
+      "efternavn",
+      "navn",
+      "for"
+    ]
+  },
+  {
+    "target_word": "overskæg",
+    "related_word": [
+      "hår",
+      "skæg",
+      "bakkenbarter"
+    ],
+    "target_word_stem": "overskæg",
+    "related_word_stem": [
+      "hår",
+      "skæg",
+      "bakkenbarter"
+    ]
+  },
+  {
+    "target_word": "solopgang",
+    "related_word": [
+      "solnedgang",
+      "opgang",
+      "sol"
+    ],
+    "target_word_stem": "solopgang",
+    "related_word_stem": [
+      "solnedgang",
+      "opgang",
+      "sol"
+    ]
+  },
+  {
+    "target_word": "strid",
+    "related_word": [
+      "stridbar",
+      "konflikt",
+      "stride"
+    ],
+    "target_word_stem": "strid",
+    "related_word_stem": [
+      "stridbar",
+      "konflikt",
+      "stride"
+    ]
+  },
+  {
+    "target_word": "hjemmeside",
+    "related_word": [
+      "homepage",
+      "hjemme",
+      "website"
+    ],
+    "target_word_stem": "hjemmeside",
+    "related_word_stem": [
+      "homepage",
+      "hjemme",
+      "website"
+    ]
+  },
+  {
+    "target_word": "hjertestop",
+    "related_word": [
+      "hjerteslag",
+      "hjerte",
+      "stop"
+    ],
+    "target_word_stem": "hjertestop",
+    "related_word_stem": [
+      "hjerteslag",
+      "hjerte",
+      "stop"
+    ]
+  },
+  {
+    "target_word": "udyr",
+    "related_word": [
+      "bestie",
+      "dyr",
+      "bæst"
+    ],
+    "target_word_stem": "udyr",
+    "related_word_stem": [
+      "bestie",
+      "dyr",
+      "bæst"
+    ]
+  },
+  {
+    "target_word": "dødsstraf",
+    "related_word": [
+      "livsstraf",
+      "død",
+      "straf"
+    ],
+    "target_word_stem": "dødsstraf",
+    "related_word_stem": [
+      "livsstraf",
+      "død",
+      "straf"
+    ]
+  },
+  {
+    "target_word": "virkning",
+    "related_word": [
+      "effekt",
+      "årsag",
+      "virke"
+    ],
+    "target_word_stem": "virkning",
+    "related_word_stem": [
+      "effekt",
+      "årsag",
+      "virke"
+    ]
+  },
+  {
+    "target_word": "blæst",
+    "related_word": [
+      "blæse",
+      "røre",
+      "vind"
+    ],
+    "target_word_stem": "blæst",
+    "related_word_stem": [
+      "blæse",
+      "røre",
+      "vind"
+    ]
+  },
+  {
+    "target_word": "åbenbaring",
+    "related_word": [
+      "åbenbare",
+      "åbenbarelse",
+      "åbenbar"
+    ],
+    "target_word_stem": "åbenbaring",
+    "related_word_stem": [
+      "åbenbare",
+      "åbenbarelse",
+      "åbenbar"
+    ]
+  },
+  {
+    "target_word": "blodbad",
+    "related_word": [
+      "massakre",
+      "bad",
+      "nedslagtning"
+    ],
+    "target_word_stem": "blodbad",
+    "related_word_stem": [
+      "massakre",
+      "bad",
+      "nedslagtning"
+    ]
+  },
+  {
+    "target_word": "rædsel",
+    "related_word": [
+      "ræd",
+      "angst",
+      "ræddes"
+    ],
+    "target_word_stem": "rædsel",
+    "related_word_stem": [
+      "ræd",
+      "angst",
+      "ræddes"
+    ]
+  },
+  {
+    "target_word": "grundlag",
+    "related_word": [
+      "basis",
+      "grund",
+      "fundament"
+    ],
+    "target_word_stem": "grundlag",
+    "related_word_stem": [
+      "basis",
+      "grund",
+      "fundament"
+    ]
+  },
+  {
+    "target_word": "fej",
+    "related_word": [
+      "krysteragtig",
+      "modig",
+      "kujonagtig"
+    ],
+    "target_word_stem": "fej",
+    "related_word_stem": [
+      "krysteragtig",
+      "modig",
+      "kujonagtig"
+    ]
+  },
+  {
+    "target_word": "gæstfrihed",
+    "related_word": [
+      "gæstmildhed",
+      "ugæstfrihed",
+      "gæst"
+    ],
+    "target_word_stem": "gæstfrihed",
+    "related_word_stem": [
+      "gæstmildhed",
+      "ugæstfrihed",
+      "gæst"
+    ]
+  },
+  {
+    "target_word": "samleje",
+    "related_word": [
+      "knald",
+      "leje",
+      "sex"
+    ],
+    "target_word_stem": "samleje",
+    "related_word_stem": [
+      "knald",
+      "leje",
+      "sex"
+    ]
+  },
+  {
+    "target_word": "berøring",
+    "related_word": [
+      "berøre",
+      "kontakt",
+      "røre"
+    ],
+    "target_word_stem": "berøring",
+    "related_word_stem": [
+      "berøre",
+      "kontakt",
+      "røre"
+    ]
+  },
+  {
+    "target_word": "musiker",
+    "related_word": [
+      "musikfolk",
+      "spiller",
+      "musik"
+    ],
+    "target_word_stem": "musiker",
+    "related_word_stem": [
+      "musikfolk",
+      "spiller",
+      "musik"
+    ]
+  },
+  {
+    "target_word": "englænder",
+    "related_word": [
+      "engelsk",
+      "engelskmand",
+      "england"
+    ],
+    "target_word_stem": "englænder",
+    "related_word_stem": [
+      "engelsk",
+      "engelskmand",
+      "england"
+    ]
+  },
+  {
+    "target_word": "videospil",
+    "related_word": [
+      "computerspil",
+      "spil",
+      "video"
+    ],
+    "target_word_stem": "videospil",
+    "related_word_stem": [
+      "computerspil",
+      "spil",
+      "video"
+    ]
+  },
+  {
+    "target_word": "melding",
+    "related_word": [
+      "meddelelse",
+      "melde",
+      "offentliggørelse"
+    ],
+    "target_word_stem": "melding",
+    "related_word_stem": [
+      "meddelelse",
+      "melde",
+      "offentliggørelse"
+    ]
+  },
+  {
+    "target_word": "forening",
+    "related_word": [
+      "klub",
+      "forbund",
+      "forene"
+    ],
+    "target_word_stem": "forening",
+    "related_word_stem": [
+      "klub",
+      "forbund",
+      "forene"
+    ]
+  },
+  {
+    "target_word": "gåtur",
+    "related_word": [
+      "spadseretur",
+      "gå",
+      "tur"
+    ],
+    "target_word_stem": "gåtur",
+    "related_word_stem": [
+      "spadseretur",
+      "gå",
+      "tur"
+    ]
+  },
+  {
+    "target_word": "mellemnavn",
+    "related_word": [
+      "efternavn",
+      "mellem",
+      "fornavn"
+    ],
+    "target_word_stem": "mellemnavn",
+    "related_word_stem": [
+      "efternavn",
+      "mellem",
+      "fornavn"
+    ]
+  },
+  {
+    "target_word": "bonderøv",
+    "related_word": [
+      "bondejokke",
+      "bonde",
+      "bondeknold"
+    ],
+    "target_word_stem": "bonderøv",
+    "related_word_stem": [
+      "bondejokke",
+      "bonde",
+      "bondeknold"
+    ]
+  },
+  {
+    "target_word": "kaj",
+    "related_word": [
+      "kai",
+      "brygge",
+      "perron"
+    ],
+    "target_word_stem": "kaj",
+    "related_word_stem": [
+      "kai",
+      "brygge",
+      "perron"
+    ]
+  },
+  {
+    "target_word": "bøsserøv",
+    "related_word": [
+      "svans",
+      "bøsse",
+      "røv"
+    ],
+    "target_word_stem": "bøsserøv",
+    "related_word_stem": [
+      "svans",
+      "bøsse",
+      "røv"
+    ]
+  },
+  {
+    "target_word": "massakre",
+    "related_word": [
+      "massakrere",
+      "blodbad",
+      "nedslagtning"
+    ],
+    "target_word_stem": "massakre",
+    "related_word_stem": [
+      "massakrere",
+      "blodbad",
+      "nedslagtning"
+    ]
+  },
+  {
+    "target_word": "flertal",
+    "related_word": [
+      "majoritet",
+      "ental",
+      "tal"
+    ],
+    "target_word_stem": "flertal",
+    "related_word_stem": [
+      "majoritet",
+      "ental",
+      "tal"
+    ]
+  },
+  {
+    "target_word": "ørering",
+    "related_word": [
+      "øresmykke",
+      "ring",
+      "øre"
+    ],
+    "target_word_stem": "ørering",
+    "related_word_stem": [
+      "øresmykke",
+      "ring",
+      "øre"
+    ]
+  },
+  {
+    "target_word": "bekostning",
+    "related_word": [
+      "bekostelig",
+      "omkostning",
+      "bekoste"
+    ],
+    "target_word_stem": "bekostning",
+    "related_word_stem": [
+      "bekostelig",
+      "omkostning",
+      "bekoste"
+    ]
+  },
+  {
+    "target_word": "motivation",
+    "related_word": [
+      "motiv",
+      "motivering",
+      "motivere"
+    ],
+    "target_word_stem": "motivation",
+    "related_word_stem": [
+      "motiv",
+      "motivering",
+      "motivere"
+    ]
+  },
+  {
+    "target_word": "spædbarn",
+    "related_word": [
+      "baby",
+      "barn",
+      "spæd"
+    ],
+    "target_word_stem": "spædbarn",
+    "related_word_stem": [
+      "baby",
+      "barn",
+      "spæd"
+    ]
+  },
+  {
+    "target_word": "hane",
+    "related_word": [
+      "kylling",
+      "vandhane",
+      "høne"
+    ],
+    "target_word_stem": "hane",
+    "related_word_stem": [
+      "kylling",
+      "vandhane",
+      "høne"
+    ]
+  },
+  {
+    "target_word": "afføring",
+    "related_word": [
+      "bæ",
+      "afføre",
+      "fæces"
+    ],
+    "target_word_stem": "afføring",
+    "related_word_stem": [
+      "bæ",
+      "afføre",
+      "fæces"
+    ]
+  },
+  {
+    "target_word": "oversætte",
+    "related_word": [
+      "oversatte",
+      "over",
+      "sætte"
+    ],
+    "target_word_stem": "oversætte",
+    "related_word_stem": [
+      "oversatte",
+      "over",
+      "sætte"
+    ]
+  },
+  {
+    "target_word": "danser",
+    "related_word": [
+      "danserinde",
+      "dans",
+      "danse"
+    ],
+    "target_word_stem": "danser",
+    "related_word_stem": [
+      "danserinde",
+      "dans",
+      "danse"
+    ]
+  },
+  {
+    "target_word": "stedmor",
+    "related_word": [
+      "bonusmor",
+      "mor",
+      "papmor"
+    ],
+    "target_word_stem": "stedmor",
+    "related_word_stem": [
+      "bonusmor",
+      "mor",
+      "papmor"
+    ]
+  },
+  {
+    "target_word": "halsbånd",
+    "related_word": [
+      "halskæde",
+      "bånd",
+      "hals"
+    ],
+    "target_word_stem": "halsbånd",
+    "related_word_stem": [
+      "halskæde",
+      "bånd",
+      "hals"
+    ]
+  },
+  {
+    "target_word": "tomrum",
+    "related_word": [
+      "vakuum",
+      "rum",
+      "tom"
+    ],
+    "target_word_stem": "tomrum",
+    "related_word_stem": [
+      "vakuum",
+      "rum",
+      "tom"
+    ]
+  },
+  {
+    "target_word": "biluheld",
+    "related_word": [
+      "bilulykke",
+      "bil",
+      "uheld"
+    ],
+    "target_word_stem": "biluheld",
+    "related_word_stem": [
+      "bilulykke",
+      "bil",
+      "uheld"
+    ]
+  },
+  {
+    "target_word": "sambo",
+    "related_word": [
+      "roomie",
+      "bo",
+      "kontubernal"
+    ],
+    "target_word_stem": "sambo",
+    "related_word_stem": [
+      "roomie",
+      "bo",
+      "kontubernal"
+    ]
+  },
+  {
+    "target_word": "vantro",
+    "related_word": [
+      "hedensk",
+      "tro",
+      "mistroisk"
+    ],
+    "target_word_stem": "vantro",
+    "related_word_stem": [
+      "hedensk",
+      "tro",
+      "mistroisk"
+    ]
+  },
+  {
+    "target_word": "gulerod",
+    "related_word": [
+      "rod",
+      "pisk",
+      "gul"
+    ],
+    "target_word_stem": "gulerod",
+    "related_word_stem": [
+      "rod",
+      "pisk",
+      "gul"
+    ]
+  },
+  {
+    "target_word": "kontinent",
+    "related_word": [
+      "kontinental",
+      "fastland",
+      "subkontinent"
+    ],
+    "target_word_stem": "kontinent",
+    "related_word_stem": [
+      "kontinental",
+      "fastland",
+      "subkontinent"
+    ]
+  },
+  {
+    "target_word": "landbrug",
+    "related_word": [
+      "havebrug",
+      "jordbrug",
+      "brug"
+    ],
+    "target_word_stem": "landbrug",
+    "related_word_stem": [
+      "havebrug",
+      "jordbrug",
+      "brug"
+    ]
+  },
+  {
+    "target_word": "hudfarve",
+    "related_word": [
+      "hudfarvet",
+      "farve",
+      "hud"
+    ],
+    "target_word_stem": "hudfarve",
+    "related_word_stem": [
+      "hudfarvet",
+      "farve",
+      "hud"
+    ]
+  },
+  {
+    "target_word": "elg",
+    "related_word": [
+      "elsdyr",
+      "drøvtygger",
+      "dyr"
+    ],
+    "target_word_stem": "elg",
+    "related_word_stem": [
+      "elsdyr",
+      "drøvtygger",
+      "dyr"
+    ]
+  },
+  {
+    "target_word": "røræg",
+    "related_word": [
+      "æggesnaps",
+      "røre",
+      "æg"
+    ],
+    "target_word_stem": "røræg",
+    "related_word_stem": [
+      "æggesnaps",
+      "røre",
+      "æg"
+    ]
+  },
+  {
+    "target_word": "firkant",
+    "related_word": [
+      "kvadrat",
+      "polygon",
+      "fire"
+    ],
+    "target_word_stem": "firkant",
+    "related_word_stem": [
+      "kvadrat",
+      "polygon",
+      "fire"
+    ]
+  },
+  {
+    "target_word": "hvidvin",
+    "related_word": [
+      "hvid",
+      "rosé",
+      "vin"
+    ],
+    "target_word_stem": "hvidvin",
+    "related_word_stem": [
+      "hvid",
+      "rosé",
+      "vin"
+    ]
+  },
+  {
+    "target_word": "bydel",
+    "related_word": [
+      "by",
+      "kvarter",
+      "del"
+    ],
+    "target_word_stem": "bydel",
+    "related_word_stem": [
+      "by",
+      "kvarter",
+      "del"
+    ]
+  },
+  {
+    "target_word": "fødevare",
+    "related_word": [
+      "levnedsmiddel",
+      "føde",
+      "madvare"
+    ],
+    "target_word_stem": "fødevare",
+    "related_word_stem": [
+      "levnedsmiddel",
+      "føde",
+      "madvare"
+    ]
+  },
+  {
+    "target_word": "farbror",
+    "related_word": [
+      "morbror",
+      "onkel",
+      "far"
+    ],
+    "target_word_stem": "farbror",
+    "related_word_stem": [
+      "morbror",
+      "onkel",
+      "far"
+    ]
+  },
+  {
+    "target_word": "afbrydelse",
+    "related_word": [
+      "ophold",
+      "afbryde",
+      "standsning"
+    ],
+    "target_word_stem": "afbrydelse",
+    "related_word_stem": [
+      "ophold",
+      "afbryde",
+      "standsning"
+    ]
+  },
+  {
+    "target_word": "solsystem",
+    "related_word": [
+      "solsystemet",
+      "sol",
+      "system"
+    ],
+    "target_word_stem": "solsystem",
+    "related_word_stem": [
+      "solsystemet",
+      "sol",
+      "system"
+    ]
+  },
+  {
+    "target_word": "ægtefælle",
+    "related_word": [
+      "ægtemand",
+      "fælle",
+      "hustru"
+    ],
+    "target_word_stem": "ægtefælle",
+    "related_word_stem": [
+      "ægtemand",
+      "fælle",
+      "hustru"
+    ]
+  },
+  {
+    "target_word": "velvilje",
+    "related_word": [
+      "imødekommenhed",
+      "modvilje",
+      "uvilje"
+    ],
+    "target_word_stem": "velvilje",
+    "related_word_stem": [
+      "imødekommenhed",
+      "modvilje",
+      "uvilje"
+    ]
+  },
+  {
+    "target_word": "ligemand",
+    "related_word": [
+      "lige",
+      "overmand",
+      "mand"
+    ],
+    "target_word_stem": "ligemand",
+    "related_word_stem": [
+      "lige",
+      "overmand",
+      "mand"
+    ]
+  },
+  {
+    "target_word": "tyrkisk",
+    "related_word": [
+      "tyrker",
+      "tyrk",
+      "tyrkiet"
+    ],
+    "target_word_stem": "tyrkisk",
+    "related_word_stem": [
+      "tyrker",
+      "tyrk",
+      "tyrkiet"
+    ]
+  },
+  {
+    "target_word": "genbrug",
+    "related_word": [
+      "genbruge",
+      "genanvendelse",
+      "brug"
+    ],
+    "target_word_stem": "genbrug",
+    "related_word_stem": [
+      "genbruge",
+      "genanvendelse",
+      "brug"
+    ]
+  },
+  {
+    "target_word": "tissemand",
+    "related_word": [
+      "tissekone",
+      "mand",
+      "tisse"
+    ],
+    "target_word_stem": "tissemand",
+    "related_word_stem": [
+      "tissekone",
+      "mand",
+      "tisse"
+    ]
+  },
+  {
+    "target_word": "tyrker",
+    "related_word": [
+      "tyrkiet",
+      "tyrk",
+      "tyrkisk"
+    ],
+    "target_word_stem": "tyrker",
+    "related_word_stem": [
+      "tyrkiet",
+      "tyrk",
+      "tyrkisk"
+    ]
+  },
+  {
+    "target_word": "galehus",
+    "related_word": [
+      "galeanstalt",
+      "gal",
+      "hus"
+    ],
+    "target_word_stem": "galehus",
+    "related_word_stem": [
+      "galeanstalt",
+      "gal",
+      "hus"
+    ]
+  },
+  {
+    "target_word": "sørøver",
+    "related_word": [
+      "pirat",
+      "røver",
+      "sø"
+    ],
+    "target_word_stem": "sørøver",
+    "related_word_stem": [
+      "pirat",
+      "røver",
+      "sø"
+    ]
+  },
+  {
+    "target_word": "danskvand",
+    "related_word": [
+      "apollinaris",
+      "dansk",
+      "mineralvand"
+    ],
+    "target_word_stem": "danskvand",
+    "related_word_stem": [
+      "apollinaris",
+      "dansk",
+      "mineralvand"
+    ]
+  },
+  {
+    "target_word": "araber",
+    "related_word": [
+      "arabien",
+      "araberhest",
+      "arabisk"
+    ],
+    "target_word_stem": "araber",
+    "related_word_stem": [
+      "arabien",
+      "araberhest",
+      "arabisk"
+    ]
+  },
+  {
+    "target_word": "kænguru",
+    "related_word": [
+      "pungdyr",
+      "dyr",
+      "pattedyr"
+    ],
+    "target_word_stem": "kænguru",
+    "related_word_stem": [
+      "pungdyr",
+      "dyr",
+      "pattedyr"
+    ]
+  },
+  {
+    "target_word": "overmand",
+    "related_word": [
+      "mand",
+      "ligemand",
+      "over"
+    ],
+    "target_word_stem": "overmand",
+    "related_word_stem": [
+      "mand",
+      "ligemand",
+      "over"
+    ]
+  },
+  {
+    "target_word": "dansker",
+    "related_word": [
+      "danmark",
+      "dane",
+      "dansk"
+    ],
+    "target_word_stem": "dansker",
+    "related_word_stem": [
+      "danmark",
+      "dane",
+      "dansk"
+    ]
+  },
+  {
+    "target_word": "din",
+    "related_word": [
+      "dig",
+      "dit",
+      "dine"
+    ],
+    "target_word_stem": "din",
+    "related_word_stem": [
+      "dig",
+      "dit",
+      "dine"
+    ]
+  },
+  {
+    "target_word": "svenske",
+    "related_word": [
+      "grønirisk",
+      "dyr",
+      "finke"
+    ],
+    "target_word_stem": "svenske",
+    "related_word_stem": [
+      "grønirisk",
+      "dyr",
+      "finke"
+    ]
+  },
+  {
+    "target_word": "jordnød",
+    "related_word": [
+      "peanut",
+      "jord",
+      "nød"
+    ],
+    "target_word_stem": "jordnød",
+    "related_word_stem": [
+      "peanut",
+      "jord",
+      "nød"
+    ]
+  },
+  {
+    "target_word": "afdrag",
+    "related_word": [
+      "afbetaling",
+      "beløb",
+      "betaling"
+    ],
+    "target_word_stem": "afdrag",
+    "related_word_stem": [
+      "afbetaling",
+      "beløb",
+      "betaling"
+    ]
+  },
+  {
+    "target_word": "marsvin",
+    "related_word": [
+      "tumler",
+      "gnaver",
+      "dyr"
+    ],
+    "target_word_stem": "marsvin",
+    "related_word_stem": [
+      "tumler",
+      "gnaver",
+      "dyr"
+    ]
+  },
+  {
+    "target_word": "ske",
+    "related_word": [
+      "sker",
+      "forekomme",
+      "inde"
+    ],
+    "target_word_stem": "ske",
+    "related_word_stem": [
+      "sker",
+      "forekomme",
+      "inde"
+    ]
+  },
+  {
+    "target_word": "hundemad",
+    "related_word": [
+      "hundefoder",
+      "e",
+      "hund"
+    ],
+    "target_word_stem": "hundemad",
+    "related_word_stem": [
+      "hundefoder",
+      "e",
+      "hund"
+    ]
+  },
+  {
+    "target_word": "bordtennis",
+    "related_word": [
+      "pingpong",
+      "bord",
+      "tennis"
+    ],
+    "target_word_stem": "bordtennis",
+    "related_word_stem": [
+      "pingpong",
+      "bord",
+      "tennis"
+    ]
+  },
+  {
+    "target_word": "horehus",
+    "related_word": [
+      "bordel",
+      "hore",
+      "hus"
+    ],
+    "target_word_stem": "horehus",
+    "related_word_stem": [
+      "bordel",
+      "hore",
+      "hus"
+    ]
+  },
+  {
+    "target_word": "halshugge",
+    "related_word": [
+      "halshugning",
+      "hals",
+      "hugge"
+    ],
+    "target_word_stem": "halshugge",
+    "related_word_stem": [
+      "halshugning",
+      "hals",
+      "hugge"
+    ]
+  },
+  {
+    "target_word": "krybdyr",
+    "related_word": [
+      "reptil",
+      "hvirveldyr",
+      "dyr"
+    ],
+    "target_word_stem": "krybdyr",
+    "related_word_stem": [
+      "reptil",
+      "hvirveldyr",
+      "dyr"
+    ]
+  },
+  {
+    "target_word": "dødsattest",
+    "related_word": [
+      "fødselsattest",
+      "attest",
+      "død"
+    ],
+    "target_word_stem": "dødsattest",
+    "related_word_stem": [
+      "fødselsattest",
+      "attest",
+      "død"
+    ]
+  },
+  {
+    "target_word": "stofskifte",
+    "related_word": [
+      "stofskiftesygdom",
+      "metabolisme",
+      "skifte"
+    ],
+    "target_word_stem": "stofskifte",
+    "related_word_stem": [
+      "stofskiftesygdom",
+      "metabolisme",
+      "skifte"
+    ]
+  },
+  {
+    "target_word": "kraveben",
+    "related_word": [
+      "nøgleben",
+      "ben",
+      "krave"
+    ],
+    "target_word_stem": "kraveben",
+    "related_word_stem": [
+      "nøgleben",
+      "ben",
+      "krave"
+    ]
+  },
+  {
+    "target_word": "landmine",
+    "related_word": [
+      "mine",
+      "sømine",
+      "land"
+    ],
+    "target_word_stem": "landmine",
+    "related_word_stem": [
+      "mine",
+      "sømine",
+      "land"
+    ]
+  },
+  {
+    "target_word": "gange",
+    "related_word": [
+      "multiplicere",
+      "dele",
+      "dividere"
+    ],
+    "target_word_stem": "gange",
+    "related_word_stem": [
+      "multiplicere",
+      "dele",
+      "dividere"
+    ]
+  },
+  {
+    "target_word": "kulstof",
+    "related_word": [
+      "carbon",
+      "kul",
+      "stof"
+    ],
+    "target_word_stem": "kulstof",
+    "related_word_stem": [
+      "carbon",
+      "kul",
+      "stof"
+    ]
+  },
+  {
+    "target_word": "kronprins",
+    "related_word": [
+      "tronarving",
+      "krone",
+      "prins"
+    ],
+    "target_word_stem": "kronprins",
+    "related_word_stem": [
+      "tronarving",
+      "krone",
+      "prins"
+    ]
+  },
+  {
+    "target_word": "isbjørn",
+    "related_word": [
+      "bjørn",
+      "dyr",
+      "is"
+    ],
+    "target_word_stem": "isbjørn",
+    "related_word_stem": [
+      "bjørn",
+      "dyr",
+      "is"
+    ]
+  },
+  {
+    "target_word": "dåb",
+    "related_word": [
+      "barnedåb",
+      "ceremoni",
+      "dåbsattest"
+    ],
+    "target_word_stem": "dåb",
+    "related_word_stem": [
+      "barnedåb",
+      "ceremoni",
+      "dåbsattest"
+    ]
+  },
+  {
+    "target_word": "gnaver",
+    "related_word": [
+      "pattedyr",
+      "gnave",
+      "dyr"
+    ],
+    "target_word_stem": "gnaver",
+    "related_word_stem": [
+      "pattedyr",
+      "gnave",
+      "dyr"
+    ]
+  },
+  {
+    "target_word": "folkemord",
+    "related_word": [
+      "folkedrab",
+      "folk",
+      "mord"
+    ],
+    "target_word_stem": "folkemord",
+    "related_word_stem": [
+      "folkedrab",
+      "folk",
+      "mord"
+    ]
+  },
+  {
+    "target_word": "abstrakt",
+    "related_word": [
+      "nonfigurativ",
+      "konkret",
+      "resumé"
+    ],
+    "target_word_stem": "abstrakt",
+    "related_word_stem": [
+      "nonfigurativ",
+      "konkret",
+      "resumé"
+    ]
+  },
+  {
+    "target_word": "dus",
+    "related_word": [
+      "de",
+      "des",
+      "du"
+    ],
+    "target_word_stem": "dus",
+    "related_word_stem": [
+      "de",
+      "des",
+      "du"
+    ]
+  },
+  {
+    "target_word": "datid",
+    "related_word": [
+      "imperfektum",
+      "da",
+      "præteritum"
+    ],
+    "target_word_stem": "datid",
+    "related_word_stem": [
+      "imperfektum",
+      "da",
+      "præteritum"
+    ]
+  },
+  {
+    "target_word": "brugernavn",
+    "related_word": [
+      "brugerside",
+      "bruger",
+      "navn"
+    ],
+    "target_word_stem": "brugernavn",
+    "related_word_stem": [
+      "brugerside",
+      "bruger",
+      "navn"
+    ]
+  },
+  {
+    "target_word": "målmand",
+    "related_word": [
+      "målvogter",
+      "mand",
+      "mål"
+    ],
+    "target_word_stem": "målmand",
+    "related_word_stem": [
+      "målvogter",
+      "mand",
+      "mål"
+    ]
+  },
+  {
+    "target_word": "bøhmand",
+    "related_word": [
+      "bussemand",
+      "bøh",
+      "mand"
+    ],
+    "target_word_stem": "bøhmand",
+    "related_word_stem": [
+      "bussemand",
+      "bøh",
+      "mand"
+    ]
+  },
+  {
+    "target_word": "spindelvæv",
+    "related_word": [
+      "edderkoppespind",
+      "spindel",
+      "væv"
+    ],
+    "target_word_stem": "spindelvæv",
+    "related_word_stem": [
+      "edderkoppespind",
+      "spindel",
+      "væv"
+    ]
+  },
+  {
+    "target_word": "valnød",
+    "related_word": [
+      "valnøddetræ",
+      "valnøddekerne",
+      "valnødtræ"
+    ],
+    "target_word_stem": "valnød",
+    "related_word_stem": [
+      "valnøddetræ",
+      "valnøddekerne",
+      "valnødtræ"
+    ]
+  },
+  {
+    "target_word": "brint",
+    "related_word": [
+      "hydrogen",
+      "grundstof",
+      "vandstof"
+    ],
+    "target_word_stem": "brint",
+    "related_word_stem": [
+      "hydrogen",
+      "grundstof",
+      "vandstof"
+    ]
+  },
+  {
+    "target_word": "beholde",
+    "related_word": [
+      "konservere",
+      "holde",
+      "redde"
+    ],
+    "target_word_stem": "beholde",
+    "related_word_stem": [
+      "konservere",
+      "holde",
+      "redde"
+    ]
+  },
+  {
+    "target_word": "rollemodel",
+    "related_word": [
+      "forbillede",
+      "model",
+      "rolle"
+    ],
+    "target_word_stem": "rollemodel",
+    "related_word_stem": [
+      "forbillede",
+      "model",
+      "rolle"
+    ]
+  },
+  {
+    "target_word": "bogorm",
+    "related_word": [
+      "læsehest",
+      "bog",
+      "orm"
+    ],
+    "target_word_stem": "bogorm",
+    "related_word_stem": [
+      "læsehest",
+      "bog",
+      "orm"
+    ]
+  },
+  {
+    "target_word": "tumult",
+    "related_word": [
+      "tumultagtig",
+      "slagsmål",
+      "tumultarisk"
+    ],
+    "target_word_stem": "tumult",
+    "related_word_stem": [
+      "tumultagtig",
+      "slagsmål",
+      "tumultarisk"
+    ]
+  },
+  {
+    "target_word": "folkedrab",
+    "related_word": [
+      "folkemord",
+      "drab",
+      "udryddelse"
+    ],
+    "target_word_stem": "folkedrab",
+    "related_word_stem": [
+      "folkemord",
+      "drab",
+      "udryddelse"
+    ]
+  },
+  {
+    "target_word": "grundlov",
+    "related_word": [
+      "forfatning",
+      "grund",
+      "lov"
+    ],
+    "target_word_stem": "grundlov",
+    "related_word_stem": [
+      "forfatning",
+      "grund",
+      "lov"
+    ]
+  },
+  {
+    "target_word": "knurhår",
+    "related_word": [
+      "overskæg",
+      "hår",
+      "skæg"
+    ],
+    "target_word_stem": "knurhår",
+    "related_word_stem": [
+      "overskæg",
+      "hår",
+      "skæg"
+    ]
+  },
+  {
+    "target_word": "høj",
+    "related_word": [
+      "højagtelse",
+      "skæv",
+      "højde"
+    ],
+    "target_word_stem": "høj",
+    "related_word_stem": [
+      "højagtelse",
+      "skæv",
+      "højde"
+    ]
+  },
+  {
+    "target_word": "kroat",
+    "related_word": [
+      "kroatisk",
+      "kroater",
+      "kroatien"
+    ],
+    "target_word_stem": "kroat",
+    "related_word_stem": [
+      "kroatisk",
+      "kroater",
+      "kroatien"
+    ]
+  },
+  {
+    "target_word": "lænestol",
+    "related_word": [
+      "armstol",
+      "stol",
+      "læne"
+    ],
+    "target_word_stem": "lænestol",
+    "related_word_stem": [
+      "armstol",
+      "stol",
+      "læne"
+    ]
+  },
+  {
+    "target_word": "ølmave",
+    "related_word": [
+      "ølvom",
+      "mave",
+      "øl"
+    ],
+    "target_word_stem": "ølmave",
+    "related_word_stem": [
+      "ølvom",
+      "mave",
+      "øl"
+    ]
+  },
+  {
+    "target_word": "huskat",
+    "related_word": [
+      "kat",
+      "hankat",
+      "hunkat"
+    ],
+    "target_word_stem": "huskat",
+    "related_word_stem": [
+      "kat",
+      "hankat",
+      "hunkat"
+    ]
+  },
+  {
+    "target_word": "monarki",
+    "related_word": [
+      "enevælde",
+      "kongerige",
+      "monark"
+    ],
+    "target_word_stem": "monarki",
+    "related_word_stem": [
+      "enevælde",
+      "kongerige",
+      "monark"
+    ]
+  },
+  {
+    "target_word": "ståsted",
+    "related_word": [
+      "standpunkt",
+      "sted",
+      "stå"
+    ],
+    "target_word_stem": "ståsted",
+    "related_word_stem": [
+      "standpunkt",
+      "sted",
+      "stå"
+    ]
+  },
+  {
+    "target_word": "kolonial",
+    "related_word": [
+      "kolonialvarer",
+      "koloni",
+      "kolonialforretning"
+    ],
+    "target_word_stem": "kolonial",
+    "related_word_stem": [
+      "kolonialvarer",
+      "koloni",
+      "kolonialforretning"
+    ]
+  },
+  {
+    "target_word": "neon",
+    "related_word": [
+      "neonlys",
+      "grundstof",
+      "ædelgas"
+    ],
+    "target_word_stem": "neon",
+    "related_word_stem": [
+      "neonlys",
+      "grundstof",
+      "ædelgas"
+    ]
+  },
+  {
+    "target_word": "kernekraft",
+    "related_word": [
+      "atomkraft",
+      "kerne",
+      "kraft"
+    ],
+    "target_word_stem": "kernekraft",
+    "related_word_stem": [
+      "atomkraft",
+      "kerne",
+      "kraft"
+    ]
+  },
+  {
+    "target_word": "bondeknold",
+    "related_word": [
+      "bondejokke",
+      "bonde",
+      "bonderøv"
+    ],
+    "target_word_stem": "bondeknold",
+    "related_word_stem": [
+      "bondejokke",
+      "bonde",
+      "bonderøv"
+    ]
+  },
+  {
+    "target_word": "kroater",
+    "related_word": [
+      "kroat",
+      "kroatien",
+      "liechtensteiner"
+    ],
+    "target_word_stem": "kroater",
+    "related_word_stem": [
+      "kroat",
+      "kroatien",
+      "liechtensteiner"
+    ]
+  }
+]

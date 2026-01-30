@@ -1,0 +1,282 @@
+[
+  {
+    "target_word": "خواب",
+    "related_word": [
+      "نیند",
+      "خیال",
+      "حقیقت"
+    ],
+    "target_word_stem": "خواب",
+    "related_word_stem": [
+      "نیند",
+      "خیال",
+      "حقیقت"
+    ]
+  },
+  {
+    "target_word": "آزادی",
+    "related_word": [
+      "غلامی",
+      "ملک",
+      "جھنڈا"
+    ],
+    "target_word_stem": "آزادی",
+    "related_word_stem": [
+      "غلامی",
+      "ملک",
+      "جھنڈا"
+    ]
+  },
+  {
+    "target_word": "تحفہ",
+    "related_word": [
+      "سالگرہ",
+      "ڈبہ",
+      "خوشی"
+    ],
+    "target_word_stem": "تحفہ",
+    "related_word_stem": [
+      "سالگرہ",
+      "ڈبہ",
+      "خوشی"
+    ]
+  },
+  {
+    "target_word": "چابی",
+    "related_word": [
+      "تالا",
+      "دروازہ",
+      "لوہا"
+    ],
+    "target_word_stem": "چابی",
+    "related_word_stem": [
+      "تالا",
+      "دروازہ",
+      "لوہا"
+    ]
+  },
+  {
+    "target_word": "آئینہ",
+    "related_word": [
+      "شیشہ",
+      "عکس",
+      "خوبصورتی"
+    ],
+    "target_word_stem": "آئینہ",
+    "related_word_stem": [
+      "شیشہ",
+      "عکس",
+      "خوبصورتی"
+    ]
+  },
+  {
+    "target_word": "پل",
+    "related_word": [
+      "دریا",
+      "راستہ",
+      "کنارہ"
+    ],
+    "target_word_stem": "پل",
+    "related_word_stem": [
+      "دریا",
+      "راستہ",
+      "کنارہ"
+    ]
+  },
+  {
+    "target_word": "سایہ",
+    "related_word": [
+      "درخت",
+      "اندھیرا",
+      "دھوپ"
+    ],
+    "target_word_stem": "سایہ",
+    "related_word_stem": [
+      "درخت",
+      "اندھیرا",
+      "دھوپ"
+    ]
+  },
+  {
+    "target_word": "راز",
+    "related_word": [
+      "بات",
+      "خاموشی",
+      "دل"
+    ],
+    "target_word_stem": "راز",
+    "related_word_stem": [
+      "بات",
+      "خاموشی",
+      "دل"
+    ]
+  },
+  {
+    "target_word": "سونا",
+    "related_word": [
+      "زیور",
+      "قیمت",
+      "دھات"
+    ],
+    "target_word_stem": "سونا",
+    "related_word_stem": [
+      "زیور",
+      "قیمت",
+      "دھات"
+    ]
+  },
+  {
+    "target_word": "کہانی",
+    "related_word": [
+      "بچپن",
+      "کتاب",
+      "کردار"
+    ],
+    "target_word_stem": "کہانی",
+    "related_word_stem": [
+      "بچپن",
+      "کتاب",
+      "کردار"
+    ]
+  },
+  {
+    "target_word": "برف",
+    "related_word": [
+      "سردی",
+      "پہاڑ",
+      "پانی"
+    ],
+    "target_word_stem": "برف",
+    "related_word_stem": [
+      "سردی",
+      "پہاڑ",
+      "پانی"
+    ]
+  },
+  {
+    "target_word": "آگ",
+    "related_word": [
+      "جلنا",
+      "دھواں",
+      "گرمی"
+    ],
+    "target_word_stem": "آگ",
+    "related_word_stem": [
+      "جلنا",
+      "دھواں",
+      "گرمی"
+    ]
+  },
+  {
+    "target_word": "بادل",
+    "related_word": [
+      "بارش",
+      "آسمان",
+      "ہوا"
+    ],
+    "target_word_stem": "بادل",
+    "related_word_stem": [
+      "بارش",
+      "آسمان",
+      "ہوا"
+    ]
+  },
+  {
+    "target_word": "بادشاہ",
+    "related_word": [
+      "تاج",
+      "محل",
+      "حکومت"
+    ],
+    "target_word_stem": "بادشاہ",
+    "related_word_stem": [
+      "تاج",
+      "محل",
+      "حکومت"
+    ]
+  },
+  {
+    "target_word": "باغ",
+    "related_word": [
+      "پھول",
+      "پودا",
+      "گھاس"
+    ],
+    "target_word_stem": "باغ",
+    "related_word_stem": [
+      "پھول",
+      "پودا",
+      "گھاس"
+    ]
+  },
+  {
+    "target_word": "سفر",
+    "related_word": [
+      "جہاز",
+      "ٹکٹ",
+      "منزل"
+    ],
+    "target_word_stem": "سفر",
+    "related_word_stem": [
+      "جہاز",
+      "ٹکٹ",
+      "منزل"
+    ]
+  },
+  {
+    "target_word": "جنگ",
+    "related_word": [
+      "فوج",
+      "امن",
+      "ہتھیار"
+    ],
+    "target_word_stem": "جنگ",
+    "related_word_stem": [
+      "فوج",
+      "امن",
+      "ہتھیار"
+    ]
+  },
+  {
+    "target_word": "روح",
+    "related_word": [
+      "جسم",
+      "موت",
+      "زندگی"
+    ],
+    "target_word_stem": "روح",
+    "related_word_stem": [
+      "جسم",
+      "موت",
+      "زندگی"
+    ]
+  },
+  {
+    "target_word": "پہاڑ",
+    "related_word": [
+      "چوٹی",
+      "پتھر",
+      "اونچائی"
+    ],
+    "target_word_stem": "پہاڑ",
+    "related_word_stem": [
+      "چوٹی",
+      "پتھر",
+      "اونچائی"
+    ]
+  },
+  {
+    "target_word": "جزیرہ",
+    "related_word": [
+      "سمندر",
+      "خشکی",
+      "ساحل"
+    ],
+    "target_word_stem": "جزیرہ",
+    "related_word_stem": [
+      "سمندر",
+      "خشکی",
+      "ساحل"
+    ]
+  }
+]
