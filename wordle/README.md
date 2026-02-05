@@ -78,6 +78,13 @@ The word lists are automatically generated from **Universal Dependencies v2.17**
 - Top 100 → `easy_words.txt`
 - Remaining → `medium_words.txt`
 
+### 6. Extract allowed_words.txt 
+Most languages are from here: https://github.com/wooorm/dictionaries/tree/main/dictionaries
+Arabic is from here: https://github.com/linuxscout/ayaspell/tree/master
+Finnish is from here: https://github.com/fginter/hunspell-fi
+Maltese is from here: https://github.com/keithvassallomt/maltese_spelling_dict/tree/master/hunspell-mt
+Urdu is from here: https://github.com/gooselinux/hunspell-ur
+
 ## Language-Specific Settings
 
 | Setting | Most Languages | German (de) |
