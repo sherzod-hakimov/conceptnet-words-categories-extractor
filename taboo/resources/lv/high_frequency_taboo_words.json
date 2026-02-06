@@ -362,5 +362,243 @@
       "gulēt",
       "dusēt"
     ]
+  },
+  {
+    "target_word": "saule",
+    "related_word": [
+      "karsts",
+      "gaisma",
+      "debesis"
+    ],
+    "target_word_stem": "saul",
+    "related_word_stem": [
+      "karst",
+      "gaism",
+      "debes"
+    ]
+  },
+  {
+    "target_word": "ūdens",
+    "related_word": [
+      "jūra",
+      "dzert",
+      "slapjš"
+    ],
+    "target_word_stem": "ūden",
+    "related_word_stem": [
+      "jūr",
+      "dzer",
+      "slap"
+    ]
+  },
+  {
+    "target_word": "māja",
+    "related_word": [
+      "dzīvot",
+      "istaba",
+      "ģimene"
+    ],
+    "target_word_stem": "māj",
+    "related_word_stem": [
+      "dzīv",
+      "istab",
+      "ģimen"
+    ]
+  },
+  {
+    "target_word": "darbs",
+    "related_word": [
+      "strādāt",
+      "nauda",
+      "birojs"
+    ],
+    "target_word_stem": "darb",
+    "related_word_stem": [
+      "strād",
+      "naud",
+      "biroj"
+    ]
+  },
+  {
+    "target_word": "laiks",
+    "related_word": [
+      "stunda",
+      "dienas",
+      "pulsktenis"
+    ],
+    "target_word_stem": "laik",
+    "related_word_stem": [
+      "stund",
+      "dien",
+      "pulksten"
+    ]
+  },
+  {
+    "target_word": "cilvēks",
+    "related_word": [
+      "persona",
+      "vīrietis",
+      "sieviete"
+    ],
+    "target_word_stem": "cilvēk",
+    "related_word_stem": [
+      "person",
+      "vīriet",
+      "sieviet"
+    ]
+  },
+  {
+    "target_word": "valsts",
+    "related_word": [
+      "Latvija",
+      "prezidents",
+      "likums"
+    ],
+    "target_word_stem": "valst",
+    "related_word_stem": [
+      "Latvij",
+      "prezident",
+      "likum"
+    ]
+  },
+  {
+    "target_word": "ceļš",
+    "related_word": [
+      "braukt",
+      "mašīna",
+      "karte"
+    ],
+    "target_word_stem": "ceļ",
+    "related_word_stem": [
+      "brauk",
+      "mašīn",
+      "kart"
+    ]
+  },
+  {
+    "target_word": "diena",
+    "related_word": [
+      "rīts",
+      "vakars",
+      "saule"
+    ],
+    "target_word_stem": "dien",
+    "related_word_stem": [
+      "rīt",
+      "vakar",
+      "saul"
+    ]
+  },
+  {
+    "target_word": "nakts",
+    "related_word": [
+      "tumšs",
+      "mēness",
+      "gulēt"
+    ],
+    "target_word_stem": "nakts",
+    "related_word_stem": [
+      "tumš",
+      "mēnes",
+      "gul"
+    ]
+  },
+  {
+    "target_word": "pilsēta",
+    "related_word": [
+      "Rīga",
+      "ielas",
+      "ēkas"
+    ],
+    "target_word_stem": "pilsēt",
+    "related_word_stem": [
+      "Rīg",
+      "iel",
+      "ēk"
+    ]
+  },
+  {
+    "target_word": "ēdiens",
+    "related_word": [
+      "ēst",
+      "garšīgs",
+      "restorāns"
+    ],
+    "target_word_stem": "ēdien",
+    "related_word_stem": [
+      "ēst",
+      "garš",
+      "restorān"
+    ]
+  },
+  {
+    "target_word": "miers",
+    "related_word": [
+      "kluss",
+      "atpūta",
+      "relaksācija"
+    ],
+    "target_word_stem": "mier",
+    "related_word_stem": [
+      "klus",
+      "atpūt",
+      "relaksācij"
+    ]
+  },
+  {
+    "target_word": "mīlestība",
+    "related_word": [
+      "sirds",
+      "romantika",
+      "jūtas"
+    ],
+    "target_word_stem": "mīlestīb",
+    "related_word_stem": [
+      "sird",
+      "romantik",
+      "jūt"
+    ]
+  },
+  {
+    "target_word": "draugs",
+    "related_word": [
+      "biedrs",
+      "palīdzība",
+      "komunikācija"
+    ],
+    "target_word_stem": "draug",
+    "related_word_stem": [
+      "biedr",
+      "palīdzīb",
+      "komunikācij"
+    ]
+  },
+  {
+    "target_word": "skola",
+    "related_word": [
+      "mācīties",
+      "klase",
+      "skolotājs"
+    ],
+    "target_word_stem": "skol",
+    "related_word_stem": [
+      "mācīt",
+      "klas",
+      "skolotāj"
+    ]
+  },
+  {
+    "target_word": "sports",
+    "related_word": [
+      "spēle",
+      "vingrošana",
+      "stadions"
+    ],
+    "target_word_stem": "sport",
+    "related_word_stem": [
+      "spēl",
+      "vingrošan",
+      "stadion"
+    ]
   }
 ]
