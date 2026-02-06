@@ -1,22 +1,3 @@
-1350s
-1490s
-1520s
-1540s
-1590s
-1600s
-1800s
-1830s
-1860s
-1920s
-1930s
-1940s
-1950s
-1960s
-1970s
-1980s
-1990s
-2000s
-3801a
 aaron
 aback
 abaft
@@ -295,7 +276,6 @@ artsy
 aruba
 arums
 aryan
-as400
 asama
 ascii
 ascot
@@ -310,7 +290,6 @@ asoka
 aspca
 aspen
 aspic
-ass't
 assad
 assam
 assay
@@ -324,7 +303,6 @@ astor
 aswan
 async
 atari
-atilt
 atlas
 atman
 atoll
@@ -376,8 +354,6 @@ ayers
 azana
 aztec
 azure
-b.i.d
-baaed
 baals
 baath
 babel
@@ -429,7 +405,6 @@ bards
 bared
 barer
 bares
-barfs
 barge
 barks
 barmy
@@ -463,7 +438,6 @@ baton
 batty
 bauds
 bauer
-bawbo
 bawds
 bawdy
 bawls
@@ -570,7 +544,6 @@ biker
 bikes
 bilbo
 bilge
-bilks
 bills
 billy
 bimbo
@@ -591,7 +564,6 @@ bitsy
 bitty
 bizet
 bjork
-bjórr
 blabs
 black
 blade
@@ -810,7 +782,6 @@ buber
 bucks
 buddy
 budge
-budoo
 buffs
 buffy
 buggy
@@ -875,7 +846,6 @@ byres
 byron
 bytes
 byway
-c.dtf
 cabal
 cabby
 caber
@@ -890,7 +860,6 @@ cadge
 cadiz
 cadre
 cafes
-caffs
 caged
 cages
 cagey
@@ -902,7 +871,6 @@ caked
 cakes
 caleb
 calif
-calks
 calla
 calls
 calme
@@ -1160,7 +1128,6 @@ clxiv
 clxix
 clxvi
 clyde
-co-op
 coach
 coals
 coast
@@ -1354,7 +1321,6 @@ cuing
 culls
 cults
 cumin
-cunce
 cunts
 cupid
 cuppa
@@ -1386,7 +1352,6 @@ cyrus
 cysts
 czars
 czech
-d7000
 daces
 dacha
 daddy
@@ -1555,7 +1520,6 @@ diode
 dippy
 dipso
 dirac
-direr
 dirge
 dirks
 dirty
@@ -1599,7 +1563,6 @@ dolor
 dolts
 domed
 domes
-don't
 donas
 dongs
 donna
@@ -1744,7 +1707,6 @@ dying
 dykes
 dylan
 dyson
-décor
 eager
 eagle
 eared
@@ -1857,7 +1819,6 @@ enter
 entry
 envoy
 epcot
-epees
 epics
 epoch
 epoxy
@@ -1940,7 +1901,6 @@ facts
 faddy
 faded
 fades
-faffs
 fagin
 fagot
 fails
@@ -2227,7 +2187,6 @@ fucks
 fudge
 fuels
 fugal
-fuggy
 fugue
 fukka
 fulls
@@ -2241,7 +2200,6 @@ fungi
 funks
 funky
 funny
-furls
 furor
 furry
 furze
@@ -2252,7 +2210,6 @@ fussy
 fusty
 futon
 fuzzy
-g.d.p
 gabby
 gable
 gabon
@@ -2260,7 +2217,6 @@ gadig
 gaels
 gaffe
 gaffs
-gaggy
 gaily
 gains
 gaits
@@ -2306,9 +2262,7 @@ gauze
 gauzy
 gavel
 gavin
-gawks
 gawky
-gawps
 gayer
 gayle
 gazed
@@ -2343,7 +2297,6 @@ ghost
 ghoul
 giant
 gibbs
-gibed
 gibes
 giddy
 gifts
@@ -2530,7 +2483,6 @@ guild
 guile
 guilt
 guise
-gukka
 gulag
 gulch
 gulfs
@@ -2556,7 +2508,6 @@ gutty
 guyed
 gypsy
 gyros
-gyved
 gyves
 haber
 habit
@@ -2613,7 +2564,6 @@ harsh
 harte
 harts
 hasid
-hasps
 hassy
 haste
 hasty
@@ -2640,7 +2590,6 @@ hazel
 hazer
 hazes
 hbase
-hdqrs
 heads
 heady
 heals
@@ -2734,9 +2683,7 @@ hodge
 hoers
 hoffa
 hogan
-hoick
 hoist
-hoked
 hokes
 hokey
 hokum
@@ -2835,7 +2782,6 @@ hyped
 hyper
 hypes
 hypos
-i.s.c
 iambi
 iambs
 ibiza
@@ -2932,7 +2878,6 @@ isuzu
 italy
 itchy
 items
-ivied
 ivies
 ivory
 izaak
@@ -2958,7 +2903,6 @@ janis
 janna
 janus
 japan
-japed
 japes
 jared
 jason
@@ -2990,7 +2934,6 @@ jewry
 jibed
 jibes
 jidda
-jiffs
 jiffy
 jihad
 jilin
@@ -3001,7 +2944,6 @@ jinks
 jinni
 jinny
 jitsu
-jived
 jives
 joann
 jocks
@@ -3028,7 +2970,6 @@ josue
 joule
 joust
 jowls
-jowly
 joyce
 joyed
 juana
@@ -3053,7 +2994,6 @@ junks
 junta
 juror
 jurua
-k/psu
 kaaba
 kabob
 kabul
@@ -3181,7 +3121,6 @@ kudzu
 kusch
 kyoto
 kyudo
-l.l.c
 laban
 label
 labia
@@ -3342,7 +3281,6 @@ lilia
 lille
 lilly
 lilos
-lilts
 limbo
 limbs
 limed
@@ -3461,7 +3399,6 @@ lower
 lowly
 loyal
 luann
-luaus
 lubed
 lubes
 lucas
@@ -3687,7 +3624,6 @@ metre
 metro
 meuse
 mewed
-mewls
 meyer
 mezza
 mezzo
@@ -3770,7 +3706,6 @@ modes
 modus
 moggy
 mogul
-moils
 moira
 moire
 moist
@@ -3793,7 +3728,6 @@ monty
 mooch
 moods
 moody
-mooed
 moons
 moore
 moors
@@ -3899,7 +3833,6 @@ nadir
 nafta
 nahum
 naiad
-naifs
 nails
 naive
 naked
@@ -3960,7 +3893,6 @@ nicer
 niche
 nicks
 niece
-niffy
 nifty
 nigel
 niger
@@ -4100,7 +4032,6 @@ oneal
 onega
 onion
 onset
-oohed
 oomph
 oopsa
 oozed
@@ -4335,7 +4266,6 @@ piers
 piety
 piggy
 pigmy
-piing
 piked
 piker
 pikes
@@ -4413,11 +4343,9 @@ plumb
 plume
 plump
 plums
-plumy
 plunk
 plush
 pluto
-pming
 poach
 pocks
 poems
@@ -4447,7 +4375,6 @@ pones
 pongs
 pooch
 pooed
-pooey
 poofs
 poohs
 poole
@@ -4476,12 +4403,10 @@ posts
 potts
 potty
 pouch
-poufs
 pound
 pours
 pouts
 power
-poxes
 prada
 prado
 praia
@@ -4587,9 +4512,6 @@ pylon
 pyotr
 pyres
 pyrex
-pyxes
-pzazz
-q.o.d
 qatar
 quack
 quads
@@ -4795,7 +4717,6 @@ ricky
 rider
 rides
 ridge
-ridgy
 rifer
 riffs
 rifle
@@ -4904,7 +4825,6 @@ rower
 roxie
 royal
 royce
-rsfsr
 ruben
 rubes
 rubik
@@ -4942,7 +4862,6 @@ rusty
 rutan
 rutty
 ryder
-s.o.b
 saber
 sabik
 sabin
@@ -5029,7 +4948,6 @@ saxon
 scabs
 scada
 scads
-scags
 scala
 scald
 scale
@@ -5097,7 +5015,6 @@ sects
 sedan
 seder
 sedge
-sedgy
 sedna
 seeds
 seedy
@@ -5313,7 +5230,6 @@ skuas
 skulk
 skull
 skunk
-skuːl
 skype
 slabs
 slack
@@ -5358,8 +5274,6 @@ slosh
 sloth
 slots
 slows
-slued
-slues
 slugs
 slump
 slums
@@ -5556,7 +5470,6 @@ sprit
 sprog
 spuds
 spume
-spumy
 spunk
 spurn
 spurs
@@ -5678,7 +5591,6 @@ sudan
 sudra
 sudsy
 suede
-suety
 sugar
 suing
 suite
@@ -5757,7 +5669,6 @@ synth
 syria
 syrup
 sysop
-t+rex
 tabby
 tabla
 table
@@ -5884,7 +5795,6 @@ tetra
 tevet
 texan
 texas
-texes
 texts
 thais
 thali
@@ -6110,9 +6020,6 @@ truss
 trust
 truth
 tryst
-trŭst
-trʊst
-trʌst
 tubal
 tubas
 tubby
@@ -6140,7 +6047,6 @@ tuque
 turbo
 turds
 turfs
-turfy
 turin
 turks
 turns
@@ -6182,8 +6088,6 @@ typos
 tyree
 tyros
 tyson
-tɹɐst
-tɹʌst
 udall
 udder
 uhhuh
@@ -6468,7 +6372,6 @@ wends
 wendy
 wesak
 wests
-wetly
 wezen
 whack
 whale
@@ -6500,13 +6403,10 @@ white
 whits
 whole
 whoop
-whops
 whore
 whorl
 whose
 whoso
-whups
-wi-fi
 wicca
 wicks
 widen
@@ -6519,7 +6419,6 @@ wikis
 wilda
 wilde
 wilds
-wiled
 wiles
 wiley
 willa
@@ -6583,7 +6482,6 @@ worry
 worse
 worst
 worth
-woset
 wotan
 would
 wound
@@ -6604,7 +6502,6 @@ wrong
 wrote
 wroth
 wrung
-wryer
 wryly
 wuhan
 wurst
@@ -6619,7 +6516,6 @@ xerox
 xhosa
 xians
 xingu
-xrefs
 xterm
 xviii
 xxiii
@@ -6669,11 +6565,9 @@ yonks
 young
 yours
 youth
-yowls
 ypres
 yucca
 yucky
-yukky
 yukon
 yules
 yumas
@@ -6688,7 +6582,6 @@ zebus
 zelig
 zelma
 zeros
-zests
 zesty
 zetas
 ziggy

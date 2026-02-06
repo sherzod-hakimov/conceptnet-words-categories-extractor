@@ -1,604 +1,58 @@
 [
   {
-    "target_word": "tercüman",
+    "target_word": "dev",
     "related_word": [
-      "çevirmen",
-      "çevirici",
-      "tercüme"
+      "koca",
+      "kocaman",
+      "koskoca"
     ],
-    "target_word_stem": "tercüman",
+    "target_word_stem": "dev",
     "related_word_stem": [
-      "çevirmen",
-      "çevir ci",
-      "tercüme"
+      "koca",
+      "kocaman",
+      "koskoca"
     ]
   },
   {
-    "target_word": "kapak",
+    "target_word": "evren",
     "related_word": [
-      "kapaklı",
-      "kapaklık",
-      "kapaklanmak"
+      "cihan",
+      "kâinat",
+      "âlem"
     ],
-    "target_word_stem": "kapak",
+    "target_word_stem": "evren",
     "related_word_stem": [
-      "kapaklı",
-      "kapaklık",
-      "kapakla"
-    ]
-  },
-  {
-    "target_word": "diş",
-    "related_word": [
-      "dişlik",
-      "dişlek",
-      "dişlemek"
-    ],
-    "target_word_stem": "i",
-    "related_word_stem": [
-      "dişlik",
-      "dişlek",
-      "dişle"
-    ]
-  },
-  {
-    "target_word": "ev",
-    "related_word": [
-      "evci",
-      "evcik",
-      "ocak"
-    ],
-    "target_word_stem": "ev",
-    "related_word_stem": [
-      "evci",
-      "evcik",
-      "ocak"
-    ]
-  },
-  {
-    "target_word": "kurt",
-    "related_word": [
-      "kurtçuk",
-      "sürfe",
-      "tırtıl"
-    ],
-    "target_word_stem": "kur",
-    "related_word_stem": [
-      "kurtçuk",
-      "sürfe",
-      "tırtıl"
-    ]
-  },
-  {
-    "target_word": "kıyafet",
-    "related_word": [
-      "giysi",
-      "elbise",
-      "giyim"
-    ],
-    "target_word_stem": "kıyafet",
-    "related_word_stem": [
-      "gi i",
-      "elbis",
-      "giyim"
-    ]
-  },
-  {
-    "target_word": "açık",
-    "related_word": [
-      "anlaşılır",
-      "açıkça",
-      "açmak"
-    ],
-    "target_word_stem": "açık",
-    "related_word_stem": [
-      "anlaş",
-      "açıkça",
-      "aç"
-    ]
-  },
-  {
-    "target_word": "kız",
-    "related_word": [
-      "kızlı",
-      "kızlık",
-      "kızsız"
-    ],
-    "target_word_stem": "kız",
-    "related_word_stem": [
-      "kızlı",
-      "kızlık",
-      "kızsız"
-    ]
-  },
-  {
-    "target_word": "giysi",
-    "related_word": [
-      "kıyafet",
-      "giyim",
-      "elbise"
-    ],
-    "target_word_stem": "gi i",
-    "related_word_stem": [
-      "kıyafet",
-      "giyim",
-      "elbis"
-    ]
-  },
-  {
-    "target_word": "ilk",
-    "related_word": [
-      "birinci",
-      "önce",
-      "baştaki"
-    ],
-    "target_word_stem": "ilk",
-    "related_word_stem": [
-      "birinci",
-      "önce",
-      "baş"
-    ]
-  },
-  {
-    "target_word": "kol",
-    "related_word": [
-      "kolçak",
-      "koldaş",
-      "kollu"
-    ],
-    "target_word_stem": "kol",
-    "related_word_stem": [
-      "kolçak",
-      "koldaş",
-      "kollu"
-    ]
-  },
-  {
-    "target_word": "akor",
-    "related_word": [
-      "akorluk",
-      "akorlu",
-      "rakor"
-    ],
-    "target_word_stem": "akor",
-    "related_word_stem": [
-      "akorluk",
-      "akorlu",
-      "rakor"
-    ]
-  },
-  {
-    "target_word": "yaşlı",
-    "related_word": [
-      "ihtiyar",
-      "eski",
-      "yaş"
-    ],
-    "target_word_stem": "yaşlı",
-    "related_word_stem": [
-      "ihtiyar",
-      "eski",
-      "yaş"
-    ]
-  },
-  {
-    "target_word": "kuyruk",
-    "related_word": [
-      "kuyruklu",
-      "kuyrukluk",
-      "kuyruksuz"
-    ],
-    "target_word_stem": "kuyruk",
-    "related_word_stem": [
-      "kuyruklu",
-      "kuyrukluk",
-      "kuyruksuz"
-    ]
-  },
-  {
-    "target_word": "güneş",
-    "related_word": [
-      "güneşlik",
-      "güneşli",
-      "güneşsiz"
-    ],
-    "target_word_stem": "güneş",
-    "related_word_stem": [
-      "güneşlik",
-      "güneşli",
-      "güneşsiz"
-    ]
-  },
-  {
-    "target_word": "ahmak",
-    "related_word": [
-      "salak",
-      "avanak",
-      "gerzek"
-    ],
-    "target_word_stem": "ahmak",
-    "related_word_stem": [
-      "salak",
-      "avanak",
-      "gerzek"
-    ]
-  },
-  {
-    "target_word": "otomobil",
-    "related_word": [
-      "araba",
-      "araç",
-      "oto"
-    ],
-    "target_word_stem": "otomobil",
-    "related_word_stem": [
-      "araba",
-      "araç",
-      "oto"
-    ]
-  },
-  {
-    "target_word": "ışın",
-    "related_word": [
-      "ışımak",
-      "ışık",
-      "yıldırım"
-    ],
-    "target_word_stem": "ış",
-    "related_word_stem": [
-      "ışı",
-      "ışık",
-      "yıldırı"
-    ]
-  },
-  {
-    "target_word": "bölge",
-    "related_word": [
-      "mıntıka",
-      "kayış",
-      "bölüm"
-    ],
-    "target_word_stem": "bölge",
-    "related_word_stem": [
-      "mıntık a",
-      "kayı",
-      "bölüm"
-    ]
-  },
-  {
-    "target_word": "yemek",
-    "related_word": [
-      "öğün",
-      "yiyecek",
-      "aş"
-    ],
-    "target_word_stem": "yemek",
-    "related_word_stem": [
-      "öğün",
-      "yiyecek",
-      "aş"
-    ]
-  },
-  {
-    "target_word": "adam",
-    "related_word": [
-      "erkek",
-      "insan",
-      "kadın"
-    ],
-    "target_word_stem": "adam",
-    "related_word_stem": [
-      "erkek",
-      "insan",
-      "kadın"
-    ]
-  },
-  {
-    "target_word": "değişiklik",
-    "related_word": [
-      "değişmek",
-      "değişik",
-      "farklılık"
-    ],
-    "target_word_stem": "değişiklik",
-    "related_word_stem": [
-      "değiş",
-      "değişik",
-      "farklılık"
-    ]
-  },
-  {
-    "target_word": "tatlı",
-    "related_word": [
-      "sevimli",
-      "hoş",
-      "sevimsiz"
-    ],
-    "target_word_stem": "tatlı",
-    "related_word_stem": [
-      "sevim li",
-      "hoş",
-      "sevim siz"
-    ]
-  },
-  {
-    "target_word": "söz",
-    "related_word": [
-      "kelime",
-      "lügat",
-      "sözcük"
-    ],
-    "target_word_stem": "söz",
-    "related_word_stem": [
-      "kelim",
-      "lügat",
-      "sözcük"
-    ]
-  },
-  {
-    "target_word": "eksiklik",
-    "related_word": [
-      "yokluk",
-      "eksik",
-      "kusur"
-    ],
-    "target_word_stem": "eksiklik",
-    "related_word_stem": [
-      "yokluk",
-      "eksik",
-      "kusur"
-    ]
-  },
-  {
-    "target_word": "olay",
-    "related_word": [
-      "hadise",
-      "arıza",
-      "olmak"
-    ],
-    "target_word_stem": "olay",
-    "related_word_stem": [
-      "hadise",
-      "arız",
-      "ol"
-    ]
-  },
-  {
-    "target_word": "iz",
-    "related_word": [
-      "irdelemek",
-      "istemek",
-      "alamet"
-    ],
-    "target_word_stem": "i",
-    "related_word_stem": [
-      "irdele",
-      "iste",
-      "alam"
-    ]
-  },
-  {
-    "target_word": "umut",
-    "related_word": [
-      "ümit",
-      "rüya",
-      "beklenti"
-    ],
-    "target_word_stem": "i",
-    "related_word_stem": [
-      "i",
-      "rüya",
-      "beklenti"
-    ]
-  },
-  {
-    "target_word": "parmak",
-    "related_word": [
-      "parmaklı",
-      "parmaklık",
-      "parmaklamak"
-    ],
-    "target_word_stem": "parmak",
-    "related_word_stem": [
-      "parmaklı",
-      "parmaklık",
-      "parmakla"
-    ]
-  },
-  {
-    "target_word": "akçaağaç",
-    "related_word": [
-      "akağaç",
-      "akça",
-      "isfendan"
-    ],
-    "target_word_stem": "akçaağaç",
-    "related_word_stem": [
-      "akağaç",
-      "akça",
-      "isef"
-    ]
-  },
-  {
-    "target_word": "tuvalet",
-    "related_word": [
-      "lavabo",
-      "yüznumara",
-      "kenef"
-    ],
-    "target_word_stem": "tuvalet",
-    "related_word_stem": [
-      "lavabo",
-      "yüznumar",
-      "kenef"
-    ]
-  },
-  {
-    "target_word": "kale",
-    "related_word": [
-      "korugan",
-      "kermen",
-      "gol"
-    ],
-    "target_word_stem": "kale",
-    "related_word_stem": [
-      "korugan",
-      "kermen",
-      "gol"
-    ]
-  },
-  {
-    "target_word": "sonbahar",
-    "related_word": [
-      "ilkbahar",
-      "yaz",
-      "kış"
-    ],
-    "target_word_stem": "sonbahar",
-    "related_word_stem": [
-      "ilkbahar",
-      "yaz",
-      "ki"
-    ]
-  },
-  {
-    "target_word": "kan",
-    "related_word": [
-      "dem",
-      "portakal",
-      "kanlık"
-    ],
-    "target_word_stem": "kan",
-    "related_word_stem": [
-      "de",
-      "portakal",
-      "kanlık"
-    ]
-  },
-  {
-    "target_word": "alıcı",
-    "related_word": [
-      "müvekkil",
-      "alan",
-      "müşteri"
-    ],
-    "target_word_stem": "al",
-    "related_word_stem": [
-      "müvekkil",
-      "al",
-      "müşter"
-    ]
-  },
-  {
-    "target_word": "ocak",
-    "related_word": [
-      "ev",
-      "şömine",
-      "yurt"
-    ],
-    "target_word_stem": "ocak",
-    "related_word_stem": [
-      "ev",
-      "şöm",
-      "yur"
-    ]
-  },
-  {
-    "target_word": "kedi",
-    "related_word": [
-      "kediler",
-      "kedicik",
-      "pisi"
-    ],
-    "target_word_stem": "kedi",
-    "related_word_stem": [
-      "kedi",
-      "kedicik",
-      "pis"
-    ]
-  },
-  {
-    "target_word": "sonuç",
-    "related_word": [
-      "sonuçlandırmak",
-      "sonuçlanmak",
-      "netice"
-    ],
-    "target_word_stem": "sonuç",
-    "related_word_stem": [
-      "sonuçlan",
-      "sonuçla",
-      "netice"
-    ]
-  },
-  {
-    "target_word": "kolaylık",
-    "related_word": [
-      "kolay",
-      "güçlük",
-      "zorluk"
-    ],
-    "target_word_stem": "kolaylık",
-    "related_word_stem": [
-      "kolay",
-      "güçlük",
-      "zorluk"
-    ]
-  },
-  {
-    "target_word": "kurbağa",
-    "related_word": [
-      "kurbağacık",
-      "tosbağa",
-      "kaplumbağa"
-    ],
-    "target_word_stem": "kurbak",
-    "related_word_stem": [
-      "kurbağacık",
-      "tosbak",
-      "kaplumbak"
+      "cihan",
+      "kâinat",
+      "âlem"
     ]
   },
   {
     "target_word": "büyü",
     "related_word": [
-      "sihir",
-      "tılsım",
-      "lanet"
+      "afsun",
+      "efsun",
+      "sihir"
     ],
     "target_word_stem": "büyü",
     "related_word_stem": [
-      "sihir",
-      "tılsım",
-      "lane"
+      "afsun",
+      "efsun",
+      "sihir"
     ]
   },
   {
-    "target_word": "bağ",
+    "target_word": "olay",
     "related_word": [
-      "bağlantı",
-      "bağcık",
-      "sargı"
+      "arıza",
+      "kaza",
+      "hadise"
     ],
-    "target_word_stem": "bağ",
+    "target_word_stem": "olay",
     "related_word_stem": [
-      "bağlantı",
-      "bağcık",
-      "sargı"
-    ]
-  },
-  {
-    "target_word": "kazak",
-    "related_word": [
-      "kılıbık",
-      "kazakça",
-      "kazakistan"
-    ],
-    "target_word_stem": "kazak",
-    "related_word_stem": [
-      "kılıbık",
-      "kazakça",
-      "kazakistan"
+      "arıza",
+      "kaza",
+      "hadise"
     ]
   },
   {
@@ -608,431 +62,235 @@
       "kaygı",
       "telaş"
     ],
-    "target_word_stem": "kork",
+    "target_word_stem": "korku",
     "related_word_stem": [
-      "endiş",
+      "endişe",
       "kaygı",
       "telaş"
     ]
   },
   {
-    "target_word": "birleşme",
+    "target_word": "kurt",
     "related_word": [
-      "ittifak",
-      "birleş",
-      "bağlaşma"
+      "börü",
+      "solucan",
+      "sürfe"
     ],
-    "target_word_stem": "birleş",
+    "target_word_stem": "kurt",
     "related_word_stem": [
-      "ittifak",
-      "birleş",
-      "bağlaş"
-    ]
-  },
-  {
-    "target_word": "alet",
-    "related_word": [
-      "araç",
-      "sik",
-      "aygıt"
-    ],
-    "target_word_stem": "alet",
-    "related_word_stem": [
-      "araç",
-      "sik",
-      "aygı"
-    ]
-  },
-  {
-    "target_word": "dev",
-    "related_word": [
-      "koca",
-      "koskoca",
-      "devasa"
-    ],
-    "target_word_stem": "de v",
-    "related_word_stem": [
-      "koca",
-      "koskoca",
-      "devasa"
-    ]
-  },
-  {
-    "target_word": "başlangıç",
-    "related_word": [
-      "başlama",
-      "mukaddime",
-      "çıkış"
-    ],
-    "target_word_stem": "başlangı",
-    "related_word_stem": [
-      "başla",
-      "mukaddim",
-      "çık"
-    ]
-  },
-  {
-    "target_word": "sinir",
-    "related_word": [
-      "sinirli",
-      "sinirlenmek",
-      "sinirsiz"
-    ],
-    "target_word_stem": "sinir",
-    "related_word_stem": [
-      "sinirli",
-      "sinirlen",
-      "sinirsiz"
-    ]
-  },
-  {
-    "target_word": "kaynak",
-    "related_word": [
-      "memba",
-      "kaynamak",
-      "kaymak"
-    ],
-    "target_word_stem": "kaynak",
-    "related_word_stem": [
-      "memba",
-      "kayna",
-      "kaymak"
+      "börü",
+      "solucan",
+      "sürfe"
     ]
   },
   {
     "target_word": "kapalı",
     "related_word": [
-      "kapamak",
+      "örtük",
       "örtülü",
       "açık"
     ],
     "target_word_stem": "kapalı",
     "related_word_stem": [
-      "kapa",
-      "örtül",
+      "örtük",
+      "örtülü",
       "açık"
     ]
   },
   {
-    "target_word": "aşk",
+    "target_word": "otomobil",
     "related_word": [
-      "sevgi",
-      "sevda",
-      "axk"
+      "araba",
+      "araç",
+      "vasıta"
     ],
-    "target_word_stem": "aşk",
+    "target_word_stem": "otomobil",
     "related_word_stem": [
-      "sevgi",
-      "sevda",
-      "axk"
-    ]
-  },
-  {
-    "target_word": "evren",
-    "related_word": [
-      "evrensel",
-      "âlem",
-      "kâinat"
-    ],
-    "target_word_stem": "evren",
-    "related_word_stem": [
-      "evrensel",
-      "âlem",
-      "kâin"
-    ]
-  },
-  {
-    "target_word": "boynuz",
-    "related_word": [
-      "boynuzlu",
-      "boynuzluk",
-      "boynuzlamak"
-    ],
-    "target_word_stem": "boynuz",
-    "related_word_stem": [
-      "boynuzlu",
-      "boynuzluk",
-      "boynuzla"
-    ]
-  },
-  {
-    "target_word": "şarkıcı",
-    "related_word": [
-      "şarkı",
-      "aşık",
-      "şair"
-    ],
-    "target_word_stem": "şarkı ci",
-    "related_word_stem": [
-      "şarkı",
-      "aşık",
-      "şair"
-    ]
-  },
-  {
-    "target_word": "sözdizimi",
-    "related_word": [
-      "söz",
-      "dizimi",
-      "sentaks"
-    ],
-    "target_word_stem": "sözdiz",
-    "related_word_stem": [
-      "söz",
-      "dizim",
-      "sentak s"
-    ]
-  },
-  {
-    "target_word": "beyefendi",
-    "related_word": [
-      "erkek",
-      "bay",
-      "bey"
-    ],
-    "target_word_stem": "beyefendi",
-    "related_word_stem": [
-      "erkek",
-      "bay",
-      "bey"
-    ]
-  },
-  {
-    "target_word": "büyüklük",
-    "related_word": [
-      "büyük",
-      "küçüklük",
-      "abalet"
-    ],
-    "target_word_stem": "büyüklük",
-    "related_word_stem": [
-      "büyük",
-      "küçüklük",
-      "abalet"
-    ]
-  },
-  {
-    "target_word": "öğrenci",
-    "related_word": [
-      "öğretmen",
-      "öğretmek",
-      "öğrenmek"
-    ],
-    "target_word_stem": "öğrenci",
-    "related_word_stem": [
-      "öğretmen",
-      "öğret",
-      "öğren"
-    ]
-  },
-  {
-    "target_word": "bilgin",
-    "related_word": [
-      "bilmek",
-      "âlim",
-      "bilge"
-    ],
-    "target_word_stem": "bilgin",
-    "related_word_stem": [
-      "bil",
-      "âlim",
-      "bilge"
-    ]
-  },
-  {
-    "target_word": "yapı",
-    "related_word": [
-      "bina",
-      "mimari",
-      "yapmak"
-    ],
-    "target_word_stem": "yapı",
-    "related_word_stem": [
-      "bin",
-      "mimar",
-      "yap"
-    ]
-  },
-  {
-    "target_word": "araba",
-    "related_word": [
-      "otomobil",
-      "otobüs",
-      "oto"
-    ],
-    "target_word_stem": "araba",
-    "related_word_stem": [
-      "otomobil",
-      "otobüs",
-      "oto"
-    ]
-  },
-  {
-    "target_word": "süt",
-    "related_word": [
-      "sütler",
-      "içecek",
-      "sıvı"
-    ],
-    "target_word_stem": "sü",
-    "related_word_stem": [
-      "süt",
-      "içecek",
-      "sıv"
-    ]
-  },
-  {
-    "target_word": "su",
-    "related_word": [
-      "baz",
-      "asit",
-      "şeker"
-    ],
-    "target_word_stem": "su",
-    "related_word_stem": [
-      "baz",
-      "as",
-      "şeker"
-    ]
-  },
-  {
-    "target_word": "döner",
-    "related_word": [
-      "dönmek",
-      "iskender",
-      "dürüm"
-    ],
-    "target_word_stem": "dön",
-    "related_word_stem": [
-      "dön",
-      "iskender",
-      "dürüm"
-    ]
-  },
-  {
-    "target_word": "solucan",
-    "related_word": [
-      "salyangoz",
-      "tırtıl",
-      "kurt"
-    ],
-    "target_word_stem": "solucan",
-    "related_word_stem": [
-      "salyangoz",
-      "tırtıl",
-      "kur"
-    ]
-  },
-  {
-    "target_word": "yastık",
-    "related_word": [
-      "yastıklı",
-      "yastıklık",
-      "yastıksız"
-    ],
-    "target_word_stem": "yastık",
-    "related_word_stem": [
-      "yastık li",
-      "yastıklık",
-      "yastıksız"
-    ]
-  },
-  {
-    "target_word": "zehir",
-    "related_word": [
-      "zehirli",
-      "panzehir",
-      "ağı"
-    ],
-    "target_word_stem": "zehir",
-    "related_word_stem": [
-      "zehirli",
-      "panzehir",
-      "ağı"
-    ]
-  },
-  {
-    "target_word": "cenaze",
-    "related_word": [
-      "mezarlık",
-      "ceset",
-      "mezar"
-    ],
-    "target_word_stem": "cenaz",
-    "related_word_stem": [
-      "mezarlık",
-      "cese",
-      "mezar"
-    ]
-  },
-  {
-    "target_word": "mezarlık",
-    "related_word": [
-      "cenaze",
-      "kabristan",
-      "mezar"
-    ],
-    "target_word_stem": "mezarlık",
-    "related_word_stem": [
-      "cenaz",
-      "kabris",
-      "mezar"
-    ]
-  },
-  {
-    "target_word": "büyükanne",
-    "related_word": [
-      "büyükana",
-      "büyük",
-      "nine"
-    ],
-    "target_word_stem": "büyükanne",
-    "related_word_stem": [
-      "büyükan",
-      "büyük",
-      "nin"
-    ]
-  },
-  {
-    "target_word": "uçak",
-    "related_word": [
-      "uçaklar",
-      "tayyare",
-      "otobüs"
-    ],
-    "target_word_stem": "uçak",
-    "related_word_stem": [
-      "uçak",
-      "tayyar",
-      "otobüs"
-    ]
-  },
-  {
-    "target_word": "kaplumbağa",
-    "related_word": [
-      "kurbağa",
-      "deniz",
-      "bağa"
-    ],
-    "target_word_stem": "kaplumbak",
-    "related_word_stem": [
-      "kurbak",
-      "deniz",
-      "bağa"
+      "araba",
+      "araç",
+      "vasıta"
     ]
   },
   {
     "target_word": "ekmek",
     "related_word": [
-      "yiyecek",
+      "saçmak",
       "besin",
-      "saçmak"
+      "yiyecek"
     ],
     "target_word_stem": "ekmek",
     "related_word_stem": [
-      "yiyecek",
+      "saçmak",
       "besin",
-      "saç"
+      "yiyecek"
+    ]
+  },
+  {
+    "target_word": "tuvalet",
+    "related_word": [
+      "abiye",
+      "ayakyolu",
+      "hela"
+    ],
+    "target_word_stem": "tuvalet",
+    "related_word_stem": [
+      "abiye",
+      "ayakyolu",
+      "hela"
+    ]
+  },
+  {
+    "target_word": "ocak",
+    "related_word": [
+      "ev",
+      "yurt",
+      "şömine"
+    ],
+    "target_word_stem": "ocak",
+    "related_word_stem": [
+      "ev",
+      "yurt",
+      "şömine"
+    ]
+  },
+  {
+    "target_word": "yaşlı",
+    "related_word": [
+      "ihtiyar",
+      "genç",
+      "insan"
+    ],
+    "target_word_stem": "yaşlı",
+    "related_word_stem": [
+      "ihtiyar",
+      "genç",
+      "insan"
+    ]
+  },
+  {
+    "target_word": "ilk",
+    "related_word": [
+      "baştaki",
+      "birinci",
+      "önce"
+    ],
+    "target_word_stem": "ilk",
+    "related_word_stem": [
+      "baştaki",
+      "birinci",
+      "önce"
+    ]
+  },
+  {
+    "target_word": "açık",
+    "related_word": [
+      "anlaşılır",
+      "belirgin",
+      "belli"
+    ],
+    "target_word_stem": "açık",
+    "related_word_stem": [
+      "anlaşılır",
+      "belirgin",
+      "belli"
+    ]
+  },
+  {
+    "target_word": "başlangıç",
+    "related_word": [
+      "mukaddime",
+      "çıkış",
+      "bitiş"
+    ],
+    "target_word_stem": "başlangıç",
+    "related_word_stem": [
+      "mukaddime",
+      "çıkış",
+      "bitiş"
+    ]
+  },
+  {
+    "target_word": "tatlı",
+    "related_word": [
+      "hoş",
+      "sevimli",
+      "sevimsiz"
+    ],
+    "target_word_stem": "tatlı",
+    "related_word_stem": [
+      "hoş",
+      "sevimli",
+      "sevimsiz"
+    ]
+  },
+  {
+    "target_word": "olay",
+    "related_word": [
+      "arıza",
+      "kaza",
+      "hadise"
+    ],
+    "target_word_stem": "olay",
+    "related_word_stem": [
+      "arıza",
+      "kaza",
+      "hadise"
+    ]
+  },
+  {
+    "target_word": "bölge",
+    "related_word": [
+      "kayış",
+      "kemer",
+      "mıntıka"
+    ],
+    "target_word_stem": "bölge",
+    "related_word_stem": [
+      "kayış",
+      "kemer",
+      "mıntıka"
+    ]
+  },
+  {
+    "target_word": "ahmak",
+    "related_word": [
+      "bön",
+      "akılsız",
+      "gerzek"
+    ],
+    "target_word_stem": "ahmak",
+    "related_word_stem": [
+      "bön",
+      "akılsız",
+      "gerzek"
+    ]
+  },
+  {
+    "target_word": "ev",
+    "related_word": [
+      "hane",
+      "bark",
+      "ocak"
+    ],
+    "target_word_stem": "ev",
+    "related_word_stem": [
+      "hane",
+      "bark",
+      "ocak"
+    ]
+  },
+  {
+    "target_word": "ocak",
+    "related_word": [
+      "ev",
+      "yurt",
+      "şömine"
+    ],
+    "target_word_stem": "ocak",
+    "related_word_stem": [
+      "ev",
+      "yurt",
+      "şömine"
     ]
   },
   {
@@ -1042,7 +300,7 @@
       "sandal",
       "otobüs"
     ],
-    "target_word_stem": "gem",
+    "target_word_stem": "gemi",
     "related_word_stem": [
       "kayık",
       "sandal",
@@ -1050,73 +308,45 @@
     ]
   },
   {
-    "target_word": "veranda",
+    "target_word": "umut",
     "related_word": [
-      "balkon",
-      "taraça",
-      "sundurma"
+      "rüya",
+      "beklenti",
+      "ummak"
     ],
-    "target_word_stem": "veran",
+    "target_word_stem": "umut",
     "related_word_stem": [
-      "balkon",
-      "taraç",
-      "sun"
+      "rüya",
+      "beklenti",
+      "ummak"
     ]
   },
   {
-    "target_word": "ateş",
+    "target_word": "kıyafet",
     "related_word": [
-      "od",
-      "alev",
-      "atex"
+      "elbise",
+      "giysi",
+      "giyim"
     ],
-    "target_word_stem": "ateş",
+    "target_word_stem": "kıyafet",
     "related_word_stem": [
-      "od",
-      "alev",
-      "ate x"
+      "elbise",
+      "giysi",
+      "giyim"
     ]
   },
   {
-    "target_word": "mezar",
+    "target_word": "kız",
     "related_word": [
-      "kabir",
-      "mezarlık",
-      "cenaze"
+      "insan",
+      "çocuk",
+      "kardeş"
     ],
-    "target_word_stem": "mezar",
+    "target_word_stem": "kız",
     "related_word_stem": [
-      "kabir",
-      "mezarlık",
-      "cenaz"
-    ]
-  },
-  {
-    "target_word": "terör",
-    "related_word": [
-      "yıldırı",
-      "jitem",
-      "tedhiş"
-    ],
-    "target_word_stem": "terör",
-    "related_word_stem": [
-      "yıl i",
-      "jitem",
-      "tedhi"
-    ]
-  },
-  {
-    "target_word": "şeker",
-    "related_word": [
-      "su",
-      "tuz",
-      "lolipop"
-    ],
-    "target_word_stem": "şeker",
-    "related_word_stem": [
-      "su",
-      "tuz",
-      "lolip o"
+      "insan",
+      "çocuk",
+      "kardeş"
     ]
   }
 ]

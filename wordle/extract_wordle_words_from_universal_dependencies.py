@@ -87,8 +87,8 @@ LANGUAGE_MAPPING = {
 
 # UD download URL
 UD_DOWNLOAD_URL = "https://lindat.mff.cuni.cz/repository/server/api/core/items/b4fcb1e0-f4b2-4939-80f5-baeafda9e5c0/allzip?handleId=11234/1-6036"
-UD_ZIP_FILE = "ud-v2.17-allzip.zip"
-UD_TGZ_FILE = "ud-treebanks-v2.17.tgz"
+UD_ZIP_FILE = "../ud-v2.17-allzip.zip"
+UD_TGZ_FILE = "../ud-treebanks-v2.17.tgz"
 
 
 def download_ud_data():
@@ -320,7 +320,7 @@ def save_wordle_words(noun_counter, lang_code, output_dir='resources'):
     
     # Split into easy (first 100) and medium (remaining)
     easy_words = [word for word, count in sorted_nouns[:100]]
-    medium_words = [word for word, count in sorted_nouns[100:]]
+    medium_words = [word for word, count in sorted_nouns[100:200]]
     
     # Save easy words
     easy_file = lang_output_dir / 'easy_words.txt'

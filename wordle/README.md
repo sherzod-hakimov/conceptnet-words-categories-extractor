@@ -14,7 +14,6 @@ Each language has frequency-ordered noun lists suitable for Wordle gameplay, spl
 wordle/
 ├── README.md                                    # This file
 ├── extract_wordle_words_from_universal_dependencies.py  # Extraction script
-├── ud-v2.17-allzip.zip                         # Downloaded UD data (optional)
 └── resources/                                   # Word lists by language
     ├── ar/
     │   ├── easy_words.txt
@@ -79,44 +78,8 @@ The word lists are automatically generated from **Universal Dependencies v2.17**
 - Remaining → `medium_words.txt`
 
 ### 6. Extract allowed_words.txt 
-Most languages are from here: https://github.com/wooorm/dictionaries/tree/main/dictionaries
-Arabic is from here: https://github.com/linuxscout/ayaspell/tree/master
-Finnish is from here: https://github.com/fginter/hunspell-fi
-Maltese is from here: https://github.com/keithvassallomt/maltese_spelling_dict/tree/master/hunspell-mt
-Urdu is from here: https://github.com/gooselinux/hunspell-ur
+We used Wikipedia dumps for each language.
 
-## Language-Specific Settings
-
-| Setting | Most Languages | German (de) |
-|---------|----------------|-------------|
-| Lowercase | Yes | No |
-| Reason | Standard for Wordle | German nouns are capitalized |
-
-**Examples:**
-- English: "house", "water", "party"
-- German: "Haus", "Wasser", "Feier" (capitalized)
-
-## Quality Criteria
-
-1. **Exact Length**: Only 5-letter words (no shorter, no longer)
-2. **Nouns Only**: Verbs, adjectives, and other POS excluded
-3. **Lemmas**: Base forms used (singular, uninflected)
-4. **Frequency-Based**: Most common words prioritized
-5. **Clean Words**: 
-   - No punctuation-only entries
-   - No pure numbers
-   - No single-character artifacts
-   - Leading/trailing punctuation removed
-
-## Word Cleaning Process
-
-The extraction script applies several cleaning steps:
-
-1. **Strip Non-Alphabetic**: Remove leading/trailing punctuation
-2. **Filter Numbers**: Exclude pure numeric entries
-3. **Filter Artifacts**: Remove single non-alphabetic characters
-4. **Normalize Case**: Apply language-specific capitalization rules
-5. **Filter "Unknown"**: Remove the word "unknown" in non-English languages
 
 ## Data Source
 
@@ -173,51 +136,3 @@ The script will automatically:
 2. Extract the treebanks
 3. Process all 28 languages
 4. Generate word lists in `resources/`
-
-### Subsequent Runs
-
-Uses cached UD data, so no download needed.
-
-## Statistics
-
-Typical word counts per language (examples):
-
-| Language | Easy Words | Medium Words | Total Unique |
-|----------|------------|--------------|--------------|
-| English (en) | 100 | 500+ | 600+ |
-| German (de) | 100 | 400+ | 500+ |
-| Spanish (es) | 100 | 450+ | 550+ |
-
-*Note: Actual counts vary by language and treebank size.*
-
-## Limitations
-
-1. **Treebank Coverage**: Quality depends on UD treebank size for each language
-2. **5-Letter Constraint**: Some languages have fewer common 5-letter nouns
-3. **Lemma-Based**: May not include all inflected forms players might guess
-4. **Formal Language**: UD treebanks often contain formal/written language, not colloquial
-
-## License
-
-The word lists are derived from **Universal Dependencies v2.17**, which is licensed under **CC BY-SA 4.0**.
-
-When using these word lists, please:
-- Attribute the Universal Dependencies Project
-- Share adaptations under the same license
-- Respect the original data source license
-
-## Contributing
-
-To improve the word lists:
-
-1. **Report Issues**: Words that are too obscure or inappropriate
-2. **Suggest Improvements**: Better filtering or ranking criteria
-3. **Add Languages**: Request support for additional UD languages
-4. **Frequency Tuning**: Suggest adjustments to easy/medium split
-
-## Related Resources
-
-- [Universal Dependencies](https://universaldependencies.org/)
-- [CoNLL-U Format](https://universaldependencies.org/format.html)
-- [UD Treebanks](https://universaldependencies.org/treebanks.html)
-
