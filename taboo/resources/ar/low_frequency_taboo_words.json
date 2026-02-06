@@ -1,0 +1,100 @@
+[
+  {
+    "target_word": "زوج",
+    "related_word": [
+      "اثنان",
+      "بعل",
+      "امراة"
+    ],
+    "target_word_stem": "زوج",
+    "related_word_stem": [
+      "اثنان",
+      "بعل",
+      "امراة"
+    ]
+  },
+  {
+    "target_word": "قرد",
+    "related_word": [
+      "حبن",
+      "ميمون",
+      "نسناس"
+    ],
+    "target_word_stem": "قرد",
+    "related_word_stem": [
+      "حبن",
+      "ميمون",
+      "نسناس"
+    ]
+  },
+  {
+    "target_word": "جمل",
+    "related_word": [
+      "ناقة",
+      "بعير",
+      "ابل"
+    ],
+    "target_word_stem": "جمل",
+    "related_word_stem": [
+      "ناقة",
+      "بعير",
+      "ابل"
+    ]
+  },
+  {
+    "target_word": "طوب",
+    "related_word": [
+      "اجر",
+      "لبن",
+      "قرميد"
+    ],
+    "target_word_stem": "طوب",
+    "related_word_stem": [
+      "اجر",
+      "لبن",
+      "قرميد"
+    ]
+  },
+  {
+    "target_word": "غضب",
+    "related_word": [
+      "اغتاظ",
+      "زخ",
+      "حمى"
+    ],
+    "target_word_stem": "غضب",
+    "related_word_stem": [
+      "اغتاظ",
+      "زخ",
+      "حمى"
+    ]
+  },
+  {
+    "target_word": "سمع",
+    "related_word": [
+      "ب",
+      "ل",
+      "من"
+    ],
+    "target_word_stem": "سمع",
+    "related_word_stem": [
+      "ب",
+      "ل",
+      "من"
+    ]
+  },
+  {
+    "target_word": "نسخ",
+    "related_word": [
+      "نستعليق",
+      "استنساخ",
+      "منسوخ"
+    ],
+    "target_word_stem": "نسخ",
+    "related_word_stem": [
+      "نستعليق",
+      "استنساخ",
+      "منسوخ"
+    ]
+  }
+]

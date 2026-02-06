@@ -1,0 +1,72 @@
+[
+  {
+    "target_word": "čerešňa",
+    "related_word": [
+      "plod",
+      "strom",
+      "drevo"
+    ],
+    "target_word_stem": "čerešňa",
+    "related_word_stem": [
+      "plod",
+      "strom",
+      "drevo"
+    ]
+  },
+  {
+    "target_word": "správa",
+    "related_word": [
+      "hlásenie",
+      "novina",
+      "zvesť"
+    ],
+    "target_word_stem": "správa",
+    "related_word_stem": [
+      "hlásenie",
+      "novina",
+      "zvesť"
+    ]
+  },
+  {
+    "target_word": "kňaz",
+    "related_word": [
+      "duchovný",
+      "farár",
+      "otec"
+    ],
+    "target_word_stem": "kňaz",
+    "related_word_stem": [
+      "duchovný",
+      "farár",
+      "otec"
+    ]
+  },
+  {
+    "target_word": "prameň",
+    "related_word": [
+      "žriedlo",
+      "zdroj",
+      "pôvod"
+    ],
+    "target_word_stem": "prameň",
+    "related_word_stem": [
+      "žriedlo",
+      "zdroj",
+      "pôvod"
+    ]
+  },
+  {
+    "target_word": "česť",
+    "related_word": [
+      "ctižiadostivec",
+      "ctíť",
+      "ctižiadostivý"
+    ],
+    "target_word_stem": "česť",
+    "related_word_stem": [
+      "ctižiadostivec",
+      "ctíť",
+      "ctižiadostivý"
+    ]
+  }
+]

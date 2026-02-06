@@ -1,0 +1,44 @@
+[
+  {
+    "target_word": "hobune",
+    "related_word": [
+      "ratsu",
+      "mära",
+      "täkk"
+    ],
+    "target_word_stem": "hobune",
+    "related_word_stem": [
+      "ratsu",
+      "mära",
+      "täkk"
+    ]
+  },
+  {
+    "target_word": "koit",
+    "related_word": [
+      "puhe",
+      "agu",
+      "eha"
+    ],
+    "target_word_stem": "koit",
+    "related_word_stem": [
+      "puhe",
+      "agu",
+      "eha"
+    ]
+  },
+  {
+    "target_word": "liblikas",
+    "related_word": [
+      "koi",
+      "röövik",
+      "tõuk"
+    ],
+    "target_word_stem": "liblikas",
+    "related_word_stem": [
+      "koi",
+      "röövik",
+      "tõuk"
+    ]
+  }
+]

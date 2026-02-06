@@ -1,0 +1,100 @@
+[
+  {
+    "target_word": "дело",
+    "related_word": [
+      "работа",
+      "кауза",
+      "постижение"
+    ],
+    "target_word_stem": "дело",
+    "related_word_stem": [
+      "работа",
+      "кауза",
+      "постижение"
+    ]
+  },
+  {
+    "target_word": "хаос",
+    "related_word": [
+      "бъркотия",
+      "безпорядък",
+      "безредица"
+    ],
+    "target_word_stem": "хаос",
+    "related_word_stem": [
+      "бъркотия",
+      "безпорядък",
+      "безредица"
+    ]
+  },
+  {
+    "target_word": "дело",
+    "related_word": [
+      "работа",
+      "кауза",
+      "постижение"
+    ],
+    "target_word_stem": "дело",
+    "related_word_stem": [
+      "работа",
+      "кауза",
+      "постижение"
+    ]
+  },
+  {
+    "target_word": "идиот",
+    "related_word": [
+      "глупец",
+      "малоумник",
+      "тъпак"
+    ],
+    "target_word_stem": "идиот",
+    "related_word_stem": [
+      "глупец",
+      "малоумник",
+      "тъпак"
+    ]
+  },
+  {
+    "target_word": "печка",
+    "related_word": [
+      "соба",
+      "допичам",
+      "запека"
+    ],
+    "target_word_stem": "печка",
+    "related_word_stem": [
+      "соба",
+      "допичам",
+      "запека"
+    ]
+  },
+  {
+    "target_word": "течност",
+    "related_word": [
+      "дотека",
+      "затичам",
+      "дотичам"
+    ],
+    "target_word_stem": "течност",
+    "related_word_stem": [
+      "дотека",
+      "затичам",
+      "дотичам"
+    ]
+  },
+  {
+    "target_word": "речник",
+    "related_word": [
+      "зарека",
+      "изричам",
+      "заричам"
+    ],
+    "target_word_stem": "речник",
+    "related_word_stem": [
+      "зарека",
+      "изричам",
+      "заричам"
+    ]
+  }
+]

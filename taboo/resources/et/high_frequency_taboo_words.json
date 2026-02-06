@@ -1,0 +1,86 @@
+[
+  {
+    "target_word": "ese",
+    "related_word": [
+      "eesmärk",
+      "objekt",
+      "sihitis"
+    ],
+    "target_word_stem": "ese",
+    "related_word_stem": [
+      "eesmärk",
+      "objekt",
+      "sihitis"
+    ]
+  },
+  {
+    "target_word": "pea",
+    "related_word": [
+      "gi",
+      "kohe",
+      "nii"
+    ],
+    "target_word_stem": "pea",
+    "related_word_stem": [
+      "gi",
+      "kohe",
+      "nii"
+    ]
+  },
+  {
+    "target_word": "objekt",
+    "related_word": [
+      "alis",
+      "ehitus",
+      "ese"
+    ],
+    "target_word_stem": "objekt",
+    "related_word_stem": [
+      "alis",
+      "ehitus",
+      "ese"
+    ]
+  },
+  {
+    "target_word": "hobune",
+    "related_word": [
+      "ratsu",
+      "mära",
+      "täkk"
+    ],
+    "target_word_stem": "hobune",
+    "related_word_stem": [
+      "ratsu",
+      "mära",
+      "täkk"
+    ]
+  },
+  {
+    "target_word": "hommik",
+    "related_word": [
+      "õhtu",
+      "päev",
+      "öö"
+    ],
+    "target_word_stem": "hommik",
+    "related_word_stem": [
+      "õhtu",
+      "päev",
+      "öö"
+    ]
+  },
+  {
+    "target_word": "õhtu",
+    "related_word": [
+      "hommik",
+      "päev",
+      "öö"
+    ],
+    "target_word_stem": "õhtu",
+    "related_word_stem": [
+      "hommik",
+      "päev",
+      "öö"
+    ]
+  }
+]

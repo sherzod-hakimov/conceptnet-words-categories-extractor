@@ -1,0 +1,408 @@
+[
+  {
+    "target_word": "csirke",
+    "related_word": [
+      "baromfi",
+      "fiastyúk",
+      "kiscsibe"
+    ],
+    "target_word_stem": "csirke",
+    "related_word_stem": [
+      "baromfi",
+      "fiastyúk",
+      "kiscsibe"
+    ]
+  },
+  {
+    "target_word": "tej",
+    "related_word": [
+      "élelmiszer",
+      "joghurt",
+      "savó"
+    ],
+    "target_word_stem": "tej",
+    "related_word_stem": [
+      "élelmiszer",
+      "joghurt",
+      "savó"
+    ]
+  },
+  {
+    "target_word": "univerzum",
+    "related_word": [
+      "világegyetem",
+      "kozmosz",
+      "mindenség"
+    ],
+    "target_word_stem": "univerzum",
+    "related_word_stem": [
+      "világegyetem",
+      "kozmosz",
+      "mindenség"
+    ]
+  },
+  {
+    "target_word": "hiba",
+    "related_word": [
+      "tévedés",
+      "melléfogás",
+      "baklövés"
+    ],
+    "target_word_stem": "hiba",
+    "related_word_stem": [
+      "tévedés",
+      "melléfogás",
+      "baklövés"
+    ]
+  },
+  {
+    "target_word": "zöldség",
+    "related_word": [
+      "élelmiszer",
+      "étel",
+      "növény"
+    ],
+    "target_word_stem": "zöldség",
+    "related_word_stem": [
+      "élelmiszer",
+      "étel",
+      "növény"
+    ]
+  },
+  {
+    "target_word": "fél",
+    "related_word": [
+      "retteg",
+      "szorong",
+      "parázik"
+    ],
+    "target_word_stem": "fél",
+    "related_word_stem": [
+      "retteg",
+      "szorong",
+      "parázik"
+    ]
+  },
+  {
+    "target_word": "csaj",
+    "related_word": [
+      "lány",
+      "nő",
+      "liba"
+    ],
+    "target_word_stem": "csaj",
+    "related_word_stem": [
+      "lány",
+      "nő",
+      "liba"
+    ]
+  },
+  {
+    "target_word": "varázsló",
+    "related_word": [
+      "mágus",
+      "segéd",
+      "zsonglőr"
+    ],
+    "target_word_stem": "varázsló",
+    "related_word_stem": [
+      "mágus",
+      "segéd",
+      "zsonglőr"
+    ]
+  },
+  {
+    "target_word": "fog",
+    "related_word": [
+      "tart",
+      "vesz",
+      "megragad"
+    ],
+    "target_word_stem": "fog",
+    "related_word_stem": [
+      "tart",
+      "vesz",
+      "megragad"
+    ]
+  },
+  {
+    "target_word": "akrobata",
+    "related_word": [
+      "erőművész",
+      "kötéltáncos",
+      "légtornász"
+    ],
+    "target_word_stem": "akrobata",
+    "related_word_stem": [
+      "erőművész",
+      "kötéltáncos",
+      "légtornász"
+    ]
+  },
+  {
+    "target_word": "eljegyzés",
+    "related_word": [
+      "esküvő",
+      "menyasszony",
+      "vőlegény"
+    ],
+    "target_word_stem": "eljegyzés",
+    "related_word_stem": [
+      "esküvő",
+      "menyasszony",
+      "vőlegény"
+    ]
+  },
+  {
+    "target_word": "kukorica",
+    "related_word": [
+      "zöldség",
+      "málé",
+      "törökbúza"
+    ],
+    "target_word_stem": "kukorica",
+    "related_word_stem": [
+      "zöldség",
+      "málé",
+      "törökbúza"
+    ]
+  },
+  {
+    "target_word": "injekció",
+    "related_word": [
+      "befecskendezés",
+      "oltás",
+      "szuri"
+    ],
+    "target_word_stem": "injekció",
+    "related_word_stem": [
+      "befecskendezés",
+      "oltás",
+      "szuri"
+    ]
+  },
+  {
+    "target_word": "menyasszony",
+    "related_word": [
+      "mátka",
+      "ara",
+      "eljegyzés"
+    ],
+    "target_word_stem": "menyasszony",
+    "related_word_stem": [
+      "mátka",
+      "ara",
+      "eljegyzés"
+    ]
+  },
+  {
+    "target_word": "tanár",
+    "related_word": [
+      "oktató",
+      "pedagógus",
+      "nevelő"
+    ],
+    "target_word_stem": "tanár",
+    "related_word_stem": [
+      "oktató",
+      "pedagógus",
+      "nevelő"
+    ]
+  },
+  {
+    "target_word": "káosz",
+    "related_word": [
+      "zűrzavar",
+      "fejetlenség",
+      "összevisszaság"
+    ],
+    "target_word_stem": "káosz",
+    "related_word_stem": [
+      "zűrzavar",
+      "fejetlenség",
+      "összevisszaság"
+    ]
+  },
+  {
+    "target_word": "sakk",
+    "related_word": [
+      "bástya",
+      "gyalog",
+      "huszár"
+    ],
+    "target_word_stem": "sakk",
+    "related_word_stem": [
+      "bástya",
+      "gyalog",
+      "huszár"
+    ]
+  },
+  {
+    "target_word": "konszenzus",
+    "related_word": [
+      "egyetértés",
+      "megegyezés",
+      "megállapodás"
+    ],
+    "target_word_stem": "konszenzus",
+    "related_word_stem": [
+      "egyetértés",
+      "megegyezés",
+      "megállapodás"
+    ]
+  },
+  {
+    "target_word": "vőlegény",
+    "related_word": [
+      "eljegyzés",
+      "menyasszony",
+      "esküvő"
+    ],
+    "target_word_stem": "vőlegény",
+    "related_word_stem": [
+      "eljegyzés",
+      "menyasszony",
+      "esküvő"
+    ]
+  },
+  {
+    "target_word": "banán",
+    "related_word": [
+      "gyümölcs",
+      "növény",
+      "étel"
+    ],
+    "target_word_stem": "banán",
+    "related_word_stem": [
+      "gyümölcs",
+      "növény",
+      "étel"
+    ]
+  },
+  {
+    "target_word": "felirat",
+    "related_word": [
+      "cédula",
+      "írás",
+      "képaláírás"
+    ],
+    "target_word_stem": "felirat",
+    "related_word_stem": [
+      "cédula",
+      "írás",
+      "képaláírás"
+    ]
+  },
+  {
+    "target_word": "négyszög",
+    "related_word": [
+      "poligon",
+      "rombusz",
+      "síkidom"
+    ],
+    "target_word_stem": "négyszög",
+    "related_word_stem": [
+      "poligon",
+      "rombusz",
+      "síkidom"
+    ]
+  },
+  {
+    "target_word": "hiba",
+    "related_word": [
+      "tévedés",
+      "melléfogás",
+      "baklövés"
+    ],
+    "target_word_stem": "hiba",
+    "related_word_stem": [
+      "tévedés",
+      "melléfogás",
+      "baklövés"
+    ]
+  },
+  {
+    "target_word": "kifogás",
+    "related_word": [
+      "ellenvetés",
+      "mentség",
+      "ürügy"
+    ],
+    "target_word_stem": "kifogás",
+    "related_word_stem": [
+      "ellenvetés",
+      "mentség",
+      "ürügy"
+    ]
+  },
+  {
+    "target_word": "székesegyház",
+    "related_word": [
+      "katedrális",
+      "bazilika",
+      "dóm"
+    ],
+    "target_word_stem": "székesegyház",
+    "related_word_stem": [
+      "katedrális",
+      "bazilika",
+      "dóm"
+    ]
+  },
+  {
+    "target_word": "eper",
+    "related_word": [
+      "élőlény",
+      "szamóca",
+      "kultúra"
+    ],
+    "target_word_stem": "eper",
+    "related_word_stem": [
+      "élőlény",
+      "szamóca",
+      "kultúra"
+    ]
+  },
+  {
+    "target_word": "véna",
+    "related_word": [
+      "tehetség",
+      "telér",
+      "gyűjtőér"
+    ],
+    "target_word_stem": "véna",
+    "related_word_stem": [
+      "tehetség",
+      "telér",
+      "gyűjtőér"
+    ]
+  },
+  {
+    "target_word": "körte",
+    "related_word": [
+      "izzó",
+      "égő",
+      "élőlény"
+    ],
+    "target_word_stem": "körte",
+    "related_word_stem": [
+      "izzó",
+      "égő",
+      "élőlény"
+    ]
+  },
+  {
+    "target_word": "baromfi",
+    "related_word": [
+      "szárnyas",
+      "csibe",
+      "házityúk"
+    ],
+    "target_word_stem": "baromfi",
+    "related_word_stem": [
+      "szárnyas",
+      "csibe",
+      "házityúk"
+    ]
+  }
+]

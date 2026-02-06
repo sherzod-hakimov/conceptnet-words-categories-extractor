@@ -1,0 +1,44 @@
+[
+  {
+    "target_word": "moteris",
+    "related_word": [
+      "vyras",
+      "asmenybe",
+      "asmuo"
+    ],
+    "target_word_stem": "moteris",
+    "related_word_stem": [
+      "vyras",
+      "asmenybe",
+      "asmuo"
+    ]
+  },
+  {
+    "target_word": "oda",
+    "related_word": [
+      "kailis",
+      "šikšna",
+      "žievė"
+    ],
+    "target_word_stem": "oda",
+    "related_word_stem": [
+      "kailis",
+      "šikšna",
+      "žievė"
+    ]
+  },
+  {
+    "target_word": "kampas",
+    "related_word": [
+      "kerte",
+      "pastoge",
+      "briauna"
+    ],
+    "target_word_stem": "kampas",
+    "related_word_stem": [
+      "kerte",
+      "pastoge",
+      "briauna"
+    ]
+  }
+]

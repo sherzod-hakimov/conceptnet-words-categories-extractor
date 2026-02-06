@@ -1,0 +1,128 @@
+[
+  {
+    "target_word": "by",
+    "related_word": [
+      "bymidte",
+      "bymæssig",
+      "landsby"
+    ],
+    "target_word_stem": "by",
+    "related_word_stem": [
+      "bymidte",
+      "bymæssig",
+      "landsby"
+    ]
+  },
+  {
+    "target_word": "sort",
+    "related_word": [
+      "neger",
+      "abekat",
+      "afrikaner"
+    ],
+    "target_word_stem": "sort",
+    "related_word_stem": [
+      "neger",
+      "abekat",
+      "afrikaner"
+    ]
+  },
+  {
+    "target_word": "kamp",
+    "related_word": [
+      "slag",
+      "træfning",
+      "dyst"
+    ],
+    "target_word_stem": "kamp",
+    "related_word_stem": [
+      "slag",
+      "træfning",
+      "dyst"
+    ]
+  },
+  {
+    "target_word": "agent",
+    "related_word": [
+      "spion",
+      "kommissionær",
+      "repræsentant"
+    ],
+    "target_word_stem": "agent",
+    "related_word_stem": [
+      "spion",
+      "kommissionær",
+      "repræsentant"
+    ]
+  },
+  {
+    "target_word": "flod",
+    "related_word": [
+      "højvande",
+      "bæk",
+      "å"
+    ],
+    "target_word_stem": "flod",
+    "related_word_stem": [
+      "højvande",
+      "bæk",
+      "å"
+    ]
+  },
+  {
+    "target_word": "vind",
+    "related_word": [
+      "fjert",
+      "prut",
+      "blæst"
+    ],
+    "target_word_stem": "vind",
+    "related_word_stem": [
+      "fjert",
+      "prut",
+      "blæst"
+    ]
+  },
+  {
+    "target_word": "hustru",
+    "related_word": [
+      "ægtefælle",
+      "frue",
+      "viv"
+    ],
+    "target_word_stem": "hustru",
+    "related_word_stem": [
+      "ægtefælle",
+      "frue",
+      "viv"
+    ]
+  },
+  {
+    "target_word": "mus",
+    "related_word": [
+      "dyr",
+      "gnaver",
+      "hvirveldyr"
+    ],
+    "target_word_stem": "mus",
+    "related_word_stem": [
+      "dyr",
+      "gnaver",
+      "hvirveldyr"
+    ]
+  },
+  {
+    "target_word": "hår",
+    "related_word": [
+      "bakkenbart",
+      "overskæg",
+      "skæg"
+    ],
+    "target_word_stem": "hår",
+    "related_word_stem": [
+      "bakkenbart",
+      "overskæg",
+      "skæg"
+    ]
+  }
+]

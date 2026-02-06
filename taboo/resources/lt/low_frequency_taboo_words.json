@@ -1,0 +1,100 @@
+[
+  {
+    "target_word": "vyras",
+    "related_word": [
+      "moteris",
+      "asmenybe",
+      "asmuo"
+    ],
+    "target_word_stem": "vyras",
+    "related_word_stem": [
+      "moteris",
+      "asmenybe",
+      "asmuo"
+    ]
+  },
+  {
+    "target_word": "burna",
+    "related_word": [
+      "snukis",
+      "gomurys",
+      "lūpa"
+    ],
+    "target_word_stem": "burna",
+    "related_word_stem": [
+      "snukis",
+      "gomurys",
+      "lūpa"
+    ]
+  },
+  {
+    "target_word": "kampas",
+    "related_word": [
+      "kerte",
+      "pastoge",
+      "briauna"
+    ],
+    "target_word_stem": "kampas",
+    "related_word_stem": [
+      "kerte",
+      "pastoge",
+      "briauna"
+    ]
+  },
+  {
+    "target_word": "varlė",
+    "related_word": [
+      "amfibija",
+      "rupuže",
+      "salamandra"
+    ],
+    "target_word_stem": "varlė",
+    "related_word_stem": [
+      "amfibija",
+      "rupuže",
+      "salamandra"
+    ]
+  },
+  {
+    "target_word": "gluosnis",
+    "related_word": [
+      "medis",
+      "blinde",
+      "karklas"
+    ],
+    "target_word_stem": "gluosnis",
+    "related_word_stem": [
+      "medis",
+      "blinde",
+      "karklas"
+    ]
+  },
+  {
+    "target_word": "žievė",
+    "related_word": [
+      "oda",
+      "pluta",
+      "tošis"
+    ],
+    "target_word_stem": "žievė",
+    "related_word_stem": [
+      "oda",
+      "pluta",
+      "tošis"
+    ]
+  },
+  {
+    "target_word": "kaukolė",
+    "related_word": [
+      "galva",
+      "griaučiai",
+      "skeletas"
+    ],
+    "target_word_stem": "kaukolė",
+    "related_word_stem": [
+      "galva",
+      "griaučiai",
+      "skeletas"
+    ]
+  }
+]

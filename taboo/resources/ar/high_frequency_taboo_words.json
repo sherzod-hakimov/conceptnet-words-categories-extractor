@@ -1,0 +1,114 @@
+[
+  {
+    "target_word": "حياة",
+    "related_word": [
+      "استحياء",
+      "الست المستحية",
+      "عمر"
+    ],
+    "target_word_stem": "حياة",
+    "related_word_stem": [
+      "استحياء",
+      "الست المستحية",
+      "عمر"
+    ]
+  },
+  {
+    "target_word": "حقيقة",
+    "related_word": [
+      "باطل",
+      "كذبة",
+      "صدق"
+    ],
+    "target_word_stem": "حقيقة",
+    "related_word_stem": [
+      "باطل",
+      "كذبة",
+      "صدق"
+    ]
+  },
+  {
+    "target_word": "نصف",
+    "related_word": [
+      "تسع",
+      "ثلث",
+      "ثمن"
+    ],
+    "target_word_stem": "نصف",
+    "related_word_stem": [
+      "تسع",
+      "ثلث",
+      "ثمن"
+    ]
+  },
+  {
+    "target_word": "أخ",
+    "related_word": [
+      "شقيق",
+      "اخاء",
+      "اخوية"
+    ],
+    "target_word_stem": "أخ",
+    "related_word_stem": [
+      "شقيق",
+      "اخاء",
+      "اخوية"
+    ]
+  },
+  {
+    "target_word": "زوج",
+    "related_word": [
+      "اثنان",
+      "بعل",
+      "امراة"
+    ],
+    "target_word_stem": "زوج",
+    "related_word_stem": [
+      "اثنان",
+      "بعل",
+      "امراة"
+    ]
+  },
+  {
+    "target_word": "يسوع",
+    "related_word": [
+      "عيسى",
+      "المسيح",
+      "يشوع"
+    ],
+    "target_word_stem": "يسوع",
+    "related_word_stem": [
+      "عيسى",
+      "المسيح",
+      "يشوع"
+    ]
+  },
+  {
+    "target_word": "برج",
+    "related_word": [
+      "قلعة",
+      "معقل",
+      "حصن"
+    ],
+    "target_word_stem": "برج",
+    "related_word_stem": [
+      "قلعة",
+      "معقل",
+      "حصن"
+    ]
+  },
+  {
+    "target_word": "أصل",
+    "related_word": [
+      "فرع",
+      "استيصال",
+      "اصالة"
+    ],
+    "target_word_stem": "أصل",
+    "related_word_stem": [
+      "فرع",
+      "استيصال",
+      "اصالة"
+    ]
+  }
+]

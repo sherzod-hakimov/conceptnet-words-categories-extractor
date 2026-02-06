@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large generated resources
+taboo/resources/en/word_relations_with_similarity.json

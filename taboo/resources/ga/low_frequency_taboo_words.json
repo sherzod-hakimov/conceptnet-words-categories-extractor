@@ -1,0 +1,128 @@
+[
+  {
+    "target_word": "cúl",
+    "related_word": [
+      "báire",
+      "tóin",
+      "góraí"
+    ],
+    "target_word_stem": "cúl",
+    "related_word_stem": [
+      "báire",
+      "tóin",
+      "góraí"
+    ]
+  },
+  {
+    "target_word": "scian",
+    "related_word": [
+      "forc",
+      "gabhlóg",
+      "spúnóg"
+    ],
+    "target_word_stem": "scian",
+    "related_word_stem": [
+      "forc",
+      "gabhlóg",
+      "spúnóg"
+    ]
+  },
+  {
+    "target_word": "léiriú",
+    "related_word": [
+      "seó",
+      "taispeántas",
+      "eiseamláir"
+    ],
+    "target_word_stem": "léiriú",
+    "related_word_stem": [
+      "seó",
+      "taispeántas",
+      "eiseamláir"
+    ]
+  },
+  {
+    "target_word": "forc",
+    "related_word": [
+      "píce",
+      "gabhlóg",
+      "scian"
+    ],
+    "target_word_stem": "forc",
+    "related_word_stem": [
+      "píce",
+      "gabhlóg",
+      "scian"
+    ]
+  },
+  {
+    "target_word": "inneall",
+    "related_word": [
+      "troscán",
+      "socrú",
+      "ord"
+    ],
+    "target_word_stem": "inneall",
+    "related_word_stem": [
+      "troscán",
+      "socrú",
+      "ord"
+    ]
+  },
+  {
+    "target_word": "roinn",
+    "related_word": [
+      "cuid",
+      "cúige",
+      "leath"
+    ],
+    "target_word_stem": "roinn",
+    "related_word_stem": [
+      "cuid",
+      "cúige",
+      "leath"
+    ]
+  },
+  {
+    "target_word": "carr",
+    "related_word": [
+      "féan",
+      "vaigín",
+      "gluaisteán"
+    ],
+    "target_word_stem": "carr",
+    "related_word_stem": [
+      "féan",
+      "vaigín",
+      "gluaisteán"
+    ]
+  },
+  {
+    "target_word": "spúnóg",
+    "related_word": [
+      "forc",
+      "gabhlóg",
+      "scian"
+    ],
+    "target_word_stem": "spúnóg",
+    "related_word_stem": [
+      "forc",
+      "gabhlóg",
+      "scian"
+    ]
+  },
+  {
+    "target_word": "aintín",
+    "related_word": [
+      "neacht",
+      "nia",
+      "uncail"
+    ],
+    "target_word_stem": "aintín",
+    "related_word_stem": [
+      "neacht",
+      "nia",
+      "uncail"
+    ]
+  }
+]

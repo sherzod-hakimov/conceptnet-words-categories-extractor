@@ -1,0 +1,86 @@
+[
+  {
+    "target_word": "správa",
+    "related_word": [
+      "hlásenie",
+      "novina",
+      "zvesť"
+    ],
+    "target_word_stem": "správa",
+    "related_word_stem": [
+      "hlásenie",
+      "novina",
+      "zvesť"
+    ]
+  },
+  {
+    "target_word": "mesiac",
+    "related_word": [
+      "luna",
+      "satelit",
+      "deň"
+    ],
+    "target_word_stem": "mesiac",
+    "related_word_stem": [
+      "luna",
+      "satelit",
+      "deň"
+    ]
+  },
+  {
+    "target_word": "pravda",
+    "related_word": [
+      "samozrejme",
+      "lož",
+      "klamstvo"
+    ],
+    "target_word_stem": "pravda",
+    "related_word_stem": [
+      "samozrejme",
+      "lož",
+      "klamstvo"
+    ]
+  },
+  {
+    "target_word": "princ",
+    "related_word": [
+      "kráľovič",
+      "infant",
+      "knieža"
+    ],
+    "target_word_stem": "princ",
+    "related_word_stem": [
+      "kráľovič",
+      "infant",
+      "knieža"
+    ]
+  },
+  {
+    "target_word": "ja",
+    "related_word": [
+      "my",
+      "on",
+      "oni"
+    ],
+    "target_word_stem": "ja",
+    "related_word_stem": [
+      "my",
+      "on",
+      "oni"
+    ]
+  },
+  {
+    "target_word": "česť",
+    "related_word": [
+      "ctižiadostivec",
+      "ctíť",
+      "ctižiadostivý"
+    ],
+    "target_word_stem": "česť",
+    "related_word_stem": [
+      "ctižiadostivec",
+      "ctíť",
+      "ctižiadostivý"
+    ]
+  }
+]

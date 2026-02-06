@@ -1,0 +1,170 @@
+[
+  {
+    "target_word": "sand",
+    "related_word": [
+      "rigtig",
+      "egentlig",
+      "ægte"
+    ],
+    "target_word_stem": "sand",
+    "related_word_stem": [
+      "rigtig",
+      "egentlig",
+      "ægte"
+    ]
+  },
+  {
+    "target_word": "sky",
+    "related_word": [
+      "genert",
+      "bange",
+      "forlegen"
+    ],
+    "target_word_stem": "sky",
+    "related_word_stem": [
+      "genert",
+      "bange",
+      "forlegen"
+    ]
+  },
+  {
+    "target_word": "kamp",
+    "related_word": [
+      "slag",
+      "træfning",
+      "dyst"
+    ],
+    "target_word_stem": "kamp",
+    "related_word_stem": [
+      "slag",
+      "træfning",
+      "dyst"
+    ]
+  },
+  {
+    "target_word": "rædsel",
+    "related_word": [
+      "skræk",
+      "angst",
+      "gru"
+    ],
+    "target_word_stem": "rædsel",
+    "related_word_stem": [
+      "skræk",
+      "angst",
+      "gru"
+    ]
+  },
+  {
+    "target_word": "abe",
+    "related_word": [
+      "dyr",
+      "pattedyr",
+      "ansvar"
+    ],
+    "target_word_stem": "abe",
+    "related_word_stem": [
+      "dyr",
+      "pattedyr",
+      "ansvar"
+    ]
+  },
+  {
+    "target_word": "ægtefælle",
+    "related_word": [
+      "hustru",
+      "mand",
+      "kone"
+    ],
+    "target_word_stem": "ægtefælle",
+    "related_word_stem": [
+      "hustru",
+      "mand",
+      "kone"
+    ]
+  },
+  {
+    "target_word": "opfattelse",
+    "related_word": [
+      "begreb",
+      "idé",
+      "mening"
+    ],
+    "target_word_stem": "opfattelse",
+    "related_word_stem": [
+      "begreb",
+      "idé",
+      "mening"
+    ]
+  },
+  {
+    "target_word": "høg",
+    "related_word": [
+      "dyr",
+      "hvirveldyr",
+      "rovfugl"
+    ],
+    "target_word_stem": "høg",
+    "related_word_stem": [
+      "dyr",
+      "hvirveldyr",
+      "rovfugl"
+    ]
+  },
+  {
+    "target_word": "accent",
+    "related_word": [
+      "tegn",
+      "betoning",
+      "hovedvægt"
+    ],
+    "target_word_stem": "accent",
+    "related_word_stem": [
+      "tegn",
+      "betoning",
+      "hovedvægt"
+    ]
+  },
+  {
+    "target_word": "onkel",
+    "related_word": [
+      "morbror",
+      "nevø",
+      "tante"
+    ],
+    "target_word_stem": "onkel",
+    "related_word_stem": [
+      "morbror",
+      "nevø",
+      "tante"
+    ]
+  },
+  {
+    "target_word": "ravn",
+    "related_word": [
+      "dyr",
+      "hvirveldyr",
+      "fugl"
+    ],
+    "target_word_stem": "ravn",
+    "related_word_stem": [
+      "dyr",
+      "hvirveldyr",
+      "fugl"
+    ]
+  },
+  {
+    "target_word": "krage",
+    "related_word": [
+      "fugl",
+      "hvirveldyr",
+      "dyr"
+    ],
+    "target_word_stem": "krage",
+    "related_word_stem": [
+      "fugl",
+      "hvirveldyr",
+      "dyr"
+    ]
+  }
+]
